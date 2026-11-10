@@ -19,8 +19,25 @@ from email.utils import parsedate_to_datetime
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KST = timezone(timedelta(hours=9))
-NEWS_URL = "https://openapi.naver.com/v1/search/news.json"
-DATALAB_URL = "https://openapi.naver.com/v1/datalab/search"
+# 키 종류에 따라 호출 주소와 인증 헤더가 다르다.
+#  - hub: 네이버 클라우드 NAVER API HUB에서 발급한 키(Secret 40자)
+#  - legacy: 네이버 개발자센터(openapi.naver.com)에서 발급한 키
+API = {
+    "hub": {
+        "news": "https://naverapihub.apigw.ntruss.com/search/v1/news",
+        "trend": "https://naverapihub.apigw.ntruss.com/search-trend/v1/search",
+        "id": "X-NCP-APIGW-API-KEY-ID", "secret": "X-NCP-APIGW-API-KEY",
+    },
+    "legacy": {
+        "news": "https://openapi.naver.com/v1/search/news.json",
+        "trend": "https://openapi.naver.com/v1/datalab/search",
+        "id": "X-Naver-Client-Id", "secret": "X-Naver-Client-Secret",
+    },
+}
+
+
+def kind_of(secret):
+    return "hub" if len(secret) >= 30 else "legacy"
 TAG = re.compile(r"<[^>]+>")
 
 
@@ -38,7 +55,8 @@ def host_of(url):
 
 
 def call(url, cid, secret, body=None, tries=3):
-    headers = {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": secret}
+    api = API[kind_of(secret)]
+    headers = {api["id"]: cid, api["secret"]: secret}
     data = None
     if body is not None:
         data = json.dumps(body, ensure_ascii=False).encode("utf-8")
@@ -99,7 +117,7 @@ def collect_news(cfg, cid, secret, now):
         for kw in g.get("keywords", []):
             q = urllib.parse.urlencode({"query": kw, "display": 50, "start": 1, "sort": "date"})
             try:
-                kws.append(parse_news(call(NEWS_URL + "?" + q, cid, secret), kw, since, per))
+                kws.append(parse_news(call(API[kind_of(secret)]["news"] + "?" + q, cid, secret), kw, since, per))
             except Exception as e:
                 errors.append({"keyword": kw, "error": str(e)})
                 kws.append({"keyword": kw, "total": 0, "items": [], "failed": True})
@@ -126,7 +144,7 @@ def collect_trends(cfg, cid, secret, now):
             "keywordGroups": [{"groupName": g["name"], "keywords": g["keywords"][:20]} for g in groups],
         }
         try:
-            raw = call(DATALAB_URL, cid, secret, body)
+            raw = call(API[kind_of(secret)]["trend"], cid, secret, body)
             series = [{
                 "name": r.get("title", ""), "keywords": r.get("keywords", []),
                 "data": [{"period": d["period"], "ratio": round(float(d["ratio"]), 2)} for d in r.get("data", [])],
@@ -161,7 +179,8 @@ def main():
         return 2
     with open(os.path.join(ROOT, "naver", "config.json"), encoding="utf-8") as f:
         cfg = json.load(f)
-    # 값 자체는 찍지 않고 글자 수만 남긴다(네이버 Client ID는 보통 20자, Secret은 10자)
+    # 값 자체는 찍지 않고 글자 수만 남긴다(개발자센터 키는 ID 20자·Secret 10자, API HUB 키는 ID 10자·Secret 40자)
+    print("키 종류 — 검색 %s, 데이터랩 %s" % (kind_of(secret), kind_of(os.environ.get("NAVER_DATALAB_CLIENT_SECRET", "").strip() or secret)))
     print("키 길이 — 검색 ID %d자 / Secret %d자, 데이터랩 ID %d자 / Secret %d자" % (
         len(cid), len(secret),
         len(os.environ.get("NAVER_DATALAB_CLIENT_ID", "").strip()),
