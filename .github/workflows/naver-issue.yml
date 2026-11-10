@@ -1,0 +1,46 @@
+name: 네이버 이슈 검색
+
+on:
+  workflow_dispatch:
+    inputs:
+      query:
+        description: 검색어
+        required: true
+      id:
+        description: 요청 id
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: naver-issue-${{ inputs.id }}
+  cancel-in-progress: false
+
+jobs:
+  search:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: 검색·묶기
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          ISSUE_QUERY: ${{ inputs.query }}
+          ISSUE_ID: ${{ inputs.id }}
+        run: python3 naver/issue.py
+      - name: 결과 저장
+        if: always()
+        run: |
+          if [ ! -d data/naver/issues ]; then echo "결과 없음"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/naver/issues
+          if git diff --cached --quiet; then echo "바뀐 내용 없음"; exit 0; fi
+          git commit -m "이슈 검색 결과"
+          for i in 1 2 3 4; do
+            if git push; then exit 0; fi
+            git pull --rebase
+          done
+          exit 1
