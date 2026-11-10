@@ -146,6 +146,14 @@
      "keyword": "정정보도",
      "items": [
       {
+       "title": "겹악재에 성공할까… AI 투자 붐, 앤트로픽 상장에 달렸다",
+       "desc": "(현지시간) 보도했다. 앤트로픽 상장은 단일 기업의 데뷔전을 넘어, 지난 수년간 전 세계 자본시장을... 부정확하다고 정정하며 철회 및 추후 수정 방침을 밝혔다. 당시 철회된 이메일에는 앤트로픽이…",
+       "url": "https://www.dt.co.kr/article/12094306?ref=naver",
+       "naverUrl": "https://n.news.naver.com/mnews/article/029/0003058264?sid=104",
+       "outlet": "dt.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
        "title": "구미시, 300MW AI 데이터센터 사업 무산설 반박…\"정상 추진\"",
        "desc": "시는 사실과 다른 보도로 사업시행자와 지역 투자 환경에 혼선이 발생한 데 대해 유감을 표명하고, 관련 보도 내용에 대한 정정을 요청했다. 구미시 관계자는 AI 데이터센터 사업은 현재 각 사업시행자…",
        "url": "https://www.hidomin.com/news/articleView.html?idxno=728758",
@@ -315,6 +323,14 @@
     {
      "keyword": "한국기자협회",
      "items": [
+      {
+       "title": "[현장+] HD현대중공업, 로봇 뒤엔 사람이 있었다…54년 숙련 기술 AI로",
+       "desc": "바탕으로 2030년까지 스마트 조선소를 구축해 생산성을 30% 향상하고 선박 건조 기간은 30% 단축한다는 목표다. [1코노미뉴스 = 김현찬 기자] ※ 본 기사는 (재)바다의품과 (사)한국해양기자…",
+       "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51192",
+       "naverUrl": "",
+       "outlet": "1conomynews.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
       {
        "title": "[르포] 생산성 3배 로봇이 사람 대신 용접…HD현대중공업 울산조선소, 피...",
        "desc": "치열한 경쟁 속에서 생존하기 위해서는 사람이 보유한 역량을 디지털 자산으로 전환해야 한다\"고 강조했다. [이 기사는 (재)바다의품과 (사)한국해양기자협회 지원을 받아 작성됐습니다.] [필드뉴스 =…",
@@ -910,6 +926,38 @@
      "keyword": "실적 발표",
      "items": [
       {
+       "title": "증산 앞둔 포스코홀딩스···리튬값 급락에 성과 내보일까",
+       "desc": "이재영 포스코홀딩스 에너지소재사업관리실장은 3분기 실적발표 컨퍼런스콜에서 \"상반기는 램프업 기간이기 때문에 영업이익을 논하기 쉽지 않지만 하반기부터, 3분기부터는 영업이익이 날 것으로 생각하고 있…",
+       "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=424924",
+       "naverUrl": "",
+       "outlet": "sisajournal-e.com",
+       "publishedAt": "2026-11-10T16:32:00+09:00"
+      },
+      {
+       "title": "KT, 실적 주춤해도 AIDC 수주 늘었다…통신 3사 'AI 인프라' 경쟁",
+       "desc": "민혜병 KT 재무실장(CFO)는 이날 실적발표 컨퍼런스콜에서 “B2B AIDC 수주 확대로 3분기 누적 수주가 전년 동기 대비 20% 증가했다”며 “3분기 누적 AX 매출은 전년 동기 대비 11.…",
+       "url": "https://www.etoday.co.kr/news/view/2646439",
+       "naverUrl": "",
+       "outlet": "etoday.co.kr",
+       "publishedAt": "2026-11-10T16:32:00+09:00"
+      },
+      {
+       "title": "로켓랩, 수주잔액 50% 급증에도 시간외 주가 4.5% 하락",
+       "desc": "이날 로켓랩 주가는 정규장에서 10.9% 급등했지만 실적 발표 이후 시간외 거래에서 4.5% 내린 56.24달러를 기록했다. 최근 우주 관련주의 주가 변동성이 커진 가운데 차익 실현 매물이 나온…",
+       "url": "https://www.hankyung.com/article/202611108081i",
+       "naverUrl": "https://n.news.naver.com/mnews/article/015/0005352351?sid=104",
+       "outlet": "hankyung.com",
+       "publishedAt": "2026-11-10T16:31:00+09:00"
+      },
+      {
+       "title": "[IR]크래프톤 \"자체 LLM 라온, 산업별 특화 모델 개발 추진\"",
+       "desc": "김 대표는 10일 3분기 실적발표 콘퍼런스콜에서 \"지난 10월 21일 공개한 라온-1 미니 프리뷰는 국내 동급 모델 중 최고 수준의 성능을 입증했다\"며 \"특히 한국어에 특화된 성능과 높은 추론 효…",
+       "url": "https://www.news1.kr/it-science/game-review/6349403",
+       "naverUrl": "https://n.news.naver.com/mnews/article/421/0009281745?sid=105",
+       "outlet": "news1.kr",
+       "publishedAt": "2026-11-10T16:31:00+09:00"
+      },
+      {
        "title": "[컨콜] KT, AI 데이터센터 개발 후보 1.4GW 확보…B2B 수주 내년 매출 전...",
        "desc": "김봉균 KT 엔터프라이즈부문장은 10일 열린 2026년 3분기 실적발표 컨퍼런스콜에서 주요 개발 후보 20개소, 911MW와 예비 후보 10개소, 500MW를 확보했다고 밝혔다. 두 후보군을 합친…",
        "url": "https://www.itdaily.kr/news/articleView.html?idxno=242818",
@@ -939,6 +987,22 @@
        "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325453",
        "naverUrl": "",
        "outlet": "pointdaily.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "KT, 3분기 영업익 5053억으로 6.1%↓…AX 효과는 가시화 (종합)",
+       "desc": "이날 실적 발표 컨퍼런스콜에서는 AX 도입에 따른 구체적인 성과도 공개됐다. 박현진 KT 커스터머부문장은 \"AI 상담사 도입으로 고객 서비스 문의가 자동 처리되는 비율이 높아짐에 따라 필요한 인력…",
+       "url": "https://www.mt.co.kr/tech/2026/11/10/2026111016113547424",
+       "naverUrl": "https://n.news.naver.com/mnews/article/008/0005439176?sid=105",
+       "outlet": "mt.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "[컨콜] KT \"AI 데이터센터, 2031년까지 1GW 증설\"",
+       "desc": "김봉균 KT 엔터프라이즈부문장은 10일 KT 3분기 실적 발표 컨퍼런스콜에서 \"현재까지 확보한 파이프라인은 메인으로 20개소, 911MW 정도이며 백업으로 10개소, 500MW 정도를 확보하고 있…",
+       "url": "http://www.inews24.com/view/2024677",
+       "naverUrl": "https://n.news.naver.com/mnews/article/031/0001073844?sid=105",
+       "outlet": "inews24.com",
        "publishedAt": "2026-11-10T16:30:00+09:00"
       },
       {
@@ -1020,60 +1084,20 @@
        "naverUrl": "https://n.news.naver.com/mnews/article/469/0000964760?sid=105",
        "outlet": "hankookilbo.com",
        "publishedAt": "2026-11-10T16:23:00+09:00"
-      },
-      {
-       "title": "HD건설기계, 북미 발전용 엔진 5534억 수주… 대금 90%는 납품 따라 청구",
-       "desc": "PSI는 지난 5일 실적 발표에서 데이터센터용 제품 판매가 늘었다고 밝혔다. 향후 매출에 반영되는 시점과 규모는 고객 일정과 생산 속도, 공급망 여건에 따라 달라질 수 있다고 설명했다. 이는 PS…",
-       "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67443",
-       "naverUrl": "",
-       "outlet": "newsroad.co.kr",
-       "publishedAt": "2026-11-10T16:22:00+09:00"
-      },
-      {
-       "title": "[컨콜] KT “‘에이전틱 온’과 ‘매니지드 AX’로 본격적인 AX 사업 성...",
-       "desc": "KT는 10일 열린 2026년 3분기 실적발표 컨퍼런스콜에서 “2027년에는 그동안 다져온 AX 기반을 본격적인 사업 성장과 수익으로 연결하기 위해 두 가지 방향에 집중하겠다”고 밝혔다. 이어 “…",
-       "url": "https://www.viva100.com/article/20261110501149",
-       "naverUrl": "",
-       "outlet": "viva100.com",
-       "publishedAt": "2026-11-10T16:10:00+09:00"
-      },
-      {
-       "title": "넥슨, 3분기 영업이익 3718억원 11%↑…메이플·FC 온라인 분기 최대 매...",
-       "desc": "com 넥슨 2026년 3분기 실적 발표 자료 [사진=넥슨] 넥슨이 '메이플스토리' 프랜차이즈와 'FC 온라인'의 흥행에 힘입어 올해 3분기 매출과 영업이익이 동반 성장했다. 두 게임 모두 분기…",
-       "url": "https://www.ajunews.com/view/20261110160311845",
-       "naverUrl": "",
-       "outlet": "ajunews.com",
-       "publishedAt": "2026-11-10T16:10:00+09:00"
-      },
-      {
-       "title": "이제 실적은 기초 스펙…내년에도 돈 벌어줄 유망주 잡아라",
-       "desc": "증권가에선 앞으로 남은 실적 발표에서도 이같은 기준을 충족할 수 있는지가 관건이 될 것으로 보고 있다. ◇호실적 내도 지속가능성이 관건 삼성E&A가 대표적이다. 지난달 말 3분기 실적 발표에서 영…",
-       "url": "https://www.hankyung.com/article/2026111067401",
-       "naverUrl": "https://n.news.naver.com/mnews/article/015/0005352339?sid=101",
-       "outlet": "hankyung.com",
-       "publishedAt": "2026-11-10T16:10:00+09:00"
-      },
-      {
-       "title": "삼성SDI 최대 고객사 BMW 배터리 공급 입지 좁아져, 최주선 유럽은 중국...",
-       "desc": "BMW는 지난 9일(현지시각) 진행한 3분기 실적 발표회에서 차세대 전기차 플랫폼 '노이에 클라쎄'에 탑재하는 배터리를 다변화할 것이라고 밝혔다. 이날 밀란 네델코비치 BMW 최고경영자(CEO)는…",
-       "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451639",
-       "naverUrl": "",
-       "outlet": "businesspost.co.kr",
-       "publishedAt": "2026-11-10T16:10:00+09:00"
-      },
-      {
-       "title": "[컨콜] KT “내년 주주환원 기조 유지…자사주 매입도 계획대로”",
-       "desc": "민혜병 KT 최고재무책임자(CFO·전무)는 10일 진행된 3분기 실적 발표 콘퍼런스콜에서 “지금까지 해왔던 주주환원 정책을 일관적으로 추진할 수 있도록 하겠다”고 말했다. 올해 연간 최소 배당금은…",
-       "url": "https://www.sentv.co.kr/article/view/sentv202611100175",
-       "naverUrl": "",
-       "outlet": "sentv.co.kr",
-       "publishedAt": "2026-11-10T16:10:00+09:00"
       }
      ]
     },
     {
      "keyword": "반도체 업황",
      "items": [
+      {
+       "title": "'돌아온 외국인'에 코스피 4.39% 급등…AI 공포 걷혔나",
+       "desc": "최근 반도체주 급락이 기업 실적이나 업황 악화보다는 헤지펀드의 급격한 포트폴리오 조정에 따른 수급 충격에서 비롯됐다는 분석도 나온다. 미국의 이란 추가 공습 가능성이 낮아졌다는 관측 속에 국제유가…",
+       "url": "https://www.sisajournal.com/news/articleView.html?idxno=393512",
+       "naverUrl": "https://n.news.naver.com/mnews/article/586/0000141997?sid=101",
+       "outlet": "sisajournal.com",
+       "publishedAt": "2026-11-10T16:31:00+09:00"
+      },
       {
        "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 10일)",
        "desc": "애널리스트들은 왜 지금 반도체를 팔지 말라고 할까AI 산업 성장세에 대한 불안감이 커지면서 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들의 주가 변동성이 확대됐다. 하지만 증권가에서는 메모리…",
@@ -1176,6 +1200,22 @@
      "keyword": "배터리 업계",
      "items": [
       {
+       "title": "'100년 기업' 닻 올린 LS MnM, 배터리 소재로 띄운 승부수",
+       "desc": "중국산 비중이 절대적인 이차전지 기초 소재 시장에서 국내 제련 기술 기반의 자체 생산 물량이 풀리면, 글로벌 공급망 규제에 대응해야 하는 국내 배터리 업계의 원료 국산화에도 숨통이 트일 것으로 관…",
+       "url": "https://news.bizwatch.co.kr/article/industry/2026/11/10/0038",
+       "naverUrl": "https://n.news.naver.com/mnews/article/648/0000052479?sid=101",
+       "outlet": "bizwatch.co.kr",
+       "publishedAt": "2026-11-10T16:31:00+09:00"
+      },
+      {
+       "title": "LS MnM, 배터리소재 온산공장 준공⋯전기차 50만대분 황산니켈 생산",
+       "desc": "글로벌 제련·배터리 업계에서 원료 확보 경쟁이 치열해지는 상황에서 원료 공급사와 공동 투자·개발을 추진하고 고객사에는 안정적인 소재 공급체계를 제공한다는 계획이다. 구자은 LS그룹 회장은 \"LS…",
+       "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601975",
+       "naverUrl": "",
+       "outlet": "autodaily.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
        "title": "삼성·LG, CES 2027 혁신상 대거 수상…AI·전장·배터리 기술력 뽐내(종...",
        "desc": "인공지능(AI)과 디스플레이, 전장, 배터리 등 다양한 분야에서 기술 경쟁력을 인정받았다. 사진은 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 TV'. (사진=LG전자)…",
        "url": "https://www.edaily.co.kr/News/Read?newsId=05195526645644408&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
@@ -1268,6 +1308,22 @@
     {
      "keyword": "유통업계",
      "items": [
+      {
+       "title": "신유열, 태국 CP그룹과 협력 확대…롯데 식음료 2700여개 매장 입점 추진",
+       "desc": "국내 식품·유통기업들은 내수 성장 둔화에 대응해 태국을 비롯한 동남아시아 시장에서 새로운 판로를 모색하고 있다.유통업계 한 관계자는 \"국내 기업들이 태국에 주목하는 배경에는 내수 시장의 성장 둔화…",
+       "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261110010003789",
+       "naverUrl": "",
+       "outlet": "asiatoday.co.kr",
+       "publishedAt": "2026-11-10T16:32:00+09:00"
+      },
+      {
+       "title": "'럭셔리 패션·뷰티 날개' 신세계인터내셔날, 3분기 영업익 51억…흑자 ...",
+       "desc": "계절적 비수기라는 유통업계의 한계를 뚫고 3개 분기 연속 두 자릿수 성장세를 유지하며 외형 확장과 수익성 반등을 동시에 이끌어냈다. 사업 부문별로는 패션 부문의 성과가 돋보였다. 3분기 패션 부문…",
+       "url": "https://www.widedaily.com/news/articleView.html?idxno=303311",
+       "naverUrl": "",
+       "outlet": "widedaily.com",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
       {
        "title": "현금 대신 보증금 털어 납품대금 막은 홈플러스…공급 중단 위기에 매각...",
        "desc": "10일 유통업계에 따르면 홈플러스는 지난달 30일 집행 예정이던 신선식품 납품대금의 상당 부분을 현금으로 온전히 결제하지 못했다. 농산물과 수산물 분야의 경우 정산 대금 가운데 10%를 협력업체가…",
@@ -1370,11 +1426,27 @@
      "keyword": "플랫폼 규제",
      "items": [
       {
+       "title": "인터넷신문윤리위원회, 심석태 제5대 위원장 취임",
+       "desc": "디지털 플랫폼 확산과 뉴스 소비 행태 변화 속에서 인터넷신문이 공적 책임을 다할 수 있도록 지원하고, 자율규제 모델을 고도화하는 데 중점을 둘 것으로 보인다. ※ 심석태 신임 위원장 주요 약력 -…",
+       "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67451",
+       "naverUrl": "",
+       "outlet": "newsroad.co.kr",
+       "publishedAt": "2026-11-10T16:32:00+09:00"
+      },
+      {
        "title": "[현장] 로봇 가르치고 공장까지…엔비디아가 지금 한국서 벌이는 일",
        "desc": "손경찬 두산로보틱스 피지컬 AI 플랫폼 팀장은 \"지금 작동하는 대부분의 로봇 샌딩 셀은 작업자가 부품마다... 미국의 대중 반도체 수출 규제가 강화되면 엔비디아의 제품 공급 전략뿐 아니라 관련 H…",
        "url": "https://bizhankook.com/articles/nvidia-robotics-expansion-korea.html",
        "naverUrl": "",
        "outlet": "bizhankook.com",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "김형년 두나무 부회장 \"삼성전자·SK하이닉스 해외 거래 가슴아파\"",
+       "desc": "국내에서는 촘촘한 자본시장법 규제와 제도적 공백으로 서비스 출시가 막혀 있는 반면, 글로벌 시장에서는... 발행 잔액의 82%는 바이낸스, 온도 파이낸스, 로빈후드 등 글로벌 플랫폼이 차지하고 있…",
+       "url": "https://www.topdaily.kr/articles/112816",
+       "naverUrl": "",
+       "outlet": "topdaily.kr",
        "publishedAt": "2026-11-10T16:30:00+09:00"
       },
       {
@@ -1635,6 +1707,6 @@
    ]
   }
  ],
- "updatedAt": "2026-11-10T16:30:45+09:00",
- "count": 191
+ "updatedAt": "2026-11-10T16:32:46+09:00",
+ "count": 200
 }
