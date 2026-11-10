@@ -163,7 +163,10 @@ def main():
         cfg = json.load(f)
     now = datetime.now(KST)
     news = collect_news(cfg.get("news", {}), cid, secret, now)
-    trends = collect_trends(cfg.get("trends", {}), cid, secret, now)
+    # 데이터랩을 다른 애플리케이션으로 등록한 경우 전용 키를 쓴다(없으면 검색 키를 같이 쓴다)
+    dl_id = os.environ.get("NAVER_DATALAB_CLIENT_ID", "").strip() or cid
+    dl_secret = os.environ.get("NAVER_DATALAB_CLIENT_SECRET", "").strip() or secret
+    trends = collect_trends(cfg.get("trends", {}), dl_id, dl_secret, now)
     n_items = sum(len(k["items"]) for g in news["groups"] for k in g["keywords"])
     n_kw = sum(len(g["keywords"]) for g in news["groups"])
     ok_sets = sum(1 for s in trends["sets"] if not s.get("failed"))
