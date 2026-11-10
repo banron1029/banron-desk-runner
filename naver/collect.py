@@ -132,21 +132,26 @@ def collect_news(cfg, cid, secret, now):
     }
 
 
-def chain_trends(groups, fetch):
+def chain_trends(groups, fetch, anchor_name=None):
     """주제어를 5개씩 나눠 조회하되, 묶음마다 같은 기준 주제어를 넣어 값의 눈금을 하나로 맞춘다.
 
     네이버는 한 번에 5개까지만 비교해 주고 값은 그 5개 안의 상대값이다.
     기준 주제어가 매 조회에 들어가므로 그 비율로 나머지를 환산할 수 있다.
     fetch(groups) -> {이름: {날짜: 값}}
     """
-    first = groups[:5]
+    order = list(groups)
+    if anchor_name:  # 지정한 기준 주제어를 맨 앞으로
+        order.sort(key=lambda g: g["name"] != anchor_name)
+    first = order[:5]
     res = fetch(first)
     total = lambda d: sum(d.values())
     anchor = max(first, key=lambda g: total(res.get(g["name"], {})))
+    if anchor_name:
+        anchor = first[0]
     base = total(res.get(anchor["name"], {}))
     series = {g["name"]: res.get(g["name"], {}) for g in first}
     low = []
-    rest = groups[5:]
+    rest = order[5:]
     for i in range(0, len(rest), 4):
         part = rest[i:i + 4]
         r = fetch([anchor] + part)
@@ -190,7 +195,11 @@ def collect_trends(cfg, cid, secret, now):
 
     for s in cfg.get("sets", []):
         try:
-            periods, series, anchor, low = chain_trends(s.get("groups", [])[:20], fetch)
+            gs = s.get("groups", [])[:20]
+            periods, series, anchor, low = chain_trends(gs, fetch)
+            # 1위가 기준 주제어가 아니면 1위를 기준으로 다시 조회해 오차를 줄인다
+            if series and series[0]["name"] != anchor and len(gs) > 5:
+                periods, series, anchor, low = chain_trends(gs, fetch, series[0]["name"])
             sets.append({"name": s.get("name", ""), "periods": periods, "series": series,
                          "anchor": anchor, "lowPrecision": low})
         except Exception as e:
