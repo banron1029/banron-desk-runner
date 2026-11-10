@@ -132,28 +132,70 @@ def collect_news(cfg, cid, secret, now):
     }
 
 
+def chain_trends(groups, fetch):
+    """주제어를 5개씩 나눠 조회하되, 묶음마다 같은 기준 주제어를 넣어 값의 눈금을 하나로 맞춘다.
+
+    네이버는 한 번에 5개까지만 비교해 주고 값은 그 5개 안의 상대값이다.
+    기준 주제어가 매 조회에 들어가므로 그 비율로 나머지를 환산할 수 있다.
+    fetch(groups) -> {이름: {날짜: 값}}
+    """
+    first = groups[:5]
+    res = fetch(first)
+    total = lambda d: sum(d.values())
+    anchor = max(first, key=lambda g: total(res.get(g["name"], {})))
+    base = total(res.get(anchor["name"], {}))
+    series = {g["name"]: res.get(g["name"], {}) for g in first}
+    low = []
+    rest = groups[5:]
+    for i in range(0, len(rest), 4):
+        part = rest[i:i + 4]
+        r = fetch([anchor] + part)
+        a = total(r.get(anchor["name"], {}))
+        if a <= 0 or base <= 0:
+            low.extend(g["name"] for g in part)
+            for g in part:
+                series[g["name"]] = {}
+            continue
+        f = base / a
+        if a < 30:  # 기준 주제어가 너무 작게 잡혀 환산 오차가 커질 수 있음
+            low.extend(g["name"] for g in part)
+        for g in part:
+            series[g["name"]] = {k: v * f for k, v in r.get(g["name"], {}).items()}
+    top = max([v for d in series.values() for v in d.values()] or [0])
+    k = 100.0 / top if top > 0 else 1.0
+    periods = sorted({p for d in series.values() for p in d})
+    out = [{
+        "name": g["name"], "keywords": g["keywords"],
+        "values": [round(series[g["name"]].get(p, 0.0) * k, 2) for p in periods],
+    } for g in groups]
+    out.sort(key=lambda x: sum(x["values"][-7:]), reverse=True)
+    return periods, out, anchor["name"], low
+
+
 def collect_trends(cfg, cid, secret, now):
     end = (now - timedelta(days=1)).date()  # 당일 값은 미완성이라 전날까지
     start = end - timedelta(days=cfg.get("days", 30) - 1)
     sets, errors = [], []
-    for s in cfg.get("sets", []):
-        groups = s.get("groups", [])[:5]  # 한 번에 비교할 수 있는 주제어는 최대 5개
+
+    def fetch(groups):
         body = {
             "startDate": start.isoformat(), "endDate": end.isoformat(),
             "timeUnit": cfg.get("timeUnit", "date"),
             "keywordGroups": [{"groupName": g["name"], "keywords": g["keywords"][:20]} for g in groups],
         }
+        raw = call(API[kind_of(secret)]["trend"], cid, secret, body)
+        time.sleep(0.15)
+        return {r.get("title", ""): {d["period"]: float(d["ratio"]) for d in r.get("data", [])}
+                for r in raw.get("results", [])}
+
+    for s in cfg.get("sets", []):
         try:
-            raw = call(API[kind_of(secret)]["trend"], cid, secret, body)
-            series = [{
-                "name": r.get("title", ""), "keywords": r.get("keywords", []),
-                "data": [{"period": d["period"], "ratio": round(float(d["ratio"]), 2)} for d in r.get("data", [])],
-            } for r in raw.get("results", [])]
-            sets.append({"name": s.get("name", ""), "series": series})
+            periods, series, anchor, low = chain_trends(s.get("groups", [])[:20], fetch)
+            sets.append({"name": s.get("name", ""), "periods": periods, "series": series,
+                         "anchor": anchor, "lowPrecision": low})
         except Exception as e:
             errors.append({"set": s.get("name", ""), "error": str(e)})
-            sets.append({"name": s.get("name", ""), "series": [], "failed": True})
-        time.sleep(0.12)
+            sets.append({"name": s.get("name", ""), "periods": [], "series": [], "failed": True})
     return {
         "collectedAt": now.isoformat(timespec="seconds"),
         "startDate": start.isoformat(), "endDate": end.isoformat(),
