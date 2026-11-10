@@ -161,6 +161,11 @@ def main():
         return 2
     with open(os.path.join(ROOT, "naver", "config.json"), encoding="utf-8") as f:
         cfg = json.load(f)
+    # 값 자체는 찍지 않고 글자 수만 남긴다(네이버 Client ID는 보통 20자, Secret은 10자)
+    print("키 길이 — 검색 ID %d자 / Secret %d자, 데이터랩 ID %d자 / Secret %d자" % (
+        len(cid), len(secret),
+        len(os.environ.get("NAVER_DATALAB_CLIENT_ID", "").strip()),
+        len(os.environ.get("NAVER_DATALAB_CLIENT_SECRET", "").strip())))
     now = datetime.now(KST)
     news = collect_news(cfg.get("news", {}), cid, secret, now)
     # 데이터랩을 다른 애플리케이션으로 등록한 경우 전용 키를 쓴다(없으면 검색 키를 같이 쓴다)
