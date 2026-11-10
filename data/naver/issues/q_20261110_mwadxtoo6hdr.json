@@ -1,0 +1,20 @@
+{
+ "query": "광고주협회",
+ "collectedAt": "2026-11-10T16:45:54+09:00",
+ "windowStart": "2026-11-08T16:45:54+09:00",
+ "naverTotal": 20000,
+ "fetched": 100,
+ "inWindow": 1,
+ "clusters": [],
+ "singleCount": 1,
+ "singleSamples": [
+  {
+   "title": "\"주파수 몇이야?\" 이제 묻지마세요! '오디오' 아니고요, '모디오' 켜세요",
+   "outlet": "ytn.co.kr",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611101354391900",
+   "publishedAt": "2026-11-10T13:54:00+09:00"
+  }
+ ],
+ "truncated": false,
+ "id": "q_20261110_mwadxtoo6hdr"
+}
