@@ -30,6 +30,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -d data/naver ]; then echo "수집 결과 없음"; exit 0; fi
           git add data/naver
           if git diff --cached --quiet; then
             echo "바뀐 내용 없음"
