@@ -1,0 +1,38 @@
+{
+  "news": {
+    "windowHours": 36,
+    "perKeyword": 8,
+    "groups": [
+      { "category": "미디어", "keywords": ["언론중재위원회", "반론보도", "정정보도", "방송미디어통신위원회", "한국기자협회", "포털 뉴스 제휴", "OTT 광고"] },
+      { "category": "마케팅", "keywords": ["한국광고주협회", "광고 캠페인", "브랜드 마케팅", "디지털 광고 시장", "유통업계 마케팅", "광고비 집행"] },
+      { "category": "경제·산업", "keywords": ["실적 발표", "반도체 업황", "배터리 업계", "유통업계", "플랫폼 규제", "공정거래위원회 제재"] }
+    ]
+  },
+  "trends": {
+    "days": 30,
+    "timeUnit": "date",
+    "sets": [
+      { "name": "주요 기업", "groups": [
+        { "name": "삼성전자", "keywords": ["삼성전자"] },
+        { "name": "현대자동차", "keywords": ["현대자동차", "현대차"] },
+        { "name": "SK하이닉스", "keywords": ["SK하이닉스"] },
+        { "name": "LG전자", "keywords": ["LG전자"] },
+        { "name": "네이버", "keywords": ["네이버"] }
+      ] },
+      { "name": "유통·플랫폼", "groups": [
+        { "name": "쿠팡", "keywords": ["쿠팡"] },
+        { "name": "컬리", "keywords": ["컬리", "마켓컬리"] },
+        { "name": "무신사", "keywords": ["무신사"] },
+        { "name": "당근", "keywords": ["당근", "당근마켓"] },
+        { "name": "토스", "keywords": ["토스"] }
+      ] },
+      { "name": "OTT", "groups": [
+        { "name": "넷플릭스", "keywords": ["넷플릭스"] },
+        { "name": "티빙", "keywords": ["티빙"] },
+        { "name": "쿠팡플레이", "keywords": ["쿠팡플레이"] },
+        { "name": "웨이브", "keywords": ["웨이브"] },
+        { "name": "디즈니플러스", "keywords": ["디즈니플러스", "디즈니+"] }
+      ] }
+    ]
+  }
+}
