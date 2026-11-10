@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-10T16:26:55+09:00",
- "windowStart": "2026-11-09T04:26:55+09:00",
+ "collectedAt": "2026-11-10T16:30:45+09:00",
+ "windowStart": "2026-11-09T04:30:45+09:00",
  "windowHours": 36,
  "groups": [
   {
@@ -51,19 +51,19 @@
        "publishedAt": "2026-11-10T10:31:00+09:00"
       },
       {
-       "title": "\"AI로 약국 업무 효율 높여 환자에 집중\"…약사 학술제 29일 개최",
-       "desc": "구현지 대한약사회 학술이사는 9일 오후 서울 서초구 대한약사회관에서 열린 전문언론 대상... 4층 창조룸Ⅱ에서는 미래약사위원회 주관으로 'AI 우수 활용사례 공유 및 AI 약국 실전 세션'이 열린…",
-       "url": "https://www.yakup.com/news/index.html?mode=view&cat=17&nid=334971",
-       "naverUrl": "",
-       "outlet": "yakup.com",
-       "publishedAt": "2026-11-10T06:02:00+09:00"
-      },
-      {
        "title": "약사회, 제11회 학술제서 약국 AI 활용법 공유",
        "desc": "구현지 대한약사회 학술이사는 9일 전문언론 브리핑을 통해 \"AI와 관련 약사들이 느끼는 부담과 불안을... 심사위원회를 별도로 구성해 각각 두 차례 심사를 진행했다. AI 활용사례 부문 대상은 서…",
        "url": "https://www.dailypharm.com/user/news/344353?REFERER=NP",
        "naverUrl": "",
        "outlet": "dailypharm.com",
+       "publishedAt": "2026-11-10T06:02:00+09:00"
+      },
+      {
+       "title": "\"AI로 약국 업무 효율 높여 환자에 집중\"…약사 학술제 29일 개최",
+       "desc": "구현지 대한약사회 학술이사는 9일 오후 서울 서초구 대한약사회관에서 열린 전문언론 대상... 4층 창조룸Ⅱ에서는 미래약사위원회 주관으로 'AI 우수 활용사례 공유 및 AI 약국 실전 세션'이 열린…",
+       "url": "https://www.yakup.com/news/index.html?mode=view&cat=17&nid=334971",
+       "naverUrl": "",
+       "outlet": "yakup.com",
        "publishedAt": "2026-11-10T06:02:00+09:00"
       },
       {
@@ -374,19 +374,19 @@
        "publishedAt": "2026-11-10T15:52:00+09:00"
       },
       {
+       "title": "김희선, 올블랙 수트핏으로 전한 반가운 만남…예능 MC 합류까지",
+       "desc": "김희선은 1993년 과자 광고를 통해 데뷔한 뒤 드라마와 영화를 오가며 꾸준히 활동해 왔다. 드라마 '목욕탕집... 지상파와 OTT를 동시에 누비며 활발한 활동을 이어갔다. 김희선은 2007년 박…",
+       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272932",
+       "naverUrl": "",
+       "outlet": "topstarnews.net",
+       "publishedAt": "2026-11-10T15:06:00+09:00"
+      },
+      {
        "title": "G마켓, 디즈니+ 결합 멤버십 출시…구독 서비스 경쟁력 강화",
        "desc": "G마켓이 온라인동영상서비스(OTT) 디즈니+와 쇼핑 혜택을 결합한 신규 멤버십을 선보이며 구독 서비스 강화에 나섰습니다. 새롭게 출시한 '꼭 멤버십 라이프+'는 월 4,900원에 디즈니+ 광고형…",
        "url": "http://www.paxetv.com/news/articleView.html?idxno=286529",
        "naverUrl": "",
        "outlet": "paxetv.com",
-       "publishedAt": "2026-11-10T15:06:00+09:00"
-      },
-      {
-       "title": "김건모 성폭행 의혹부터 은현장 가족 위협까지…사이버 레커와 맞선 생...",
-       "desc": "조회수와 광고 수익을 넘어 타인의 명예와 고통이 돈벌이 수단으로 활용될 수 있다는 문제를 제기한 것이다.... 한편 '포식자들-사이버 레커 VS 생존자들'은 지난달 OTT 웨이브에서 공개된 4부작…",
-       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16272930",
-       "naverUrl": "",
-       "outlet": "topstarnews.net",
        "publishedAt": "2026-11-10T15:06:00+09:00"
       },
       {
@@ -452,8 +452,24 @@
     },
     {
      "keyword": "광고 캠페인",
-     "total": 381800,
+     "total": 381802,
      "items": [
+      {
+       "title": "대구 북구청, 2027학년도 수능 전후 청소년 유해환경 집중 점검…보호 ...",
+       "desc": "북구청은 각 동 청소년지도협의회와 함께 거리 캠페인을 실시하고 청소년 출입금지업소에 대한 계도 활동을 추진한다. 청소년 음주·흡연 예방 홍보와 불건전 광고물 정비도 병행한다. 점검은 오는 16일부…",
+       "url": "https://www.eroun.net/news/articleView.html?idxno=94955",
+       "naverUrl": "",
+       "outlet": "eroun.net",
+       "publishedAt": "2026-11-10T16:28:00+09:00"
+      },
+      {
+       "title": "미술관에서 홍대 거리까지…애경산업, 문화 연계 브랜드 경험 확대",
+       "desc": "탈모 케어 브랜드 블랙포레는 숏폼·유튜브·옥외광고를 연계한 캠페인과 무신사 메가스토어 성수 체험형 부스를 운영했다. 바디케어 브랜드 럽센트는 캐릭터 에스더버니와 협업 제품을 선보였다. 올해 3분기…",
+       "url": "https://www.youthdaily.co.kr/news/article.html?no=229634",
+       "naverUrl": "",
+       "outlet": "youthdaily.co.kr",
+       "publishedAt": "2026-11-10T16:28:00+09:00"
+      },
       {
        "title": "친구 선물하던 카톡, 이젠 내 쇼핑까지…하루 한 상품 '파격 할인'",
        "desc": "최근에는 배우 최대훈·강말금이 출연하는 톡딜 광고 캠페인 ‘딜이 들어왔습니다, 톡으로’를 진행하며 할인 혜택을 앞세워 소비자 접점을 확대하고 있다. [본 이미지는 AI 기술을 활용해 제작되었습니다…",
@@ -471,19 +487,19 @@
        "publishedAt": "2026-11-10T16:24:00+09:00"
       },
       {
-       "title": "애피어·와이즈버즈, 지스타 기간 부산서 AI 게임 마케팅 상담 운영",
-       "desc": "해외 진출을 준비하거나 글로벌 광고 캠페인을 확대하려는 게임사에는 시장별 특성을 고려한 이용자 확보 전략을 공유한다. 이보혁 애피어 코리아 애드 솔루션 세일즈 총괄은 \"게임 시장의 경쟁이 치열해지…",
-       "url": "http://www.beyondpost.co.kr/view.php?ud=20261110160144894846a9e4dd7f_30",
-       "naverUrl": "",
-       "outlet": "beyondpost.co.kr",
-       "publishedAt": "2026-11-10T16:06:00+09:00"
-      },
-      {
        "title": "트립비토즈, 해외 인플루언서 활용 관광객 유치…호텔 예약 확대",
        "desc": "트립비토즈가 자체 집계한 캠페인 링크 클릭률은 인스타그램 스토리 광고의 숙박 업종 평균 대비 약 14.6배를 기록했다. 다만 해당 수치는 광고 반응을 나타내는 지표로, 실제 예약 전환 실적과는 구…",
        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881815",
        "naverUrl": "",
        "outlet": "hansbiz.co.kr",
+       "publishedAt": "2026-11-10T16:06:00+09:00"
+      },
+      {
+       "title": "애피어·와이즈버즈, 지스타 기간 부산서 AI 게임 마케팅 상담 운영",
+       "desc": "해외 진출을 준비하거나 글로벌 광고 캠페인을 확대하려는 게임사에는 시장별 특성을 고려한 이용자 확보 전략을 공유한다. 이보혁 애피어 코리아 애드 솔루션 세일즈 총괄은 \"게임 시장의 경쟁이 치열해지…",
+       "url": "http://www.beyondpost.co.kr/view.php?ud=20261110160144894846a9e4dd7f_30",
+       "naverUrl": "",
+       "outlet": "beyondpost.co.kr",
        "publishedAt": "2026-11-10T16:06:00+09:00"
       },
       {
@@ -501,29 +517,21 @@
        "naverUrl": "",
        "outlet": "bntnews.co.kr",
        "publishedAt": "2026-11-10T15:48:00+09:00"
-      },
-      {
-       "title": "인크로스, 구글 애즈 임팩트 어워즈서 AI·글로벌 마케팅 역량 입증",
-       "desc": "인크로스는 한국관광공사의 글로벌 캠페인을 진행하며 20개국 대상 권역별 타겟팅 및 AI 기반 유튜브 광고 솔루션을 적용해 영상 조회수 목표를 초과 달성하며 '글로벌 성장' 부문에 이름을 올렸다.…",
-       "url": "https://www.thedailypost.kr/news/articleView.html?idxno=116803",
-       "naverUrl": "",
-       "outlet": "thedailypost.kr",
-       "publishedAt": "2026-11-10T15:44:00+09:00"
-      },
-      {
-       "title": "KFC, '어벤져스: 둠스데이' 협업...닥터둠 버거 솔직 후기·리뷰 보니",
-       "desc": "KFC와의 협업 캠페인 테마는 '룰 더 테이스트(Rule the Taste)'로 새로운 맛의 질서를 만들어 간다는 의미다.... 광고 사진과 실제 제품을 비교하며 마케팅이 과장됐다는 지적도 나왔다…",
-       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3747698",
-       "naverUrl": "",
-       "outlet": "gukjenews.com",
-       "publishedAt": "2026-11-10T15:30:00+09:00"
       }
      ]
     },
     {
      "keyword": "브랜드 마케팅",
-     "total": 229107,
+     "total": 229108,
      "items": [
+      {
+       "title": "미술관에서 홍대 거리까지…애경산업, 문화 연계 브랜드 경험 확대",
+       "desc": "바젤리츠 전시 후원 이어 오는 13일 'K-컬처 페스티벌' 개최 공연·게임에 화장품·생활용품 접목…브랜드 체험 마케팅 강화 애경산업이 미술 전시 후원과 거리 축제를 통해 소비자와의 접점을 넓힌다.…",
+       "url": "https://www.youthdaily.co.kr/news/article.html?no=229634",
+       "naverUrl": "",
+       "outlet": "youthdaily.co.kr",
+       "publishedAt": "2026-11-10T16:28:00+09:00"
+      },
       {
        "title": "[교육소식]안양대 '학과별 직무위크' 마무리 등",
        "desc": "이번 프로그램에는 브랜드 마케팅, PD, 디자이너, AI 엔지니어링, 반도체 연구개발, 데이터 분석, IT 개발, 공기업·공공기관 등 10개 분야 현직자가 참여해 직무별 업무 내용과 필요한 역량,…",
@@ -578,14 +586,6 @@
        "url": "https://www.dt.co.kr/article/12094265?ref=naver",
        "naverUrl": "https://n.news.naver.com/mnews/article/029/0003058223?sid=105",
        "outlet": "dt.co.kr",
-       "publishedAt": "2026-11-10T14:58:00+09:00"
-      },
-      {
-       "title": "구하다 케이글로잉, 글로벌 마케팅·커머스 인재 대거 채용",
-       "desc": "채용은 글로벌 브랜드 마케팅과 이커머스 매니저 부문에 집중된다. 모집 직무는 ▶틱톡 랩 리드(시니어 마케터, 경력 5년 이상) ▶틱톡 크리에이터 매니저(글로벌 마케팅 컨설턴트, 경력 1년 이상)…",
-       "url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402945",
-       "naverUrl": "",
-       "outlet": "forbeskorea.co.kr",
        "publishedAt": "2026-11-10T14:58:00+09:00"
       }
      ]
@@ -807,15 +807,63 @@
    "keywords": [
     {
      "keyword": "실적 발표",
-     "total": 960945,
+     "total": 960954,
      "items": [
       {
-       "title": "KT, 무선 부진에 AX로 돌파구…비용 절감 속도",
-       "desc": "KT는 10일 열린 2026년 3분기 실적 발표 콘퍼런스콜에서 이 같은 사업 전략과 향후 실적 전망을 밝혔다. KT는 올해 3분기 연결 기준 매출 6조9975억원과 영업이익 5053억원을 기록했다…",
-       "url": "https://it.chosun.com/news/articleView.html?idxno=3000000000694",
+       "title": "[컨콜] KT, AI 데이터센터 개발 후보 1.4GW 확보…B2B 수주 내년 매출 전...",
+       "desc": "김봉균 KT 엔터프라이즈부문장은 10일 열린 2026년 3분기 실적발표 컨퍼런스콜에서 주요 개발 후보 20개소, 911MW와 예비 후보 10개소, 500MW를 확보했다고 밝혔다. 두 후보군을 합친…",
+       "url": "https://www.itdaily.kr/news/articleView.html?idxno=242818",
        "naverUrl": "",
-       "outlet": "it.chosun.com",
-       "publishedAt": "2026-11-10T16:26:00+09:00"
+       "outlet": "itdaily.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "美 반도체 훈풍·유가 급락...코스피 5,230선 회복·코스닥 4.48% 상승",
+       "desc": "10일(현지시간) 3분기 실적 발표를 앞둔 코어위브는 5.56% 상승했다. 여기에 도널드 트럼프 미국 대통령이 이란 대상 추가 공습 가능성을 낮게 평가하면서 국제유가가 4∼5%대 내림세를 기록한…",
+       "url": "https://www.youthdaily.co.kr/news/article.html?no=229633",
+       "naverUrl": "",
+       "outlet": "youthdaily.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "엘앤씨바이오, 3분기 누적 영업익 892% 급증…매출 1075억",
+       "desc": "엘앤씨바이오 CI.(사진=엘앤씨바이오) 10일 엘앤씨바이오는 2026년 3분기 실적발표를 통해 누적 연결기준 매출액은 1075억원으로 전년 동기 대비 76.8%, 영업이익은 244억원으로 892.…",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=05215206645644408&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006407410?sid=101",
+       "outlet": "edaily.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "빅테크 AI 데이터센터 한국 집결…투자 과실은 누가 가져가나",
+       "desc": "SK가스는 지난해 실적 발표 자료에서 해당 시설을 그래픽처리장치(GPU) 약 6만장 규모로 소개했다. MS는 부산 강서구 미음 국제산업물류도시에 세 번째 데이터센터 건립을 추진하는 것으로 알려졌다…",
+       "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325453",
+       "naverUrl": "",
+       "outlet": "pointdaily.co.kr",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
+      {
+       "title": "[컨콜] KT \"비핵심 자산 유동화 적극 검토\"",
+       "desc": "민혜병 KT 재무실장(CFO) 전무는 10일 KT 3분기 실적 발표 컨퍼런스콜에서 \"비핵심 자산의 유동화에 대해서도 적극적으로 검토하고 있다\"며 \"해당되는 사항이 조기에 가시화될 수 있도록 노력하…",
+       "url": "http://www.inews24.com/view/2024670",
+       "naverUrl": "https://n.news.naver.com/mnews/article/031/0001073843?sid=105",
+       "outlet": "inews24.com",
+       "publishedAt": "2026-11-10T16:29:00+09:00"
+      },
+      {
+       "title": "CJ대한통운, 새벽·당일배송 탄탄한 성장…“투자 집행” 수익성 ↓",
+       "desc": "10일 국내 대표적 종합물류 기업인 대한통운은 3분기 매출이 3조3581억원으로 9.5% 성장했으나, 영업이익은 1105억원으로 25.3% 감소했다고 발표했다. 대한통운은 택배(O-NE·오네) 부…",
+       "url": "https://www.hani.co.kr/arti/economy/economy_general/1286634.html",
+       "naverUrl": "https://n.news.naver.com/mnews/article/028/0002831537?sid=101",
+       "outlet": "hani.co.kr",
+       "publishedAt": "2026-11-10T16:28:00+09:00"
+      },
+      {
+       "title": "아이온큐, 3분기 매출 336% 폭증에 주가 급등… 양자컴퓨팅 성장 기대감...",
+       "desc": "이번 주가 상승의 주요 배경으로는 11월 5일 발표된 3분기 실적이 꼽힌다. 아이온큐의 해당 분기 매출은 1억7,383만 달러(한화 약 2,520억 원)로 집계됐다. 지난해 같은 기간 기록한 3,…",
+       "url": "https://www.jemin.com/news/articleView.html?idxno=846742",
+       "naverUrl": "",
+       "outlet": "jemin.com",
+       "publishedAt": "2026-11-10T16:28:00+09:00"
       },
       {
        "title": "[컨콜] KT \"연말 B2B 누적 수주액, 성장률 20% 이상…내년도 성장 기대\"",
@@ -824,54 +872,6 @@
        "naverUrl": "",
        "outlet": "ebn.co.kr",
        "publishedAt": "2026-11-10T16:26:00+09:00"
-      },
-      {
-       "title": "크래프톤, 3분기 영업익 2250억원…전년比 35.5%↓",
-       "desc": "크래프톤은 2026년 3분기 경영실적 발표를 통해 2026년 3분기 매출 9714억원, 영업이익 2250억원을 기록했다. ▲크래프톤 CI. [사진=크래프톤] 매출액은 전년대비 11.6% 증가했지만…",
-       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597677797670",
-       "naverUrl": "",
-       "outlet": "megaeconomy.co.kr",
-       "publishedAt": "2026-11-10T16:24:00+09:00"
-      },
-      {
-       "title": "[컨콜] KT “토큰팩토리와 통신 과금 모델 접목, 국내 토큰 생산·유통 ...",
-       "desc": "KT는 10일 열린 2026년 3분기 실적발표 컨퍼런스콜에서 “토큰팩토리는 자체 GPU를 통해 국내에서 모델을 직접 추론하는 방식과 오픈라우터와 같은 글로벌 외부 공급 모델을 라우팅하는 방식 두…",
-       "url": "https://www.viva100.com/article/20261110501173",
-       "naverUrl": "",
-       "outlet": "viva100.com",
-       "publishedAt": "2026-11-10T16:24:00+09:00"
-      },
-      {
-       "title": "크래프톤, 3분기 영업익 2250억…누적 영업익 전년比 14%↑",
-       "desc": "10일 크래프톤은 3분기 실적발표를 통해 매출은 전년 동기 대비 51% 증가한 9714억원 영업이익은 지난해보다 14% 증가한 2250억원을 기록했다고 밝혔다. 사업 부문별 매출은 △PC 2389…",
-       "url": "https://daily.hankooki.com/news/articleView.html?idxno=1423726",
-       "naverUrl": "",
-       "outlet": "daily.hankooki.com",
-       "publishedAt": "2026-11-10T16:24:00+09:00"
-      },
-      {
-       "title": "KOSPI 밸류에이션 저평가가 맞을까? [오대정의 경제지표 읽기]",
-       "desc": "발표된 실제 실적이 아니라 향후 이익전망을 사용하는 예상 PER은 현재 한국이 전례 없이 극단적으로 저평가됐다는 점을 보여준다. 예상 PER 비율 하락은 주가 하락 또는 이익전망의 과대평가가 원인…",
-       "url": "https://magazine.hankyung.com/business/article/202611045832b",
-       "naverUrl": "https://n.news.naver.com/mnews/article/050/0000113089?sid=101",
-       "outlet": "magazine.hankyung.com",
-       "publishedAt": "2026-11-10T16:23:00+09:00"
-      },
-      {
-       "title": "엔비디아에 운명 건 메모리, 장기계약 '완판'됐다는데 변동 없을까",
-       "desc": "마이크론은 9월 실적발표에서 LTA 26건 모두에 물량을 인수하지 않아도 대금을 내는 '테이크 오어 페이(Take-or-Pay)' 조항을 넣었다고 밝혔다. 계약이 파기돼도 1,500억 달러는 받을…",
-       "url": "https://www.hankookilbo.com/news/article/A2026111015030001446?did=NA",
-       "naverUrl": "https://n.news.naver.com/mnews/article/469/0000964760?sid=105",
-       "outlet": "hankookilbo.com",
-       "publishedAt": "2026-11-10T16:23:00+09:00"
-      },
-      {
-       "title": "HD건설기계, 북미 발전용 엔진 5534억 수주… 대금 90%는 납품 따라 청구",
-       "desc": "PSI는 지난 5일 실적 발표에서 데이터센터용 제품 판매가 늘었다고 밝혔다. 향후 매출에 반영되는 시점과 규모는 고객 일정과 생산 속도, 공급망 여건에 따라 달라질 수 있다고 설명했다. 이는 PS…",
-       "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=67443",
-       "naverUrl": "",
-       "outlet": "newsroad.co.kr",
-       "publishedAt": "2026-11-10T16:22:00+09:00"
       }
      ]
     },
@@ -880,19 +880,19 @@
      "total": 211911,
      "items": [
       {
-       "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 10일)",
-       "desc": "애널리스트들은 왜 지금 반도체를 팔지 말라고 할까AI 산업 성장세에 대한 불안감이 커지면서 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들의 주가 변동성이 확대됐다. 하지만 증권가에서는 메모리…",
-       "url": "https://www.hankyung.com/article/202611108013i",
-       "naverUrl": "https://n.news.naver.com/mnews/article/015/0005352349?sid=101",
-       "outlet": "hankyung.com",
-       "publishedAt": "2026-11-10T16:24:00+09:00"
-      },
-      {
        "title": "'메모리 겨울' 모건스탠리, 이번엔 '실적 절벽'…\"삼전 30만·SK하닉 160만...",
        "desc": "킴 연구원은 지난 2021년 '메모리, 겨울이 온다', 2024년 '겨울이 다가온다' 등의 보고서를 통해 반도체 업황 악화를 경고하면서 국내에서 '반도체 저승사자'라는 별명을 얻었다. 킴 연구원은…",
        "url": "https://www.news1.kr/finance/general-stock/6349380",
        "naverUrl": "https://n.news.naver.com/mnews/article/421/0009281723?sid=101",
        "outlet": "news1.kr",
+       "publishedAt": "2026-11-10T16:24:00+09:00"
+      },
+      {
+       "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 10일)",
+       "desc": "애널리스트들은 왜 지금 반도체를 팔지 말라고 할까AI 산업 성장세에 대한 불안감이 커지면서 삼성전자와 SK하이닉스 등 국내 대표 반도체 기업들의 주가 변동성이 확대됐다. 하지만 증권가에서는 메모리…",
+       "url": "https://www.hankyung.com/article/202611108013i",
+       "naverUrl": "https://n.news.naver.com/mnews/article/015/0005352349?sid=101",
+       "outlet": "hankyung.com",
        "publishedAt": "2026-11-10T16:24:00+09:00"
       },
       {
@@ -947,21 +947,29 @@
     },
     {
      "keyword": "배터리 업계",
-     "total": 409062,
+     "total": 409063,
      "items": [
       {
-       "title": "LG엔솔 2030년 소듐 배터리 양산… '비EV 40%' 속도 내는 김동명의 배팅",
-       "desc": "배터리 업계 한 전문가는 \"LG에너지솔루션이 소듐이온 배터리의 상용화 로드맵을 명확히 제시한 것은 프리미엄 영역의 전고체 배터리와 보급형 전력망용 소듐 배터리를 양 축으로 하는 차세대 포트폴리오를…",
-       "url": "https://www.ddaily.co.kr/page/view/2026111015275149390",
-       "naverUrl": "https://n.news.naver.com/mnews/article/138/0002247981?sid=105",
-       "outlet": "ddaily.co.kr",
-       "publishedAt": "2026-11-10T16:25:00+09:00"
+       "title": "삼성·LG, CES 2027 혁신상 대거 수상…AI·전장·배터리 기술력 뽐내(종...",
+       "desc": "인공지능(AI)과 디스플레이, 전장, 배터리 등 다양한 분야에서 기술 경쟁력을 인정받았다. 사진은 최고 혁신상을 받은 세계 최초 투명·무선 TV 'LG 시그니처 올레드 TV'. (사진=LG전자)…",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=05195526645644408&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006407404?sid=101",
+       "outlet": "edaily.co.kr",
+       "publishedAt": "2026-11-10T16:28:00+09:00"
       },
       {
        "title": "엠플러스, 550억원 투자재원 확보…방산·전고체·로봇 사업 확대",
        "desc": "내년 대규모 수주 확대에 대비해 유동성을 확보하고 방산·전고체 배터리·자율이동로봇(AIMR) 등 신사업... 엠플러스 관계자는 \"장비 사업은 수주총액의 약 50%에 해당하는 운용자금이 필요하지만…",
        "url": "https://www.ddaily.co.kr/page/view/2026111015463531052",
        "naverUrl": "https://n.news.naver.com/mnews/article/138/0002247979?sid=105",
+       "outlet": "ddaily.co.kr",
+       "publishedAt": "2026-11-10T16:25:00+09:00"
+      },
+      {
+       "title": "LG엔솔 2030년 소듐 배터리 양산… '비EV 40%' 속도 내는 김동명의 배팅",
+       "desc": "배터리 업계 한 전문가는 \"LG에너지솔루션이 소듐이온 배터리의 상용화 로드맵을 명확히 제시한 것은 프리미엄 영역의 전고체 배터리와 보급형 전력망용 소듐 배터리를 양 축으로 하는 차세대 포트폴리오를…",
+       "url": "https://www.ddaily.co.kr/page/view/2026111015275149390",
+       "naverUrl": "https://n.news.naver.com/mnews/article/138/0002247981?sid=105",
        "outlet": "ddaily.co.kr",
        "publishedAt": "2026-11-10T16:25:00+09:00"
       },
@@ -990,14 +998,6 @@
        "publishedAt": "2026-11-10T16:06:00+09:00"
       },
       {
-       "title": "LS MnM, 창립 90주년 맞아 배터리소재 사업 본격화",
-       "desc": "LS MnM은 공급망 파트너에게 함께 투자하고 개발하는 동반자가 되고, 비철금속 및 배터리 업계 고객에게는 안정적인 품질과 공급을 보장하는 파트너가 되겠다는 계획이다. 국가와 지역사회에는 기존 산…",
-       "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173065",
-       "naverUrl": "",
-       "outlet": "choicenews.co.kr",
-       "publishedAt": "2026-11-10T16:04:00+09:00"
-      },
-      {
        "title": "‘창립 90주년’ LS MnM, 전략금속·배터리 소재로 ‘새 100년’ 연다",
        "desc": "이를 위해 공급망 파트너에게는 함께 투자하고 개발하는 동반자가, 비철금속과 배터리 업계의 고객에게는 변함없는 품질과 안정적인 공급을 제공하는 파트너가 되기 위해 노력한다는 계획이다. 국가와 지역사…",
        "url": "https://www.dt.co.kr/article/12094296?ref=naver",
@@ -1006,12 +1006,12 @@
        "publishedAt": "2026-11-10T16:04:00+09:00"
       },
       {
-       "title": "엠플러스, 550억원 중장기 투자재원 확보… 3대 신성장동력 지원 자금력...",
-       "desc": "방산·전고체 배터리·자율이동로봇(AIMR) 등 3대 신성장동력 사업에 대한 선제적 자금 유동성을 확보했다고... 없는 업계 상황에 금번 중장기 자금조달은 이례적으로 긍정적이다” 라며 “탄탄한 재무…",
-       "url": "https://www.segye.com/newsView/20261110514193?OutUrl=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/022/0004174015?sid=101",
-       "outlet": "segye.com",
-       "publishedAt": "2026-11-10T16:03:00+09:00"
+       "title": "LS MnM, 창립 90주년 맞아 배터리소재 사업 본격화",
+       "desc": "LS MnM은 공급망 파트너에게 함께 투자하고 개발하는 동반자가 되고, 비철금속 및 배터리 업계 고객에게는 안정적인 품질과 공급을 보장하는 파트너가 되겠다는 계획이다. 국가와 지역사회에는 기존 산…",
+       "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173065",
+       "naverUrl": "",
+       "outlet": "choicenews.co.kr",
+       "publishedAt": "2026-11-10T16:04:00+09:00"
       }
      ]
     },
@@ -1087,8 +1087,16 @@
     },
     {
      "keyword": "플랫폼 규제",
-     "total": 558842,
+     "total": 558843,
      "items": [
+      {
+       "title": "[현장] 로봇 가르치고 공장까지…엔비디아가 지금 한국서 벌이는 일",
+       "desc": "손경찬 두산로보틱스 피지컬 AI 플랫폼 팀장은 \"지금 작동하는 대부분의 로봇 샌딩 셀은 작업자가 부품마다... 미국의 대중 반도체 수출 규제가 강화되면 엔비디아의 제품 공급 전략뿐 아니라 관련 H…",
+       "url": "https://bizhankook.com/articles/nvidia-robotics-expansion-korea.html",
+       "naverUrl": "",
+       "outlet": "bizhankook.com",
+       "publishedAt": "2026-11-10T16:30:00+09:00"
+      },
       {
        "title": "삼성화재, 英 캐노피우스 경영권 인수 계약…7년 걸친 단계적 지분 확대",
        "desc": "캐노피우스가 Business Wire를 통해 낸 영문 발표문은 이번 거래가 규제 당국 승인을 포함한 통상적인 종결... KKR은 자사의 글로벌 플랫폼과 운영·전략, 인수합병(M&A) 분야 전문성을…",
@@ -1130,34 +1138,26 @@
        "publishedAt": "2026-11-10T16:21:00+09:00"
       },
       {
+       "title": "[2027 경제·금융 전망] 비은행권 건전성 부담…\"카드, 캐피탈 등 조달금...",
+       "desc": "대형 저축은행에는 영업행위 규제 완화를, 중소형 저축은행에는 플랫폼 등과의 협업을 통한 영업기반 확대를 모색하는 한편 카드·캐피탈업권의 포용금융과 생산적 금융 역할도 지원하겠다고 밝혔다. 결국 내…",
+       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285943",
+       "naverUrl": "",
+       "outlet": "financialpost.co.kr",
+       "publishedAt": "2026-11-10T16:20:00+09:00"
+      },
+      {
        "title": "레드햇, AI가 장애 진단·해결하는 '오픈시프트 5' 출시",
        "desc": "쿠버네티스 기반 하이브리드 클라우드 애플리케이션 플랫폼으로, AI 워크로드와 가상머신, 컨테이너... 소버린 배포를 위한 멀티테넌트 격리와 자동화된 인증서 라이프사이클 관리도 제공해 민감한 규제…",
        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881589",
        "naverUrl": "",
        "outlet": "hansbiz.co.kr",
        "publishedAt": "2026-11-10T16:20:00+09:00"
-      },
-      {
-       "title": "배달앱 과징금 파장에...배민·쿠팡 플랫폼 사업 모델 '시험대'",
-       "desc": "그런 만큼 플랫폼 규제를 둘러싼 학계의 시각도 엇갈리고 있다. 최혜대우 요구와 자사우대, 끼워팔기 등은 경쟁을 제한할 가능성이 있지만, 플랫폼의 투자와 서비스 경쟁을 촉진할 여지도 있다는 분석이다…",
-       "url": "https://www.thebigdata.co.kr/view.php?ud=2026111016104053910a47484cf8_23",
-       "naverUrl": "",
-       "outlet": "thebigdata.co.kr",
-       "publishedAt": "2026-11-10T16:20:00+09:00"
-      },
-      {
-       "title": "“로봇 입고 계단 척척”…삼성전자 C랩에 모인 혁신 기술 [현장+]",
-       "desc": "미국·EU·일본의 규제 기준을 충족했다. 투엔 관계자는 “막증류는 기름과 공기는 통과하지만 물은... 이외에도 와이파워원(자율주행 모빌리티의 무선충전 솔루션), 랜식(AI 대사건강 플랫폼), 마이…",
-       "url": "https://www.kukinews.com/article/view/kuk202611100162",
-       "naverUrl": "",
-       "outlet": "kukinews.com",
-       "publishedAt": "2026-11-10T16:20:00+09:00"
       }
      ]
     },
     {
      "keyword": "공정거래위원회 제재",
-     "total": 154688,
+     "total": 154687,
      "items": [
       {
        "title": "美 의회 권력 바뀌었지만…배달앱 과징금, 통상 압박 도화선 될까",
