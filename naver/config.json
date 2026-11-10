@@ -1,38 +1,516 @@
 {
-  "news": {
-    "windowHours": 36,
-    "perKeyword": 8,
+ "news": {
+  "windowHours": 36,
+  "perKeyword": 8,
+  "groups": [
+   {
+    "category": "미디어",
+    "keywords": [
+     "언론중재위원회",
+     "반론보도",
+     "정정보도",
+     "방송미디어통신위원회",
+     "한국기자협회",
+     "포털 뉴스 제휴",
+     "OTT 광고"
+    ]
+   },
+   {
+    "category": "마케팅",
+    "keywords": [
+     "한국광고주협회",
+     "광고 캠페인",
+     "브랜드 마케팅",
+     "디지털 광고 시장",
+     "유통업계 마케팅",
+     "광고비 집행"
+    ]
+   },
+   {
+    "category": "경제·산업",
+    "keywords": [
+     "실적 발표",
+     "반도체 업황",
+     "배터리 업계",
+     "유통업계",
+     "플랫폼 규제",
+     "공정거래위원회 제재"
+    ]
+   }
+  ],
+  "keepDays": 30,
+  "perKeywordPerDay": 20
+ },
+ "trends": {
+  "days": 30,
+  "timeUnit": "date",
+  "sets": [
+   {
+    "name": "주요 기업",
     "groups": [
-      { "category": "미디어", "keywords": ["언론중재위원회", "반론보도", "정정보도", "방송미디어통신위원회", "한국기자협회", "포털 뉴스 제휴", "OTT 광고"] },
-      { "category": "마케팅", "keywords": ["한국광고주협회", "광고 캠페인", "브랜드 마케팅", "디지털 광고 시장", "유통업계 마케팅", "광고비 집행"] },
-      { "category": "경제·산업", "keywords": ["실적 발표", "반도체 업황", "배터리 업계", "유통업계", "플랫폼 규제", "공정거래위원회 제재"] }
+     {
+      "name": "삼성전자",
+      "keywords": [
+       "삼성전자"
+      ]
+     },
+     {
+      "name": "현대자동차",
+      "keywords": [
+       "현대자동차",
+       "현대차"
+      ]
+     },
+     {
+      "name": "SK하이닉스",
+      "keywords": [
+       "SK하이닉스"
+      ]
+     },
+     {
+      "name": "LG전자",
+      "keywords": [
+       "LG전자"
+      ]
+     },
+     {
+      "name": "네이버",
+      "keywords": [
+       "네이버"
+      ]
+     }
     ]
-  },
-  "trends": {
-    "days": 30,
-    "timeUnit": "date",
-    "sets": [
-      { "name": "주요 기업", "groups": [
-        { "name": "삼성전자", "keywords": ["삼성전자"] },
-        { "name": "현대자동차", "keywords": ["현대자동차", "현대차"] },
-        { "name": "SK하이닉스", "keywords": ["SK하이닉스"] },
-        { "name": "LG전자", "keywords": ["LG전자"] },
-        { "name": "네이버", "keywords": ["네이버"] }
-      ] },
-      { "name": "유통·플랫폼", "groups": [
-        { "name": "쿠팡", "keywords": ["쿠팡"] },
-        { "name": "컬리", "keywords": ["컬리", "마켓컬리"] },
-        { "name": "무신사", "keywords": ["무신사"] },
-        { "name": "당근", "keywords": ["당근", "당근마켓"] },
-        { "name": "토스", "keywords": ["토스"] }
-      ] },
-      { "name": "OTT", "groups": [
-        { "name": "넷플릭스", "keywords": ["넷플릭스"] },
-        { "name": "티빙", "keywords": ["티빙"] },
-        { "name": "쿠팡플레이", "keywords": ["쿠팡플레이"] },
-        { "name": "웨이브", "keywords": ["웨이브"] },
-        { "name": "디즈니플러스", "keywords": ["디즈니플러스", "디즈니+"] }
-      ] }
+   },
+   {
+    "name": "이커머스",
+    "groups": [
+     {
+      "name": "쿠팡",
+      "keywords": [
+       "쿠팡"
+      ]
+     },
+     {
+      "name": "알리익스프레스",
+      "keywords": [
+       "알리익스프레스",
+       "알리"
+      ]
+     },
+     {
+      "name": "테무",
+      "keywords": [
+       "테무"
+      ]
+     },
+     {
+      "name": "11번가",
+      "keywords": [
+       "11번가"
+      ]
+     },
+     {
+      "name": "G마켓",
+      "keywords": [
+       "G마켓",
+       "지마켓"
+      ]
+     }
     ]
-  }
+   },
+   {
+    "name": "유통·플랫폼",
+    "groups": [
+     {
+      "name": "컬리",
+      "keywords": [
+       "컬리",
+       "마켓컬리"
+      ]
+     },
+     {
+      "name": "무신사",
+      "keywords": [
+       "무신사"
+      ]
+     },
+     {
+      "name": "당근",
+      "keywords": [
+       "당근",
+       "당근마켓"
+      ]
+     },
+     {
+      "name": "올리브영",
+      "keywords": [
+       "올리브영"
+      ]
+     },
+     {
+      "name": "다이소",
+      "keywords": [
+       "다이소"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "OTT",
+    "groups": [
+     {
+      "name": "넷플릭스",
+      "keywords": [
+       "넷플릭스"
+      ]
+     },
+     {
+      "name": "티빙",
+      "keywords": [
+       "티빙"
+      ]
+     },
+     {
+      "name": "쿠팡플레이",
+      "keywords": [
+       "쿠팡플레이"
+      ]
+     },
+     {
+      "name": "웨이브",
+      "keywords": [
+       "웨이브"
+      ]
+     },
+     {
+      "name": "디즈니플러스",
+      "keywords": [
+       "디즈니플러스",
+       "디즈니+"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "포털·SNS",
+    "groups": [
+     {
+      "name": "유튜브",
+      "keywords": [
+       "유튜브"
+      ]
+     },
+     {
+      "name": "인스타그램",
+      "keywords": [
+       "인스타그램"
+      ]
+     },
+     {
+      "name": "틱톡",
+      "keywords": [
+       "틱톡"
+      ]
+     },
+     {
+      "name": "카카오톡",
+      "keywords": [
+       "카카오톡"
+      ]
+     },
+     {
+      "name": "스레드",
+      "keywords": [
+       "스레드"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "AI 서비스",
+    "groups": [
+     {
+      "name": "챗GPT",
+      "keywords": [
+       "챗GPT",
+       "ChatGPT"
+      ]
+     },
+     {
+      "name": "제미나이",
+      "keywords": [
+       "제미나이",
+       "Gemini"
+      ]
+     },
+     {
+      "name": "클로드",
+      "keywords": [
+       "클로드",
+       "Claude"
+      ]
+     },
+     {
+      "name": "퍼플렉시티",
+      "keywords": [
+       "퍼플렉시티"
+      ]
+     },
+     {
+      "name": "뤼튼",
+      "keywords": [
+       "뤼튼"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "통신",
+    "groups": [
+     {
+      "name": "SK텔레콤",
+      "keywords": [
+       "SK텔레콤",
+       "SKT"
+      ]
+     },
+     {
+      "name": "KT",
+      "keywords": [
+       "KT"
+      ]
+     },
+     {
+      "name": "LG유플러스",
+      "keywords": [
+       "LG유플러스"
+      ]
+     },
+     {
+      "name": "알뜰폰",
+      "keywords": [
+       "알뜰폰"
+      ]
+     },
+     {
+      "name": "eSIM",
+      "keywords": [
+       "eSIM"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "금융·핀테크",
+    "groups": [
+     {
+      "name": "토스",
+      "keywords": [
+       "토스"
+      ]
+     },
+     {
+      "name": "카카오뱅크",
+      "keywords": [
+       "카카오뱅크"
+      ]
+     },
+     {
+      "name": "카카오페이",
+      "keywords": [
+       "카카오페이"
+      ]
+     },
+     {
+      "name": "네이버페이",
+      "keywords": [
+       "네이버페이"
+      ]
+     },
+     {
+      "name": "케이뱅크",
+      "keywords": [
+       "케이뱅크"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "자동차",
+    "groups": [
+     {
+      "name": "현대차",
+      "keywords": [
+       "현대차"
+      ]
+     },
+     {
+      "name": "기아",
+      "keywords": [
+       "기아"
+      ]
+     },
+     {
+      "name": "테슬라",
+      "keywords": [
+       "테슬라"
+      ]
+     },
+     {
+      "name": "BYD",
+      "keywords": [
+       "BYD"
+      ]
+     },
+     {
+      "name": "제네시스",
+      "keywords": [
+       "제네시스"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "식품",
+    "groups": [
+     {
+      "name": "농심",
+      "keywords": [
+       "농심"
+      ]
+     },
+     {
+      "name": "오뚜기",
+      "keywords": [
+       "오뚜기"
+      ]
+     },
+     {
+      "name": "삼양식품",
+      "keywords": [
+       "삼양식품",
+       "불닭"
+      ]
+     },
+     {
+      "name": "오리온",
+      "keywords": [
+       "오리온"
+      ]
+     },
+     {
+      "name": "풀무원",
+      "keywords": [
+       "풀무원"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "게임",
+    "groups": [
+     {
+      "name": "넥슨",
+      "keywords": [
+       "넥슨"
+      ]
+     },
+     {
+      "name": "엔씨소프트",
+      "keywords": [
+       "엔씨소프트"
+      ]
+     },
+     {
+      "name": "넷마블",
+      "keywords": [
+       "넷마블"
+      ]
+     },
+     {
+      "name": "크래프톤",
+      "keywords": [
+       "크래프톤"
+      ]
+     },
+     {
+      "name": "펄어비스",
+      "keywords": [
+       "펄어비스"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "미디어 이슈",
+    "groups": [
+     {
+      "name": "언론중재위원회",
+      "keywords": [
+       "언론중재위원회"
+      ]
+     },
+     {
+      "name": "반론보도",
+      "keywords": [
+       "반론보도"
+      ]
+     },
+     {
+      "name": "정정보도",
+      "keywords": [
+       "정정보도"
+      ]
+     },
+     {
+      "name": "가짜뉴스",
+      "keywords": [
+       "가짜뉴스"
+      ]
+     },
+     {
+      "name": "방송미디어통신위원회",
+      "keywords": [
+       "방송미디어통신위원회"
+      ]
+     }
+    ]
+   },
+   {
+    "name": "광고·마케팅",
+    "groups": [
+     {
+      "name": "광고",
+      "keywords": [
+       "광고"
+      ]
+     },
+     {
+      "name": "마케팅",
+      "keywords": [
+       "마케팅"
+      ]
+     },
+     {
+      "name": "브랜드",
+      "keywords": [
+       "브랜드"
+      ]
+     },
+     {
+      "name": "인플루언서",
+      "keywords": [
+       "인플루언서"
+      ]
+     },
+     {
+      "name": "팝업스토어",
+      "keywords": [
+       "팝업스토어"
+      ]
+     }
+    ]
+   }
+  ]
+ }
 }

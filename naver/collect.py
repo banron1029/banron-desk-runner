@@ -162,6 +162,61 @@ def collect_trends(cfg, cid, secret, now):
     }
 
 
+def merge_days(news, cfg, now):
+    """이번 수집 결과를 게시일(한국시간)별 파일 data/naver/days/날짜.json 에 누적한다."""
+    ddir = os.path.join(ROOT, "data", "naver", "days")
+    os.makedirs(ddir, exist_ok=True)
+    cap = cfg.get("perKeywordPerDay", 20)
+    days = {}
+
+    def load(date):
+        if date not in days:
+            path = os.path.join(ddir, date + ".json")
+            try:
+                with open(path, encoding="utf-8") as f:
+                    days[date] = json.load(f)
+            except Exception:
+                days[date] = {"date": date, "groups": []}
+            days[date]["_changed"] = False
+        return days[date]
+
+    def slot(day, category, keyword):
+        g = next((x for x in day["groups"] if x["category"] == category), None)
+        if g is None:
+            g = {"category": category, "keywords": []}
+            day["groups"].append(g)
+        k = next((x for x in g["keywords"] if x["keyword"] == keyword), None)
+        if k is None:
+            k = {"keyword": keyword, "items": []}
+            g["keywords"].append(k)
+        return k
+
+    added = 0
+    for g in news["groups"]:
+        for k in g["keywords"]:
+            for it in k["items"]:
+                day = load(it["publishedAt"][:10])
+                tgt = slot(day, g["category"], k["keyword"])
+                if any(x["url"] == it["url"] for x in tgt["items"]):
+                    continue
+                tgt["items"].append(it)
+                tgt["items"].sort(key=lambda x: x["publishedAt"], reverse=True)
+                del tgt["items"][cap:]
+                day["_changed"] = True
+                added += 1
+    for date, day in days.items():
+        if day.pop("_changed"):
+            day["updatedAt"] = now.isoformat(timespec="seconds")
+            day["count"] = sum(len(k["items"]) for g in day["groups"] for k in g["keywords"])
+            write(os.path.join("days", date + ".json"), day)
+    # 보관 기간이 지난 날짜 파일 정리
+    limit = (now - timedelta(days=cfg.get("keepDays", 30))).date().isoformat()
+    for name in os.listdir(ddir):
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}\.json", name) and name[:10] < limit:
+            os.remove(os.path.join(ddir, name))
+    return added
+
+
 def write(name, obj):
     path = os.path.join(ROOT, "data", "naver", name)
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -203,6 +258,7 @@ def main():
     trends_ok = ok_sets > 0
     if news_ok:
         write("news.json", news)
+        print("날짜별 묶음에 새로 추가: %d건" % merge_days(news, cfg.get("news", {}), now))
     if trends_ok:
         write("trends.json", trends)
     return 0 if (news_ok and trends_ok) else 1
