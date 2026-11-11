@@ -1,0 +1,26 @@
+{
+ "query": "반론보도닷컴",
+ "collectedAt": "2026-11-11T17:08:17+09:00",
+ "windowStart": "2026-11-09T17:08:17+09:00",
+ "naverTotal": 4655,
+ "fetched": 100,
+ "inWindow": 2,
+ "clusters": [],
+ "singleCount": 2,
+ "singleSamples": [
+  {
+   "title": "[반론보도] <[단독] 창당 때부터 ‘용혜인 부부당’…남편 사무총장 앉...",
+   "outlet": "chosun.com",
+   "url": "https://www.chosun.com/politics/politics_general/2026/11/11/AKGDTIZ7R5DCZE72A2AZQHSC3Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "publishedAt": "2026-11-11T01:01:00+09:00"
+  },
+  {
+   "title": "[반론보도] <용혜인黨 일자리 보조금…남편도 지원대상 올렸다> 관련",
+   "outlet": "chosun.com",
+   "url": "https://www.chosun.com/politics/politics_general/2026/11/11/6JHFCQZU7JBHLJXNDAXV5XC5DE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "publishedAt": "2026-11-11T01:01:00+09:00"
+  }
+ ],
+ "truncated": false,
+ "id": "q_20261111_mwbu6ncdjqgr"
+}
