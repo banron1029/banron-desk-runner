@@ -1,6 +1,6 @@
 {
- "collectedAt": "2026-11-20T08:08:13+09:00",
- "windowStart": "2026-11-18T20:08:13+09:00",
+ "collectedAt": "2026-11-20T16:44:02+09:00",
+ "windowStart": "2026-11-19T04:44:02+09:00",
  "windowHours": 36,
  "groups": [
   {
@@ -8,8 +8,64 @@
    "keywords": [
     {
      "keyword": "언론중재위원회",
-     "total": 75131,
+     "total": 75144,
      "items": [
+      {
+       "title": "FIFA 회장 선거에 인판티노·다지마·디알로 출마…'3파전 확정'",
+       "desc": "안정적인 조직 운영 능력을 갖춘 인물로 평가받는 다지마의 조용하고 신중한 행보는 언론의 주목을 받는... 선거위원회의 결정에 이의가 있는 후보는 스위스 로잔의 스포츠중재재판소(CAS)에 제소할 수…",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=03660486645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+       "naverUrl": "",
+       "outlet": "edaily.co.kr",
+       "publishedAt": "2026-11-20T16:17:00+09:00"
+      },
+      {
+       "title": "푸틴, 트럼프 노벨평화상 추천 거론…\"환심 사려는 외교적 메시지\"",
+       "desc": "19일(현지시간) 러시아 RBC 등 현지 언론에 따르면 푸틴 대통령은 이날 미·중·러 정상회담을 마친 뒤 열린... 그러면서 \"노벨위원회는 과거 러시아 석유 사업을 통해 막대한 자산을 벌어들였다\"…",
+       "url": "https://www.newsis.com/view/NISX20261120_0003876812",
+       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014336313?sid=104",
+       "outlet": "newsis.com",
+       "publishedAt": "2026-11-20T15:54:00+09:00"
+      },
+      {
+       "title": "[반론보도] <[단독]용혜인 후원회장에 당 노무비 지급…‘일감 몰아주기...",
+       "desc": "노무업무를 수행하였고, 그 대가는 월 10~20만 원 상당의 통상적인 수수료로 '일감 몰아주기'에 해당한다고 보기에는 그 규모가 지나치게 미미하다”라고 알려왔습니다. 이 보도는 언론중재위원회의 조…",
+       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560902",
+       "naverUrl": "https://n.news.naver.com/mnews/article/449/0000368174?sid=100",
+       "outlet": "ichannela.com",
+       "publishedAt": "2026-11-20T15:34:00+09:00"
+      },
+      {
+       "title": "제24대 인천지방변호사회장 선거 ‘4파전’…최정현·김유명·이원배·조...",
+       "desc": "중대범죄수사청·회생법원·언론중재위원회 인천중재부 등 법률기관 유치에 힘쓰고, 인하대 법학전문대학원과 협력해 해사·국제상사·도산법 분야 전문교육을 확대하겠다는 계획이다. 조 변호사는 “인천에 법원이…",
+       "url": "https://www.kyeonggi.com/article/20261120580151",
+       "naverUrl": "https://n.news.naver.com/mnews/article/666/0000133026?sid=102",
+       "outlet": "kyeonggi.com",
+       "publishedAt": "2026-11-20T14:45:00+09:00"
+      },
+      {
+       "title": "민주, 조희대 탄핵 소추 추진단 구성...단장 양부남 의원",
+       "desc": "정당과 공동 추진 여부는 아직 논의된 바 없다고 설명했습니다. 이어 민주당이 청와대와 논의를 거쳐 조희대 대법원장 탄핵 의견을 모았다는 언론 보도는 명백한 오보라며, 언론중재위원회에 제소할 예정이…",
+       "url": "https://www.ytn.co.kr/_ln/0101_202611201200194801",
+       "naverUrl": "https://n.news.naver.com/mnews/article/052/0002435604?sid=100",
+       "outlet": "ytn.co.kr",
+       "publishedAt": "2026-11-20T12:00:00+09:00"
+      },
+      {
+       "title": "[목민관 일기 ①] 황병직 영주시장의 좌충우돌 市政혁명기",
+       "desc": "이날 오후 대구에서 언론중재위원회 조정신청 일정이 잡혀 있었다. 인삼축제 기간에 시 직원들이 AI로 홍보 영상을 만들어 올렸다. 그는 \"나도 모르게 올린 것\"이라고 했다. 한 지역 일간지는 이를…",
+       "url": "https://monthly.chosun.com/news/articleView.html?idxno=72066",
+       "naverUrl": "",
+       "outlet": "monthly.chosun.com",
+       "publishedAt": "2026-11-20T11:12:00+09:00"
+      },
+      {
+       "title": "'약자'와 '청년' 안으며 불교의 진면목 알려준 어른",
+       "desc": "2010년 화쟁위원회를 발족시켰고 2015년에는 사부대중 100인 대중공사를 운영했다. 봉은사 직영 전환과 동국대... 한국불교를 대표하는 종교지도자로서 사회적 갈등을 중재하고 피해자들의 어려움을…",
+       "url": "http://www.ibulgyo.com/news/articleView.html?idxno=444247",
+       "naverUrl": "",
+       "outlet": "ibulgyo.com",
+       "publishedAt": "2026-11-20T09:40:00+09:00"
+      },
       {
        "title": "산림청·오마이뉴스, 소나무재선충병 보도 반론보도 합의",
        "desc": "산림청은 오마이뉴스의 소나무재선충병 관련 보도에 대해 지난 11월 13일 언론중재위원회 조정 결과, 산림청의 입장을 반영한 반론보도문을 게재하기로 합의했다고 밝혔다. 조정 대상은 오마이뉴스가 9월…",
@@ -17,349 +73,325 @@
        "naverUrl": "",
        "outlet": "woodkorea.co.kr",
        "publishedAt": "2026-11-20T01:26:00+09:00"
-      },
-      {
-       "title": "[반론보도] 「[단독] LH 공사장행 레미콘에 '물타기' 포착」 기사 등 관...",
-       "desc": "아닌 레미콘 기사가 믹서 트럭 관리를 위해 실시한 세척 작업이며, 보도에 실린 인터뷰 중 레미콘 배차 담당자는 본 공장과 무관한 관계자이다.\"라고 알려왔습니다. 이 보도문은 언론중재위원회의 조정에…",
-       "url": "https://news.jtbc.co.kr/article/NB12328942?influxDiv=NAVER",
-       "naverUrl": "https://n.news.naver.com/mnews/article/437/0000521541?sid=102",
-       "outlet": "jtbc.co.kr",
-       "publishedAt": "2026-11-19T18:41:00+09:00"
-      },
-      {
-       "title": "대법, 한덕수 '일부 무죄 취지' 파기환송…윤석열 재판에 어떤 영향 미...",
-       "desc": "특정 언론사에 대한 단전·단수 방안을 논의한 혐의로 기소됐다. 계엄 해제 이후 사후 작성된 계엄 선포문에... 국회 법제사법위원회 국민의힘 간사인 박형수 의원은 지난 16일 민주당 주도로 한 전…",
-       "url": "https://www.bbc.com/korean/articles/c6kgr05gey0ro?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-       "naverUrl": "",
-       "outlet": "bbc.com",
-       "publishedAt": "2026-11-19T17:43:00+09:00"
-      },
-      {
-       "title": "[속보]미·중·러 첫 3자 정상회담 시작…한반도 문제 거론될까",
-       "desc": "중국중앙TV(CCTV)와 러시아 국영언론 리아 노보스티는 19일 시진핑 중국 국가주석이 선전 기린산장에서... 회담 장소인 기린산장은 선전시 당 위원회와 시 정부의 주요 공식 접대시설이다. 기린산…",
-       "url": "https://www.khan.co.kr/article/202611191730001",
-       "naverUrl": "https://n.news.naver.com/mnews/article/032/0003483803?sid=104",
-       "outlet": "khan.co.kr",
-       "publishedAt": "2026-11-19T17:30:00+09:00"
-      },
-      {
-       "title": "경기도 \"빈칸 책임 안 미룬다\"…2424억 메울 재원도 액수도 시점도 없었...",
-       "desc": "앞서 도는 11월16일 별도 기자회견에서 MBC '스트레이트'의 2027년도 본예산 편성 보도를 왜곡·편파 보도로 규정하고 언론중재위원회 조정신청과 취재진 고발 방침을 밝혔다. 당시 회견은 법적…",
-       "url": "https://www.etoday.co.kr/news/view/2650428",
-       "naverUrl": "",
-       "outlet": "etoday.co.kr",
-       "publishedAt": "2026-11-19T15:02:00+09:00"
-      },
-      {
-       "title": "[정국진단] 장윤미 \"리트 만점, 불가능…부정행위 쪽으로 마음 기울어\"",
-       "desc": "[사진=뉴스핌TV] ◆프로필 -1980년생(서울) -숭의여고, 서울대 철학과, 이화여대 법학전문대학원 -언론중재위원회 위원, 한국여성변호사회 공보이사 -더불어민주당 22대 국회의원 선거 총선기획단…",
-       "url": "https://www.newspim.com/news/view/20261119000899",
-       "naverUrl": "",
-       "outlet": "newspim.com",
-       "publishedAt": "2026-11-19T13:57:00+09:00"
-      },
-      {
-       "title": "[김능구·장성철의 직언직썰 11월①][전문] \"'조작기소 특검'으로 진실 ...",
-       "desc": "그리고 진상규명위원회 같은 걸 만들어서 거의 한 9개월 동안 다 샅샅이 뒤졌는데 조작기소 수사에 대해서... 바로 언론 중재에 겁니다. 기자들이 잘 알지. 그래서 아마 철저한 과정을 거쳤을 겁니다…",
-       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748748",
-       "naverUrl": "",
-       "outlet": "polinews.co.kr",
-       "publishedAt": "2026-11-19T13:33:00+09:00"
-      },
-      {
-       "title": "결정권 없는 도, 떠넘겨지는 철탑… 불합리한 제도에 주민만 피해",
-       "desc": "박 지사는 지난 10일 천안시청 언론인 간담회에서 \"한전이 일방적으로 자기들 계획대로 가는 것에 대해... 특별법은 전력망 건설 갈등을 중재하는 중앙의 전력망확충위원회에는 도지사를 위원으로 넣었지…",
-       "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286411&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-       "naverUrl": "https://n.news.naver.com/mnews/article/047/0002536486?sid=102",
-       "outlet": "ohmynews.com",
-       "publishedAt": "2026-11-19T13:31:00+09:00"
       }
      ]
     },
     {
      "keyword": "반론보도",
-     "total": 473362,
+     "total": 473385,
      "items": [
       {
-       "title": "[기업 상생 성적표 ②] 건설기업들, 협력사와 아름다운 '상생'...현장 안...",
-       "desc": "반론보도닷컴은 올해 발표된 동반성장지수 평가 결과를 바탕으로 △제조 △건설 △식품 △가맹 등 4개 업종의 주요 상생 사례를 네 차례에 걸쳐 소개한다. 기업별 지원 내용과 협력 현장의 사례를 통해…",
-       "url": "https://www.banronbodo.com/news/articleView.html?idxno=33404",
-       "naverUrl": "",
-       "outlet": "banronbodo.com",
-       "publishedAt": "2026-11-20T08:00:00+09:00"
+       "title": "수능 당일, 모습 감춘 교육부 장관...야 해임 요구 [정치ON]",
+       "desc": "아무튼 이진우 씨 사건이 그동안 쭉 계속 보도돼 왔었잖아요. 이게 사실 어제오늘 얘기가 아니에요, 또... 대한 반론이 반대의견에 대한 다수의견의 반론이 이런 거예요. 또 하나가 헌재에서 탄핵이…",
+       "url": "https://www.ytn.co.kr/_ln/0101_202611201632189769",
+       "naverUrl": "https://n.news.naver.com/mnews/article/052/0002435770?sid=100",
+       "outlet": "ytn.co.kr",
+       "publishedAt": "2026-11-20T16:32:00+09:00"
       },
       {
-       "title": "AI가 정답을 쓰는 시대, 시험은 무엇을 물어야 하고 수험산업의 미래는...",
-       "desc": "정황이 보도됐다. 2026년 11월 19일 치러진, 2027학년도 대학수학능력시험에서... 글쓰기에서도 초고를 쓴 뒤 AI가 제시한 반론을 검토하고, 고친 문장에 어떤 판단이...",
-       "url": "http://www.breaknews.com/1252487",
+       "title": "이정재 측, ‘사익 추구’ 의혹에 정면 반박…“언론 공방 중단, 민형사...",
+       "desc": "정정·반론보도청구 등 법적 절차를 통해 각 사안의 시시비비를 가리겠다. 허위사실 적시 및 명예훼손 등 위법 소지가 확인되는 부분에 대해서는 민·형사상 법적 조치를 진행하겠다”고 전했다. 앞서 디스…",
+       "url": "https://isplus.com/article/view/isp202611200127",
+       "naverUrl": "",
+       "outlet": "isplus.com",
+       "publishedAt": "2026-11-20T16:30:00+09:00"
+      },
+      {
+       "title": "[반론보도] <[단독]용혜인 후원회장에 당 노무비 지급…‘일감 몰아주기...",
+       "desc": "취지로 보도하였습니다. 이에 대해 기본소득당은 “해당 노무법인은 입·퇴사 신고, 4대 보험 관련 신고... 보기에는 그 규모가 지나치게 미미하다”라고 알려왔습니다. 이 보도는 언론중재위원회의 조정…",
+       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560902",
+       "naverUrl": "https://n.news.naver.com/mnews/article/449/0000368174?sid=100",
+       "outlet": "ichannela.com",
+       "publishedAt": "2026-11-20T15:34:00+09:00"
+      },
+      {
+       "title": "'오징어 게임' 이정재 200억 출연료 받아도…회사 몫은 4억?",
+       "desc": "한편 아티스트컴퍼니는 이번 보도에 대해 사실관계 왜곡과 명예훼손 여부를 검토해 정정보도·반론보도·손해배상 청구 등 법적 조치에 나서겠다는 입장을 밝혔다. (더쎈뉴스 / The CEN News)",
+       "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769891",
+       "naverUrl": "",
+       "outlet": "mhns.co.kr",
+       "publishedAt": "2026-11-20T14:52:00+09:00"
+      },
+      {
+       "title": "이정재와 정우성의 헤어질 결심, 이유는 / ‘청담부부’가 세운 회사에...",
+       "desc": "19일에는 추가 입장문을 내고 이정재가 가진 글로벌 브랜드 가치와 사업 참여의 경제적 가치를 고려해야 한다며 법무법인을 선임해 정정·반론보도 청구 등 법적 절차를 진행하겠다고 밝혔다. 결국 아티스…",
+       "url": "http://topclass.chosun.com/news/articleView.html?idxno=37082",
+       "naverUrl": "",
+       "outlet": "topclass.chosun.com",
+       "publishedAt": "2026-11-20T13:50:00+09:00"
+      },
+      {
+       "title": "필자의 주장...“이 시대, 시대정신은? 진실이 넘치는 한국사회 건설”",
+       "desc": "김수환 추기경은 \"언론이 진실을 보도하면 국민들은 빛 속에서 살 것이고, 권력의... 기사의 결론만 던져줄 것이 아니라, 취재 과정과 인용 데이터, 반론권 보장 여부를...",
+       "url": "http://www.breaknews.com/1252632",
        "naverUrl": "",
        "outlet": "breaknews.com",
-       "publishedAt": "2026-11-20T07:50:00+09:00"
+       "publishedAt": "2026-11-20T13:46:00+09:00"
       },
       {
-       "title": "2027학년도 수능 AI 커닝 논란…LEET 만점자 사망, 공정성과 인권의 시험...",
-       "desc": "해명과 반론의 기회가 보장돼야 한다. 글로벌 언론이 주목한 한국의 시험제도…공정성은 처벌만으로 완성되지 않는다 로이터통신은 AI 부정행위 사건이 한국의 시험 중심 교육제도에 대한 신뢰를 흔들었다고…",
-       "url": "http://www.incheonin.com/news/articleView.html?idxno=122423",
-       "naverUrl": "",
-       "outlet": "incheonin.com",
-       "publishedAt": "2026-11-20T07:40:00+09:00"
+       "title": "'최민희 녹취록'이 뒤흔든 與…'석청 내전' 판이 뒤집혔다",
+       "desc": "보도 전후 상황의 막전막후를 밝히면, 최 최고위원은 당초 본지의 반론 요청에 전화통화에서 직접 \"대통령님도 우리 탄핵 시기 처음에 탄핵을 찬성하지도 않으셨다\"며 \"그거 아시나? 대통령께서 처음에는…",
+       "url": "https://www.sisajournal.com/news/articleView.html?idxno=394545",
+       "naverUrl": "https://n.news.naver.com/mnews/article/586/0000142715?sid=100",
+       "outlet": "sisajournal.com",
+       "publishedAt": "2026-11-20T12:00:00+09:00"
       },
       {
-       "title": "〈호주는 지금〉 상장 철회 11일 뒤 퍼머스 \"웨슬리베일 1단계 자금 확보...",
-       "desc": "화면=호주 ABC 뉴스 10월 21일자 보도 갈무리. 원사진 제공=태즈메이니아주 의회.... 제보 및 반론: pcseong@naver.com 아래는 위 기사를 영문으로 옮긴 전문입니다. 이해를...",
-       "url": "http://www.breaknews.com/1252468",
+       "title": "유엔 기후변화 보고서 지연에 지구적 점검도 흔들, 글로벌 온실가스 감...",
+       "desc": "20일 주요 외신 보도를 종합하면 유엔 산하 '기후변화에 관한 정부 간 협의체(IPCC)'의 제7차 평가 보고서... 대해서도 반론이 제기된다. 국제 기후 리더십 단체 '디 엘더스(The Elde…",
+       "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452499",
        "naverUrl": "",
-       "outlet": "breaknews.com",
-       "publishedAt": "2026-11-20T07:28:00+09:00"
-      },
-      {
-       "title": "[하은선의 할리우드 리포트] 카메라를 먼저 부른 사기꾼 ‘유 캔 씨 에브...",
-       "desc": "명확한 수사 보고서나 탐사 보도를 기대한 관객에게는 불친절하고, 범죄의 실체를 온전히 규명하려는... 재현의 완벽함이 곧 진실은 아니라는 사실을 일깨우는 날카로운 반론이다. /하은선 골든글로브 재…",
-       "url": "https://www.sedaily.com/article/20116308?ref=naver",
-       "naverUrl": "",
-       "outlet": "sedaily.com",
-       "publishedAt": "2026-11-20T07:01:00+09:00"
-      },
-      {
-       "title": "선고 날 아침의 '탄핵' 소리",
-       "desc": "허위 공문서 작성과 위증 부분은 원심 판단이 정당하다고 봤다는 보도도 나왔다. 한 전 총리의 구속 기간은... 반론도 안다. 12·3 비상계엄은 헌정 질서를 위협한 중대한 사건이었고, 국민은 그…",
-       "url": "https://www.gokorea.kr/news/articleView.html?idxno=886486",
-       "naverUrl": "",
-       "outlet": "gokorea.kr",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
-      },
-      {
-       "title": "64% 폭락에도 이더리움 담는다…미 기고자가 꼽은 세 가지 이유",
-       "desc": "있다고 보도했다. 공동 창업자 비탈릭 부테린의 인공지능(AI)·양자내성 로드맵과 탈중앙화금융(DeFi)... 낙폭이라는 반론을 제기했다. 바술토는 \"이더리움 투자자에게 조정은 폭락이 됐다\"면서도…",
-       "url": "https://www.g-enews.com/view.php?ud=202611200300385870e7e8286d56_1",
-       "naverUrl": "",
-       "outlet": "g-enews.com",
-       "publishedAt": "2026-11-20T05:10:00+09:00"
-      },
-      {
-       "title": "산림청·오마이뉴스, 소나무재선충병 보도 반론보도 합의",
-       "desc": "산림청은 오마이뉴스의 소나무재선충병 관련 보도에 대해 지난 11월 13일 언론중재위원회 조정 결과, 산림청의 입장을 반영한 반론보도문을 게재하기로 합의했다고 밝혔다. 조정 대상은 오마이뉴스가 9월…",
-       "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92702",
-       "naverUrl": "",
-       "outlet": "woodkorea.co.kr",
-       "publishedAt": "2026-11-20T01:26:00+09:00"
+       "outlet": "businesspost.co.kr",
+       "publishedAt": "2026-11-20T11:50:00+09:00"
       }
      ]
     },
     {
      "keyword": "정정보도",
-     "total": 507975,
+     "total": 507992,
      "items": [
       {
-       "title": "\"주식 수익률 75%\" 박하나, 결혼 1주년에 임신 겹경사…난임 '극복' 응원...",
-       "desc": "다만 이날 쌍둥이를 임신했다는 보도가 나오자 박하나는 초음파 사진과 함께 \"쌍둥이는 아닙니다\"라고 직접 정정하기도 했다. 무엇보다 박하나와 김태술 부부의 남다른 신혼생활도 다시 주목받고 있다. 앞…",
-       "url": "http://www.osen.co.kr/article/G1112912327",
+       "title": "이정재 측, ‘사익 추구’ 의혹에 정면 반박…“언론 공방 중단, 민형사...",
+       "desc": "선임하여 정정·반론보도청구 등 법적 절차를 통해 각 사안의 시시비비를 가리겠다. 허위사실 적시 및 명예훼손 등 위법 소지가 확인되는 부분에 대해서는 민·형사상 법적 조치를 진행하겠다”고 전했다.…",
+       "url": "https://isplus.com/article/view/isp202611200127",
        "naverUrl": "",
-       "outlet": "osen.co.kr",
-       "publishedAt": "2026-11-20T06:30:00+09:00"
+       "outlet": "isplus.com",
+       "publishedAt": "2026-11-20T16:30:00+09:00"
       },
       {
-       "title": "박하나♥김태술, 결혼 1년 만에 임신 소식⋯\"쌍둥이는 아냐\"",
-       "desc": "다만 박하나는 임신 소식이 전해진 뒤 쌍둥이를 임신했다는 보도가 나오자 “쌍둥이는 아닙니다”라며 직접 정정하기도 했다. 한편 박하나는 농구선수 출신 감독 김태술과 지난해 6월 결혼했다. 이후 시험…",
-       "url": "https://www.etoday.co.kr/news/view/2650645",
+       "title": "JP모건 다크웹 공습···본게임 전 8개 블랙홀에 전세계 털렸다",
+       "desc": "KB국민은행의 피해 규모는 초기 119명에서 2210명으로 정정됐고, 예가람저축은행에서는 침해 발생과 인지... 미국 JP모건 관련 2026년 11월 보도에서도 외부 서비스업체를 통한 고객정보 노…",
+       "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261422",
        "naverUrl": "",
-       "outlet": "etoday.co.kr",
-       "publishedAt": "2026-11-20T00:14:00+09:00"
+       "outlet": "womaneconomy.co.kr",
+       "publishedAt": "2026-11-20T16:12:00+09:00"
       },
       {
-       "title": "김태술♥박하나 꿈꿨던 쌍둥이 부모 되나..초음파 추가 공개 \"NO\" 정정 [...",
-       "desc": "직접 정정했다. 19일 박하나는 자신의 SNS를 통해 아기의 초음파 사진을 추가로 공개하며 \"쌍둥이는 아닙니다\"라는 짧고 명확한 글을 남겼다. 앞서 이날 박하나가 쌍둥이를 임신했다는 보도가 나오면…",
-       "url": "http://www.osen.co.kr/article/G1112912313",
-       "naverUrl": "",
-       "outlet": "osen.co.kr",
-       "publishedAt": "2026-11-19T22:28:00+09:00"
+       "title": "[정정 및 반론보도] <[단독]기본소득당 시도당 사무실 찾아가보니 ‘농...",
+       "desc": "의혹을 보도하며 기본소득당이 각 시·도당에 올해 약 1억 5천만 원을 교부하였으며, 그 재원에 국고보조금이 포함되어 있다는 취지로 보도했습니다. 그러나 사실 확인 결과, 기본소득당이 해당 기간 시…",
+       "url": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560901",
+       "naverUrl": "https://n.news.naver.com/mnews/article/449/0000368173?sid=100",
+       "outlet": "ichannela.com",
+       "publishedAt": "2026-11-20T15:33:00+09:00"
       },
       {
-       "title": "'김태술♥' 박하나, 시험관 시술 끝 임신 성공…결혼 1년 5개월 만에 부...",
-       "desc": "특히 이날 일부 매체에서 박하나가 쌍둥이를 임신했다고 보도했지만, 이는 사실이 아닌 것으로 확인됐다. 박하나는 자신의 인스타그램 계정을 통해 \"쌍둥이는 아닙니다\"라며 직접 정정했다. 앞서 박하나는…",
-       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280995",
+       "title": "제넥신 임시주총서 AI 관련 정관 변경안 부결",
+       "desc": "제넥신의 주주총회 결과 공시를 인용한 보도에 따르면 의결권을 행사한 주식 가운데 찬성률은 97.5%였지만... 제넥신이 11월 2일 정정한 임시주주총회 소집결의에는 신규사업인 의료용 AI 사업을…",
+       "url": "https://www.vegannews.co.kr/news/article.html?no=408151",
        "naverUrl": "",
-       "outlet": "topstarnews.net",
-       "publishedAt": "2026-11-19T22:16:00+09:00"
+       "outlet": "vegannews.co.kr",
+       "publishedAt": "2026-11-20T14:56:00+09:00"
       },
       {
-       "title": "[취재수첩]비판 기사 외면 조직, 변화의 기회도 놓친다",
-       "desc": "사실관계가 다르다면 객관적 근거로 바로잡으면 되지만, 잘못된 보도에 대한 정정과 비판 보도를 공유에서 제외하는 것은 전혀 다른 문제다. ‘통제받지 않으려면 스스로를 통제해야 한다’는 말처럼 외부…",
-       "url": "http://www.kjdaily.com/article.php?aid=1795081880692943011",
+       "title": "'오징어 게임' 이정재 200억 출연료 받아도…회사 몫은 4억?",
+       "desc": "한편 아티스트컴퍼니는 이번 보도에 대해 사실관계 왜곡과 명예훼손 여부를 검토해 정정보도·반론보도·손해배상 청구 등 법적 조치에 나서겠다는 입장을 밝혔다. (더쎈뉴스 / The CEN News)",
+       "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769891",
        "naverUrl": "",
-       "outlet": "kjdaily.com",
-       "publishedAt": "2026-11-19T18:54:00+09:00"
+       "outlet": "mhns.co.kr",
+       "publishedAt": "2026-11-20T14:52:00+09:00"
       },
       {
-       "title": "[정정보도] 광양시청 A팀장의 직원 괴롭힘 및 생활폐기물 비위 관련 보...",
-       "desc": "취지로 보도하였습니다. 그러나 A팀장은 2023년 태인동에서 근무하지 않은 것으로 확인됐습니다. 또한... 이르렀다는 보도는 사실과 다른 것으로 확인돼 이를 바로잡습니다. 본지는 또 A팀장이 생활…",
-       "url": "https://www.nspna.com/news/?mode=view&newsid=836969",
+       "title": "이정재와 정우성의 헤어질 결심, 이유는 / ‘청담부부’가 세운 회사에...",
+       "desc": "19일에는 추가 입장문을 내고 이정재가 가진 글로벌 브랜드 가치와 사업 참여의 경제적 가치를 고려해야 한다며 법무법인을 선임해 정정·반론보도 청구 등 법적 절차를 진행하겠다고 밝혔다. 결국 아티스…",
+       "url": "http://topclass.chosun.com/news/articleView.html?idxno=37082",
        "naverUrl": "",
-       "outlet": "nspna.com",
-       "publishedAt": "2026-11-19T16:48:00+09:00"
+       "outlet": "topclass.chosun.com",
+       "publishedAt": "2026-11-20T13:50:00+09:00"
       },
       {
-       "title": "[저녁 뉴스브리핑] 비트코인 ETF서 3억650만달러 순유출 外",
-       "desc": "미쓰이물산은 19일 개인투자자 대상 무담보 증권형 토큰 회사채 발행을 위해 간토재무국에 정정... CNBC는 트럼프 대통령이 19일 두 정상과 각각 개별 회동했다고 보도했다. AP통신(Associ…",
-       "url": "https://www.tokenpost.kr/news/briefing/440637",
+       "title": "이화공영, '684만원 인수' 한주희 대표 바디프랜드 '가짜 회장' 논란에 ...",
+       "desc": "관련 보도에 따르면 재판부는 이사회 결의 없이 회장을 위촉하고 공동 운용사와 사전 합의 없이... 이화공영은 지난 2월 13일 주주총회소집결의 정정공시를 통해 한 회장의 경력을 기존 '한앤브라더스…",
+       "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101283",
        "naverUrl": "",
-       "outlet": "tokenpost.kr",
-       "publishedAt": "2026-11-19T16:04:00+09:00"
+       "outlet": "upkoreanews.kr",
+       "publishedAt": "2026-11-20T13:38:00+09:00"
       },
       {
-       "title": "공익제보자 보호한다면서 실명 거론?…서울시의원들 발언 논란",
-       "desc": "속기록 정정을 요청했다. 실명 공개에 대한 우려가 제기된 뒤에야 익명으로 바꿔 부르겠다고 한 것이다.... 이미 국정감사나 언론 보도 등으로 이름이 알려졌다는 사실만으로 공익신고자의 신원을 다시…",
-       "url": "https://www.sedaily.com/article/20116461?ref=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/011/0004683991?sid=102",
-       "outlet": "sedaily.com",
-       "publishedAt": "2026-11-19T15:01:00+09:00"
+       "title": "'최민희 녹취록'이 뒤흔든 與…'석청 내전' 판이 뒤집혔다",
+       "desc": "하지만 보도 직후 최 최고위원은 시사저널에 \"처음부터 이 대통령이 탄핵을 찬성한 게 아니다\"라고 입장을 정정했다가, 청와대 입장이 나오자 \"계엄 전 상황을 가리킨 것이다. 시기에 대해 헷갈린 점이…",
+       "url": "https://www.sisajournal.com/news/articleView.html?idxno=394545",
+       "naverUrl": "https://n.news.naver.com/mnews/article/586/0000142715?sid=100",
+       "outlet": "sisajournal.com",
+       "publishedAt": "2026-11-20T12:00:00+09:00"
       }
      ]
     },
     {
      "keyword": "방송미디어통신위원회",
-     "total": 185148,
+     "total": 185210,
      "items": [
       {
-       "title": "비만약 불법거래에 칼 빼든 식약처…특별TF 가동",
-       "desc": "식약처는 불법판매 게시물이 적발되면 방송미디어통신심의위원회 등에 즉시 차단을 요청할 예정이다. 아울러 해외에서 자가 치료 목적으로 구매해 휴대 반입한 의약품을 국내에서 재판매하거나 지인에게 제공하…",
-       "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626355",
+       "title": "KISA, AI로 악성 문자 5억건·스팸 전화 1200만건 차단",
+       "desc": "KISA와 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 '2026 스팸 데이터 개방 성과 공유회'를 개최했다. 팸 데이터 개방 협력 기관·기업과 주요 성과를 공유하고 불법스팸 대응체계…",
+       "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717114",
        "naverUrl": "",
-       "outlet": "mdtoday.co.kr",
-       "publishedAt": "2026-11-20T08:00:00+09:00"
+       "outlet": "digitaltoday.co.kr",
+       "publishedAt": "2026-11-20T16:40:00+09:00"
       },
       {
-       "title": "주먹다짐에 발길질까지…난투극으로 번진 아르메니아 TV 토론 [잇슈 SNS]",
-       "desc": "전 세계 소셜미디어와 인터넷 세상에서 어떤 이슈와 영상들이 주목받았을까요? 첫 번째는 아르메니아의 한... 이에 아르메니아 방송 통신 위원회는 공영 방송사가 폭언과 폭력 장면을 편집 없이 송출한…",
-       "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718038&ref=A",
-       "naverUrl": "https://n.news.naver.com/mnews/article/056/0012297792?sid=104",
-       "outlet": "kbs.co.kr",
-       "publishedAt": "2026-11-20T07:37:00+09:00"
-      },
-      {
-       "title": "[삼성SDS 인사 전망] 이준희 체제 금융·로봇 전문가 영입… AI 조직 인력...",
-       "desc": "경영위원회에 합류했다. 현재 재무와 경영관리 업무를 총괄하며 사내이사 임기는 2029년 3월 17일까지다.... 영국 요크대에서 정책학 박사학위를 취득했으며 과학기술정보통신부 디지털방송정책과장과…",
-       "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083409",
+       "title": "‘AI 안경’만 문제가 아니었다…초소형 카메라·이어폰 판매처 찾아보...",
+       "desc": "방송미디어통신위원회는 지난 17일 시험 부정행위를 조장하는 정보의 유통을 막기 위해 관계기관 및 플랫폼 사업자와 협력하겠다고 밝혔다. 다만 초소형 카메라와 이어폰의 판매 자체가 불법은 아닌 만큼…",
+       "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513741",
        "naverUrl": "",
-       "outlet": "newsclaim.co.kr",
-       "publishedAt": "2026-11-20T07:08:00+09:00"
+       "outlet": "ilyo.co.kr",
+       "publishedAt": "2026-11-20T16:38:00+09:00"
       },
       {
-       "title": "[오늘 재경부 등 경제부처 일정]",
-       "desc": "본부장 7대 SEED 이행전략 점검회의(과기자문회의) ▲16:30 부총리 UAE 건국 55주년 국경일 기념행사(그랜드하얏트 서울) [방송미디어통신위원회] ▲10:00 부위원장 과방위 법안소위(국회…",
-       "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445641",
+       "title": "발달장애 부모들이 만든 '장애IS뭔들', 2026 시청자미디어대상 대상 수상",
+       "desc": "방송미디어통신위원회가 주최하고 시청자미디어재단이 주관한 이번 공모전에서 '장애IS뭔들'은 발달장애 자녀를 양육하는 부모들이 직접 기획하고 제작한 작품으로 장애에 대한 사회적 인식을 돌아보고 서로…",
+       "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=234786",
        "naverUrl": "",
-       "outlet": "einfomax.co.kr",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "outlet": "ablenews.co.kr",
+       "publishedAt": "2026-11-20T16:32:00+09:00"
       },
       {
-       "title": "전합 판결인데 조희대만?…한동훈 \"與, 탄핵하려면 대법관 전원 하라\" 등...",
-       "desc": "적발된 게시물은 방송미디어통신심의위원회 등에 즉시 차단을 요청할 예정이다. ▲수능 4교시까지 부정행위 98명 적발…절반은 위급재난문자로 확인 2027학년도 대학수학능력시험에서 4교시 종료 시점까지…",
-       "url": "https://www.dailian.co.kr/news/view/1717497/?sc=Naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/119/0003157446?sid=100",
-       "outlet": "dailian.co.kr",
-       "publishedAt": "2026-11-20T06:01:00+09:00"
-      },
-      {
-       "title": "[오늘의 주요일정]과기정통부·방미통위·개보위(11월 20일 금요일)",
-       "desc": "법안2소위(10:00, 국회) ▲박인규 본부장, 7대 SEED 이행전략 점검회의(13:00, KT빌딩 13층) <방송미디어통신위원회> - <개인정보보호위원회> ▲송경희 위원장, 제48차 GPA 총…",
-       "url": "https://www.newsis.com/view/NISX20261119_0003875687",
-       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014334540?sid=105",
-       "outlet": "newsis.com",
-       "publishedAt": "2026-11-20T05:00:00+09:00"
-      },
-      {
-       "title": "머스크, 중국 전기차 생산 확대 예고…테슬라 상하이 공장 다시 주목",
-       "desc": "중국국제무역촉진위원회(CCPIT) 런훙빈 회장과 만난 자리에서 중국 내 자동차 생산을 계속 확대하겠다는 뜻을 전했다. 해당 발언은 중국 관영 중앙방송(CCTV)과 연계된 소셜미디어 채널을 통해 알…",
-       "url": "https://www.jemin.com/news/articleView.html?idxno=847859",
+       "title": "스팸 문자 5억 건·전화 1200만 건 막았다...KISA, 스팸 데이터 개방 성과...",
+       "desc": "최근에는 전화 통화에도 같은 방식을 적용하면서 스팸 차단 범위가 확대되고 있다.한국인터넷진흥원(KISA)은 20일 서울 피스앤파크 컨벤션에서 방송미디어통신위원회와 함께 '2026 스팸 데이터 개방…",
+       "url": "https://news.mtn.co.kr/article/2026112015243974516",
        "naverUrl": "",
-       "outlet": "jemin.com",
-       "publishedAt": "2026-11-20T01:14:00+09:00"
+       "outlet": "mtn.co.kr",
+       "publishedAt": "2026-11-20T16:26:00+09:00"
       },
       {
-       "title": "“전세계 웃음거리”…트럼프, 시진핑 연설 중 꾸벅? ‘졸음 논란’에 ...",
-       "desc": "영국 가디언은 트럼프 대통령이 눈을 감은 모습이 화면에 나오자 APEC 미디어센터에 있던 취재진 사이에서도... 한편 AP통신은 중국 방송이 트럼프 대통령의 졸린 듯한 모습을 내보낸 반면, 백악관…",
-       "url": "https://www.seoul.co.kr/news/international/2026/11/20/20261120500001?wlog_tag3=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/081/0003701316?sid=104",
-       "outlet": "seoul.co.kr",
-       "publishedAt": "2026-11-20T01:06:00+09:00"
+       "title": "\"K-FAST 글로벌 기회 커...정부, 해외진출 지원 늘려야\"",
+       "desc": "이어 “방송미디어통신위원회와 과학기술정보통신부가 힘을 합쳐 AI 혁신과 미디어테크의 글로벌 진출을 지원해 줬으면 한다”며 “얼라이언스와 기술 기업, 정부 부처 간 협업을 통해 K-FAST의 글로벌…",
+       "url": "https://zdnet.co.kr/view/?no=20261120160251",
+       "naverUrl": "https://n.news.naver.com/mnews/article/092/0002446254?sid=105",
+       "outlet": "zdnet.co.kr",
+       "publishedAt": "2026-11-20T16:11:00+09:00"
+      },
+      {
+       "title": "국민 스팸 신고, AI 차단에 활용...\"악성 문자 5억건 걸렀다\"",
+       "desc": "KISA와 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 '2026 스팸 데이터 개방 성과 공유회'를 열고 공공·민간 협력 성과를 발표했다. 양 기관은 국민이 신고한 대규모 스팸 데이터를…",
+       "url": "https://www.joongangenews.com/news/articleView.html?idxno=565509",
+       "naverUrl": "",
+       "outlet": "joongangenews.com",
+       "publishedAt": "2026-11-20T16:08:00+09:00"
+      },
+      {
+       "title": "AI가 먼저 걸렀다…스팸 데이터 개방으로 대량 악성문자·스팸전화 수신...",
+       "desc": "한국인터넷진흥원(KISA)과 방송미디어통신위원회는 20일 서울 피스앤파크 컨벤션에서 '2026 스팸 데이터 개방 성과 공유회'를 개최하고 이 같은 내용을 공개했다. KISA는 불법스팸이 단순 광고…",
+       "url": "https://www.aitimes.com/news/articleView.html?idxno=217628",
+       "naverUrl": "",
+       "outlet": "aitimes.com",
+       "publishedAt": "2026-11-20T16:02:00+09:00"
+      },
+      {
+       "title": "AI로 악성문자 5억건 차단했다…스팸 전화도 1,200만건 잡아",
+       "desc": "한국인터넷진흥원(KISA)과 방송미디어통신위원회는 오늘(20일) 서울 피스앤파크 컨벤션에서 ‘2026 스팸 데이터 개방 성과 공유회’를 열고 이같이 밝혔습니다. KISA와 방미통위는 국민이 신고한…",
+       "url": "http://www.yonhapnewstv.co.kr/news/AKR20261120155821wEr",
+       "naverUrl": "https://n.news.naver.com/mnews/article/422/0000928260?sid=101",
+       "outlet": "yonhapnewstv.co.kr",
+       "publishedAt": "2026-11-20T15:59:00+09:00"
       }
      ]
     },
     {
      "keyword": "한국기자협회",
-     "total": 101039,
+     "total": 101047,
      "items": [
       {
-       "title": "[사랑방] 윤성민 기자, 이달의 기자상 수상",
-       "desc": "한국기자협회는 19일 제434회(2026년 10월) 이달의 기자상 수상작으로 윤성민(사진) 중앙일보 기자의 ‘AI 기업의 대량 도서 매입과 도서·음악 무단 학습’ 보도 등 8편을 선정했다. 시상식…",
-       "url": "https://www.joongang.co.kr/article/25480280",
-       "naverUrl": "https://n.news.naver.com/mnews/article/025/0003566563?sid=102",
-       "outlet": "joongang.co.kr",
-       "publishedAt": "2026-11-20T00:01:00+09:00"
-      },
-      {
-       "title": "‘특조금 대해부’ 일경언론상 장려상",
-       "desc": "해당 보도는 앞서 한국기자협회 제426회 이달의 기자상과 민주언론시민연합 2026년 2월 이달의 좋은 보도상 수상작으로도 선정된 바 있다. 한편 시상식은 다음 달 9일 오전 11시 한국프레스센터에…",
-       "url": "https://www.kyeongin.com/article/1775099",
-       "naverUrl": "",
-       "outlet": "kyeongin.com",
-       "publishedAt": "2026-11-19T20:08:00+09:00"
-      },
-      {
-       "title": "뉴스룸 여성임원 비율 답보… 부국장급 첫 20% 돌파",
-       "desc": "지난해 임명된 강경희 조선일보 편집국장, 김란 코리아타임스 편집국장이 올해도 임기를 이어가며 여성이 편집·보도국장을 맡은 언론사는 지난해보다 두 곳 증가한 총 4곳(한국여성기자협회 회원사 기준)이…",
-       "url": "http://www.journalist.or.kr/news/article.html?no=62119",
-       "naverUrl": "https://n.news.naver.com/mnews/article/127/0000040093?sid=102",
+       "title": "기협·장애인개발원 '장애인권 우수보도 기자상' 첫 선정",
+       "desc": "한국기자협회(회장 박종현)와 한국장애인개발원(원장 김정열)이 장애인권 증진과 책임 있는 장애 보도 문화 확산을 위해 공동으로 제정한 ‘장애인권 우수보도 기자상’ 첫 수상작으로 세계일보, 인천일보,…",
+       "url": "http://www.journalist.or.kr/news/article.html?no=62123",
+       "naverUrl": "https://n.news.naver.com/mnews/article/127/0000040096?sid=102",
        "outlet": "journalist.or.kr",
-       "publishedAt": "2026-11-19T18:43:00+09:00"
+       "publishedAt": "2026-11-20T15:49:00+09:00"
       },
       {
-       "title": "[철도 에너지 전환, 현장에서 길을 찾다] ② 스위스 SBB, 재생전력 100% ...",
-       "desc": "접근을 통해 안정적이고 경제적이며 지속가능한 철도 전력 공급을 확보하고 스위스의 에너지·기후 목표를 뒷받침하고자 한다\"고 밝혔다. ※본 기획 취재는 한국기자협회와 기후미디어허브의 지원을 받았습니다.",
-       "url": "https://www.electimes.com/news/articleView.html?idxno=374886",
+       "title": "'대한민국 기초연구 커넥트' 차담회",
+       "desc": "왼쪽부터 김성수 과학기술정보통신부 연구개발정책실장, 이은정 한국과학기자협회장, 권오남 한국과학기술단체총연합회장, 김선민 국회의원, 송기헌 국회 과학기술정보방송통신위원회 위원장, 배경훈 부총리, 오…",
+       "url": "https://www.news1.kr/photos/8225388",
+       "naverUrl": "https://n.news.naver.com/mnews/article/421/0009301742?sid=105",
+       "outlet": "news1.kr",
+       "publishedAt": "2026-11-20T15:43:00+09:00"
+      },
+      {
+       "title": "국제신문 정상화 길 마침내 열린다… 법원, 기업회생 강제인가 결정",
+       "desc": "부산지역 141개 시민사회단체, 부산시의회, 부산지역 구·군의회, 전국언론노동조합, 부산기자협회, 한국사진기자협회, 부울경언론학회, 부산대, 부산권대학언론연합 등 각계에서도 잇따라 탄원서와 성명서…",
+       "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338595",
+       "naverUrl": "https://n.news.naver.com/mnews/article/006/0000138854?sid=102",
+       "outlet": "mediatoday.co.kr",
+       "publishedAt": "2026-11-20T15:42:00+09:00"
+      },
+      {
+       "title": "'리트 만점자' 사망에 CCTV·유서까지…반복되는 보도준칙 위반 논란",
+       "desc": "20일 투데이신문 취재를 종합하면 이씨의 사망 소식을 전한 일부 언론 보도가 한국생명존중희망재단, 한국기자협회가 2024년 마련한 '자살예방 보도준칙 4.0'(이하 보도준칙)의 권고사항을 충분히…",
+       "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=131013",
+       "naverUrl": "",
+       "outlet": "ntoday.co.kr",
+       "publishedAt": "2026-11-20T15:16:00+09:00"
+      },
+      {
+       "title": "인천일보 기획보도 <점으로 읽는 빛>, 제1회 장애인권 우수보도 기자상...",
+       "desc": "한국기자협회는 '제1회 장애인권 우수보도 기자상' 수상작으로 본보 곽안나·이재민·안지섭 기자가 취재한 훈맹정음 반포 100주년 기획 <점으로 읽는 빛>을 선정했다고 20일 밝혔다. 장애인권 우수보…",
+       "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337383",
+       "naverUrl": "",
+       "outlet": "incheonilbo.com",
+       "publishedAt": "2026-11-20T15:10:00+09:00"
+      },
+      {
+       "title": "日재무상 \"스테이블코인·토큰화예금·국채 결합\"…범정부 포럼 주도",
+       "desc": "기대가 큰 사업이 법령상 가능하도록 지원해야 한다고”면서 “디파이 관련 논의는 사실상 진전이 없어 내년 중 해결되기를 바란다”고 덧붙였다. (※본 기획 취재는 한국기자협회와 기후미디어허브의 지원을…",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=03191446645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006413152?sid=101",
+       "outlet": "edaily.co.kr",
+       "publishedAt": "2026-11-20T14:32:00+09:00"
+      },
+      {
+       "title": "[철도 에너지 전환, 현장에서 길을 찾다] ③ 100년 된 獨 발헨제 수력발...",
+       "desc": "최소 수준으로 낮춘다\"며 \"풍력 등 다른 발전원의 공급이 갑자기 줄면 발전기 출력을 신속하게 높이는 방식으로 대응하고 있다\"고 밝혔다. ※본 기획 취재는 한국기자협회와 기후미디어허브의 지원을 받았…",
+       "url": "https://www.electimes.com/news/articleView.html?idxno=374900",
        "naverUrl": "",
        "outlet": "electimes.com",
-       "publishedAt": "2026-11-19T18:28:00+09:00"
+       "publishedAt": "2026-11-20T09:10:00+09:00"
       },
       {
-       "title": "한국기자협회 '이달의 기자상'에 한국일보·뉴시스 등 8편 선정",
-       "desc": "한국기자협회가 주관하는 한국기자상 심사위원회는 제434회(10월) 이달의 기자상 수상작으로 한국일보의 '전통예고 집단 성폭행·국악계 성착취' 등 총 8편을 선정했다고 19일 밝혔다. 사진보도부문에…",
-       "url": "https://www.newsis.com/view/NISX20261119_0003875408",
-       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014334075?sid=102",
-       "outlet": "newsis.com",
-       "publishedAt": "2026-11-19T17:44:00+09:00"
-      },
-      {
-       "title": "이달의 기자상에 중앙일보 ‘AI 기업의 대량 도서 매입과 도서·음악 무...",
-       "desc": "한국기자협회는 제434회(2026년 10월) 이달의 기자상 수상작으로 중앙일보 윤성민 기자의 ‘AI 기업의 대량 도서 매입과 도서·음악 무단 학습’ 보도 등 8편을 선정했다고 19일 밝혔다. 취재…",
-       "url": "https://www.joongang.co.kr/article/25480209",
-       "naverUrl": "https://n.news.naver.com/mnews/article/025/0003566501?sid=103",
-       "outlet": "joongang.co.kr",
-       "publishedAt": "2026-11-19T17:26:00+09:00"
-      },
-      {
-       "title": "한국일보 '국악계 성착취' '유튜브 부족주의' 이달의 기자상",
-       "desc": "한국기자협회(회장 박종현)는 19일 한국기자상 심사위원회(위원장 김춘식 한국외대 교수)를 열고 취재보도1부문과 기획보도 신문·통신부문 수상작에 본보 '전통예고 집단 성폭행·국악계 성착취'(엑설런스…",
-       "url": "https://www.hankookilbo.com/news/article/A2026111915540005215?did=NA",
-       "naverUrl": "https://n.news.naver.com/mnews/article/469/0000966614?sid=102",
-       "outlet": "hankookilbo.com",
-       "publishedAt": "2026-11-19T16:41:00+09:00"
-      },
-      {
-       "title": "이달의 기자상에 한국일보 '전통예고 집단 성폭행' 등 8편",
-       "desc": "한국기자협회는 제434회(2026년 10월) 이달의 기자상 수상작으로 한국일보 '전통예고 집단 성폭행·국악계 성착취' 보도 등 8편을 선정했다고 19일 밝혔다. 한국일보 보도와 함께 MBC 'DN…",
-       "url": "https://www.yna.co.kr/view/AKR20261119136800005?input=1195m",
-       "naverUrl": "https://n.news.naver.com/mnews/article/001/0016452692?sid=103",
-       "outlet": "yna.co.kr",
-       "publishedAt": "2026-11-19T16:26:00+09:00"
+       "title": "[AP 미디어동향 11월 3주] 네이버뉴스제휴 합격률 '제로'",
+       "desc": "■ 성희롱ㆍ스토킹 노출 기자들…언론계 지원 실태 경고 [한국여성기자협회]는 외부인에 의한 성희롱ㆍ성폭력 대응 제도가 있는 언론사는 35개사 중 15곳에 그쳤으며, 스토킹ㆍ협박ㆍ악성댓글 등에 대한…",
+       "url": "https://www.apnews.kr/news/articleView.html?idxno=3053325",
+       "naverUrl": "",
+       "outlet": "apnews.kr",
+       "publishedAt": "2026-11-20T08:50:00+09:00"
       }
      ]
     },
     {
      "keyword": "포털 뉴스 제휴",
-     "total": 28937,
+     "total": 28941,
      "items": [
+      {
+       "title": "뉴스온미디어, 언론사 M&A 플랫폼 '미디어딜' 선보여",
+       "desc": "언론사 M&A는 일반 기업 거래와 달리 신문사업 등록 상태와 발행인·편집인 관련 요건, 포털 뉴스 제휴 현황, 기자 및 임직원 고용관계, 도메인과 콘텐츠 자산 등 별도로 확인해야 할 요소가 많다.…",
+       "url": "http://www.e2news.com/news/articleView.html?idxno=336335",
+       "naverUrl": "",
+       "outlet": "e2news.com",
+       "publishedAt": "2026-11-20T14:10:00+09:00"
+      },
+      {
+       "title": "뉴스온, 언론사 M&A 플랫폼 '미디어딜' 오픈… 비공개 거래 지원",
+       "desc": "특히 신문사업 등록 상태와 발행인·편집인 관련 요건, 포털 뉴스 제휴 현황, 기자 및 임직원 고용관계, 도메인과 콘텐츠 자산 등 언론사 거래에 필요한 사항을 고려해 인수·매각 절차를 지원한다. 초…",
+       "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399423",
+       "naverUrl": "",
+       "outlet": "fntoday.co.kr",
+       "publishedAt": "2026-11-20T13:40:00+09:00"
+      },
+      {
+       "title": "뉴스온미디어, 언론사 M&A 플랫폼 ‘미디어딜’ 오픈",
+       "desc": "특히 신문사업 등록 상태와 발행인ㆍ편집인 관련 요건, 포털 뉴스 제휴 현황, 기자 및 임직원 고용관계, 도메인과 콘텐츠 자산 등 언론사 특유의 거래 조건을 고려해 인수ㆍ매각 절차를 지원할 계획이다…",
+       "url": "https://www.sportsworldi.com/newsView/20261120507407",
+       "naverUrl": "https://n.news.naver.com/mnews/article/396/0000761462?sid=105",
+       "outlet": "sportsworldi.com",
+       "publishedAt": "2026-11-20T11:36:00+09:00"
+      },
+      {
+       "title": "[AP 미디어동향 11월 3주] 네이버뉴스제휴 합격률 '제로'",
+       "desc": "■ 다음, 검색제휴 원복하고 언론사와 AI 수익 나눈다 포털 [다음]이 AI를 활용한 뉴스 추천 서비스를 도입하고, 언론사 콘텐츠를 AI 기업에 판매하는 사업을 추진한다. 임광욱 다음 부사장은 1…",
+       "url": "https://www.apnews.kr/news/articleView.html?idxno=3053325",
+       "naverUrl": "",
+       "outlet": "apnews.kr",
+       "publishedAt": "2026-11-20T08:50:00+09:00"
+      },
       {
        "title": "[데스크 칼럼] 네이버, 뉴스 제휴 문턱 낮추기 전에 '기존 제휴사 1천개...",
        "desc": "이처럼 스스로의 영향력이 미미하다 보니 사이비 언론들은 뉴스 제휴를 앞세우고 포털을 무대로 날뛰며 기업에 광고·협찬을 요구해 왔다. 포털 제휴 사실을 명함에 넣어 영향력을 과시하는 일은 흔하다.…",
@@ -391,84 +423,76 @@
        "naverUrl": "",
        "outlet": "gukjenews.com",
        "publishedAt": "2026-11-19T09:44:00+09:00"
-      },
-      {
-       "title": "다음, AI 크롤러 차단한다더니… 아직도 뉴스 '줄줄' 샌다",
-       "desc": "포털 다음(Daum)이 자사 플랫폼에 게재되는 제휴 언론사 뉴스에 대해 인공지능(AI) 크롤러를 차단하겠다고 했지만 여전히 봇이 접근할 수 있는 상황인 것으로 나타났다. 다음은 약 한 달 전 전면…",
-       "url": "http://www.journalist.or.kr/news/article.html?no=62105",
-       "naverUrl": "https://n.news.naver.com/mnews/article/127/0000040080?sid=102",
-       "outlet": "journalist.or.kr",
-       "publishedAt": "2026-11-19T08:53:00+09:00"
       }
      ]
     },
     {
      "keyword": "OTT 광고",
-     "total": 56644,
+     "total": 56663,
      "items": [
       {
-       "title": "[AI 시대, 필란트로피를 묻다] 좋은 방송은 왜 시청률 앞에서 멈추는가",
-       "desc": "아울러 제작비 부족, 광고와 시청률에 대한 의존, OTT 및 뉴미디어와의 경쟁 속에서 공익성과 수익성 사이를 오가며 선택해야 하는 방송 종사자들의 갈등도 드러났다. 문제는 단순히 공익적 의지가 부…",
-       "url": "https://futurechosun.com/?p=167133",
+       "title": "\"K-FAST 글로벌 기회 커...정부, 해외진출 지원 늘려야\"",
+       "desc": "FAST(Free Ad-supported Streaming TV)는 광고를 보는 대신 방송 채널과 콘텐츠를 무료로 이용하는 스트리밍 서비스다. 미국을 중심으로 커넥티드TV 보급이 늘고 구독형 OT…",
+       "url": "https://zdnet.co.kr/view/?no=20261120160251",
+       "naverUrl": "https://n.news.naver.com/mnews/article/092/0002446254?sid=105",
+       "outlet": "zdnet.co.kr",
+       "publishedAt": "2026-11-20T16:11:00+09:00"
+      },
+      {
+       "title": "애플TV, 블프 프로모션...6개월간 50% 이상 할인",
+       "desc": "글로벌 온라인동영상서비스(OTT) 플랫폼 애플TV가 오는 30일까지 한정 기간 블랙프라이데이 프로모션을... 작품을 광고 없이 즐길 수 있다. 여기에 매달 새롭게 추가되는 엄선된 영화와 스포츠 생…",
+       "url": "https://www.slist.kr/news/articleView.html?idxno=783492",
        "naverUrl": "",
-       "outlet": "futurechosun.com",
-       "publishedAt": "2026-11-20T07:30:00+09:00"
+       "outlet": "slist.kr",
+       "publishedAt": "2026-11-20T16:06:00+09:00"
       },
       {
-       "title": "‘무빙’ 시즌2 결국 돌아온다…디즈니+ 새 인물과 이야기로 세계관 확...",
-       "desc": "지상파와 OTT 동시 송출작으로 상반기 라인업에 이름을 올렸다.“로컬 포 로컬”…투자는 늘리되 속도보다... 디즈니+는 지난 10일 월 7000원의 광고형 스탠다드 멤버십을 출시했고, G마켓과 제…",
-       "url": "https://www.wikitree.co.kr/articles/1176164",
+       "title": "삼성‧LG TV에 AI 더빙 더한다…K-FAST 글로벌 영토 확장",
+       "desc": "특히 일정 수준의 시청자층만 확보하면 꾸준한 광고 수익을 기대할 수 있다는 점에서 차세대 수익 모델로 주목받고 있다. 최근 글로벌 시장에서는 유료 OTT 구독 피로도가 높아지면서 가성비를 중시하는…",
+       "url": "http://journal.kobeta.com/?post_type=post&p=64509",
        "naverUrl": "",
-       "outlet": "wikitree.co.kr",
-       "publishedAt": "2026-11-20T07:26:00+09:00"
+       "outlet": "journal.kobeta.com",
+       "publishedAt": "2026-11-20T15:24:00+09:00"
       },
       {
-       "title": "10년 만에 풀리는 한한령…‘대륙의 남편’ 송중기 신드롬 재현될까[연...",
-       "desc": "2025년 국내 방송사업 매출은 18조6495억원으로 전년보다 0.8% 감소해 3년 연속 줄었고, 방송광고 매출은... 배우와 K팝 아티스트 등의 새로운 소식부터 영화·드라마·온라인동영상서비스(O…",
-       "url": "https://www.sedaily.com/article/20116564?ref=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/011/0004684232?sid=103",
-       "outlet": "sedaily.com",
-       "publishedAt": "2026-11-20T07:01:00+09:00"
-      },
-      {
-       "title": "[하재근의 시대공감] ‘문무’와 정통사극의 가치",
-       "desc": "방영 전에 사전 스페셜 프로그램들을 편성하고 광고를 수시로 내보낼 정도로 홍보에 열을 올렸다. 하지만 첫... 최근엔 유튜브나 OTT를 통해 이전의 영상콘텐츠도 언제든 볼 수 있기 때문에, 잘 만…",
-       "url": "https://www.yeongnam.com/web/view.php?key=20261119026372326",
+       "title": "[PPSS 기업해부 CJ그룹 ④] 영화에 투자한 식품회사…CJ는 어떻게 K컬처...",
+       "desc": "CJ ENM은 티빙을 중심으로 OTT 유통 역량도 강화했다. 전통적인 방송 광고와 극장 흥행에 의존하던 콘텐츠 산업이 구독과 디지털 광고, 글로벌 판권 판매를 결합하는 구조로 변화한 데 따른 대응…",
+       "url": "https://www.ppss.kr/news/articleView.html?idxno=322016",
        "naverUrl": "",
-       "outlet": "yeongnam.com",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
+       "outlet": "ppss.kr",
+       "publishedAt": "2026-11-20T14:30:00+09:00"
       },
       {
-       "title": "애플TV·아마존에 넷플릭스도 가세…2030 월드컵 미 중계권 ‘쩐의 전쟁...",
-       "desc": "2026년 대회에서 폭스스포츠와 텔레문도가 거둔 광고 수익은 약 11억9000만달러로 집계됐다. 스페인과... 한국에서는 기존 방송사가 확보한 중계권을 온라인동영상서비스(OTT)나 스트리밍 플랫폼…",
-       "url": "https://www.khan.co.kr/article/202611200600005",
-       "naverUrl": "https://n.news.naver.com/mnews/article/032/0003483930?sid=102",
-       "outlet": "khan.co.kr",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
-      },
-      {
-       "title": "노포 옆 MZ 성지… 100년 골목이 깨어난다",
-       "desc": "만경관, 한일극장, 아카데미 등 이른바 향토 극장도 멀티플렉스와 온라인동영상서비스(OTT)에 자리를 내줬다.... 청년 버스킹, 옥외광고물 특정구역 지정 등 다양한 대책을 쏟아내고 있다. 희망이…",
-       "url": "https://www.kmib.co.kr/article/20261119502160",
-       "naverUrl": "https://n.news.naver.com/mnews/article/005/0001886387?sid=102",
-       "outlet": "kmib.co.kr",
-       "publishedAt": "2026-11-20T02:42:00+09:00"
-      },
-      {
-       "title": "디즈니+도 광고형 요금제 출시…TV 넘보는 OTT, 가입자 경쟁",
-       "desc": "OTT의 ‘광고형 요금제’ 가 늘어나면서 OTT 이용자 수도 최근 1년 사이 급증한 것으로 나타났다. 국내 주요 5개 OTT(넷플릭스·티빙·쿠팡플레이·웨이브·디즈니+) 중 유일하게 구독형 요금제만…",
-       "url": "https://www.joongang.co.kr/article/25480299",
-       "naverUrl": "https://n.news.naver.com/mnews/article/025/0003566581?sid=103",
-       "outlet": "joongang.co.kr",
-       "publishedAt": "2026-11-20T00:02:00+09:00"
-      },
-      {
-       "title": "[윤준필의 시선] '무빙2'→'운명전쟁49'…디즈니플러스, '롱게임' 통할까",
-       "desc": "국내 OTT 티빙, 웨이브와 결합 요금제를 냈고 상대적으로 저렴한 광고형 스탠다드 멤버십을 출시했다. ESPN을 앞세워 MLB와 NBA 그리고 e스포츠 중계까지 손을 뻗고 있다. 드나들 문을 여러…",
-       "url": "https://enter.etoday.co.kr/news/view/305495",
+       "title": "웨이브, 드라마·예능 정주행 채널 20개 추가…골프 콘텐츠 확대",
+       "desc": "온라인동영상서비스(OTT) 웨이브가 드라마와 예능 정주행 채널 20개를 추가하고 골프 콘텐츠까지 라이브... 웨이브는 광고 기반 무료 스트리밍 TV(FAST) 서비스를 통해 유료 구독 여부와 관계…",
+       "url": "https://www.lawissue.co.kr/view.php?ud=202611201333576615204ead0791_12",
        "naverUrl": "",
-       "outlet": "enter.etoday.co.kr",
-       "publishedAt": "2026-11-19T23:30:00+09:00"
+       "outlet": "lawissue.co.kr",
+       "publishedAt": "2026-11-20T13:36:00+09:00"
+      },
+      {
+       "title": "한국마사회 부산경남 지원 '부산 AI 영화학교 2기' 성료",
+       "desc": "지난 6월부터 9월까지 MBC C&I 주관으로 영상창작자 우선으로 진행됐던 '부산 AI 영화학교 1기, AI OTT 콘텐츠... 그 결과 교육생들은 한국마사회를 소재로 '말'을 주인공으로 한 영상…",
+       "url": "https://www.fnnews.com/news/202611201231535491",
+       "naverUrl": "https://n.news.naver.com/mnews/article/014/0005607376?sid=105",
+       "outlet": "fnnews.com",
+       "publishedAt": "2026-11-20T12:34:00+09:00"
+      },
+      {
+       "title": "신혜선, 양손 가득 포즈로 반가운 근황…12월 팬미팅 앞둔 미소",
+       "desc": "이후 지상파, 케이블, OTT 플랫폼을 오가며 주연 배우로 자리잡으며 활동 반경을 넓혀 왔다. 대표작 '황금빛... 신혜선은 예능과 화보, 광고에서도 활발한 행보를 보였다. 'SNL 코리아 리부트…",
+       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16281391",
+       "naverUrl": "",
+       "outlet": "topstarnews.net",
+       "publishedAt": "2026-11-20T12:24:00+09:00"
+      },
+      {
+       "title": "\"돈 냄새 맡았다\" 연말 대목 앞둔 엔터·방송주…스튜디오드래곤·SBS 수...",
+       "desc": "아티스트의 해외 투어와 음반 판매, OTT 판권 수익은 실적 성장의 주요 동력으로 꼽힌다. 반면 제작사는 작품별 흥행 성적과 제작비 회수 여부에 따라 수익성이 크게 달라질 수 있고, 방송사는 광고…",
+       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506258",
+       "naverUrl": "",
+       "outlet": "pinpointnews.co.kr",
+       "publishedAt": "2026-11-20T10:50:00+09:00"
       }
      ]
     }
@@ -496,168 +520,160 @@
        "naverUrl": "",
        "outlet": "banronbodo.com",
        "publishedAt": "2026-11-19T11:50:00+09:00"
-      },
-      {
-       "title": "[미래포럼] 국회의장도 3년 ‘개근 참석’… 대표 ESG포럼 ‘우뚝’",
-       "desc": "이사장, 이세훈 금융감독원 수석부원장, 김 전 차관, 안 고문, 노승만 한국광고주협회 회장, 이지환 카이스트 경영공학부 교수, 김지현 SK SUPEX AI위원회 부사장, 최 소장 등 각계 주요 인…",
-       "url": "https://www.dt.co.kr/article/12096025?ref=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/029/0003059946?sid=101",
-       "outlet": "dt.co.kr",
-       "publishedAt": "2026-11-18T20:10:00+09:00"
       }
      ]
     },
     {
      "keyword": "광고 캠페인",
-     "total": 382966,
+     "total": 383160,
      "items": [
       {
-       "title": "재테크 개념으로 풀어낸 근력 관리…삼양식품, '스핀들' 광고 4편 공개",
-       "desc": "삼양식품은 헬스케어 브랜드 '스핀들(Spindle)'의 첫 광고 모델로 배우 소지섭을 기용하고 광고 영상 4편을 공개하며 브랜드 캠페인에 돌입한다고 20일 밝혔다. 소지섭은 넷플릭스 시리즈 '광장…",
-       "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94878",
+       "title": "마이크로 킥보드, ‘제2회 어린이 킥보드&자전거 안전 그림그리기 대회...",
+       "desc": "한편, 마이크로는 어린이 킥보드 안전교육 프로그램 ‘마이크로 세이프티 트레이닝’을 비롯해 TV 광고 및 디지털 캠페인 등 다양한 온·오프라인 활동을 통해 어린이들의 올바른 안전 습관 형성에 앞장서…",
+       "url": "https://www.geconomy.co.kr/news/article.html?no=325910",
        "naverUrl": "",
-       "outlet": "thefairnews.co.kr",
-       "publishedAt": "2026-11-20T08:06:00+09:00"
+       "outlet": "geconomy.co.kr",
+       "publishedAt": "2026-11-20T16:40:00+09:00"
       },
       {
-       "title": "[Weekly New패션] 머리부터 발끝까지 포근하게",
-       "desc": "장원영은 이달 공개하는 화보와 광고 영상을 통해 2026년 가을·겨울 컬렉션을 소개한다. 이번 화보는 브랜드 캠페인 본 투 필(Born to Feel)의 일환이다. 가장 나다운 모습일 때 진정한…",
-       "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850323.html",
+       "title": "웅진씽크빅, 겨울 성수기 캠페인…'공부 밀도' 정조준",
+       "desc": "공개되는 광고 영상에는 유튜브 크리에이터 인싸가족, 슈뻘맨, 민쩌미가 모델로 참여한다. 기존 스마트올 CM송에 크리에이터별 대표 콘셉트를 결합해 연령별 학습 고민과 맞춤 해법을 소개할 예정이다.…",
+       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302292",
        "naverUrl": "",
-       "outlet": "biz.newdaily.co.kr",
-       "publishedAt": "2026-11-20T08:02:00+09:00"
+       "outlet": "financialpost.co.kr",
+       "publishedAt": "2026-11-20T16:36:00+09:00"
       },
       {
-       "title": "“광고·커머스 보안 신뢰성 강화”…인크로스, ISMS-P 인증 취득",
-       "desc": "인크로스는 디지털 광고 사업과 커머스 운영 사업을 하고 있으며, 광고주의 캠페인 정보와 광고 운영 데이터, 커머스 운영 과정에서 취급하는 개인정보를 안전하게 관리하는 것을 목표로 하고 있다. 특히…",
-       "url": "https://www.munhwa.com/article/11632720?ref=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/021/0002834180?sid=101",
-       "outlet": "munhwa.com",
-       "publishedAt": "2026-11-20T08:02:00+09:00"
+       "title": "[그 시절 그 간식]세계로 헤엄치는 '고래밥'···과자 상자 속, 작은 바...",
+       "desc": "출시 당시 9가지 해양 동물을 본뜬 독특한 모양과 '재미로 먹고 맛으로 먹는 오리온 고래밥'이라는 광고... 베트남에서는 과자에 이름을 새겨 넣는 '내 이름을 찾아라' 캠페인을 진행해 현지 알파세…",
+       "url": "http://www.finomy.com/news/articleView.html?idxno=267425",
+       "naverUrl": "",
+       "outlet": "finomy.com",
+       "publishedAt": "2026-11-20T16:34:00+09:00"
       },
       {
-       "title": "제이슨뮤직랩, 다니유치원과 키즈 앨범 ‘DANI’S DAY’ 발매… 홈쇼핑...",
-       "desc": "조진현 대표가 전 곡의 노랫말을 직접 썼으며 23년 경력의 광고 음악 감독이 제작을 총괄했다. 영문 가사에... 캐롤’ 캠페인도 시작했다. 조진현 대표는 “북콘서트에서 부모님과 아이들이 처음 듣는…",
-       "url": "https://www.etoday.co.kr/news/view/2650479",
+       "title": "\"합법 내에서만 즐겨요\"...강원랜드, 지스타서 불법 사행성게임 차단 나...",
+       "desc": "공동 캠페인을 전개한다고 20일 밝혔다. ▲ [사진=강원랜드] 이번 캠페인은 디지털 환경과 게임 콘텐츠에... 현장에서는 제한시간 20초 안에 불법 사행성게임 광고를 차단하는 미니게임을 비롯해 불…",
+       "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598102400950",
        "naverUrl": "",
-       "outlet": "etoday.co.kr",
-       "publishedAt": "2026-11-20T08:00:00+09:00"
+       "outlet": "megaeconomy.co.kr",
+       "publishedAt": "2026-11-20T16:30:00+09:00"
       },
       {
-       "title": "[AI 시대, 필란트로피를 묻다] 좋은 방송은 왜 시청률 앞에서 멈추는가",
-       "desc": "“그런데 시청률은 얼마나 나올까요?” 사회적으로 의미 있는 기획도 제작비와 편성 시간, 광고 수익이라는... 소방관들의 일상을 생생하게 담아낸 이 프로그램은 긴급차량에 길을 터주자는 ‘모세의 기적…",
-       "url": "https://futurechosun.com/?p=167133",
+       "title": "바디프랜드 구원투수 최철진도 역부족…현금 고갈 속 임기 만료 임박",
+       "desc": "앞서 올해 4월에는 가수 겸 프로듀서 박진영을 브랜드 앰배서더로 선정하고 인공지능 헬스케어로봇 퀀텀AI와 다빈치AI 광고 캠페인을 최근까지 전개했다. 한 업계 관계자는 \"브랜드 인지도가 낮은 경우…",
+       "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51433",
        "naverUrl": "",
-       "outlet": "futurechosun.com",
-       "publishedAt": "2026-11-20T07:30:00+09:00"
+       "outlet": "1conomynews.co.kr",
+       "publishedAt": "2026-11-20T16:24:00+09:00"
       },
       {
-       "title": "매년 소각하던 하천 식물이 미백 앰플이 됐다",
-       "desc": "볼트론, 축구동아리 회장들이 만든 유소년 구단 광고 매칭 볼트론 본선 발표 볼트론은 한국항공대 기계공학... 씨딩 형태의 캠페인 마케팅이다 보니 오프라인 전환값 측정에 대한 질문을 받았다. 김 대…",
-       "url": "https://platum.kr/archives/298896",
+       "title": "테라 제로, 통합 캠페인·마케팅PR 부문 최우수상 획득",
+       "desc": "이어 캠페인 광고에는 방송인 김원훈이 모델로 참여했다. 영상은 출근 준비와 예비군 훈련, 템플스테이 등 다양한 일상 속 상황에 제품을 배치해 음용 기회를 제시했다. 인플루언서 협업 콘텐츠도 진행했…",
+       "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194994",
        "naverUrl": "",
-       "outlet": "platum.kr",
-       "publishedAt": "2026-11-20T07:06:00+09:00"
+       "outlet": "weekly.hankooki.com",
+       "publishedAt": "2026-11-20T16:22:00+09:00"
       },
       {
-       "title": "축제 경품 기프티콘, 이틀 만에 골목 매출로 돌아왔다",
-       "desc": "2027년에는 행복로 일대 상인회부터 시작해 의정부 소상공인 300곳, 판매 6,000건까지 넓히고 시 캠페인이나... 지역광고를 내보낸다. 자체 개발한 콘텐츠 관리 시스템과 플레이어, TV 앱으…",
-       "url": "https://platum.kr/archives/298894",
+       "title": "마이크로 킥보드, 어린이 안전 그림그리기 대회 개최…자전거까지 주제...",
+       "desc": "한편, 마이크로는 어린이 킥보드 안전교육 프로그램 '마이크로 세이프티 트레이닝'을 비롯해 TV 광고 및 디지털 캠페인 등 다양한 온·오프라인 활동을 통해 어린이들의 올바른 안전 습관 형성을 지원하…",
+       "url": "http://www.e2news.com/news/articleView.html?idxno=336347",
        "naverUrl": "",
-       "outlet": "platum.kr",
-       "publishedAt": "2026-11-20T07:06:00+09:00"
+       "outlet": "e2news.com",
+       "publishedAt": "2026-11-20T16:14:00+09:00"
       },
       {
-       "title": "이천경찰서, 수능 후 청소년 탈선 예방…문화의거리 유해환경 점검",
-       "desc": "이번 캠페인은 수능 이후 해방감과 여유 시간으로 청소년들이 유해환경에 노출될 가능성에 대비해 마련됐다. 참가자들은 청소년 음주·흡연 예방 홍보와 출입·고용 금지 업소 계도, 불건전 광고물 정비 등…",
-       "url": "https://www.sentv.co.kr/article/view/sentv202611200005",
+       "title": "\"광고 데이터 없어도 AI가 예산 배분\"…CJ메조미디어, 광고 솔루션 고도...",
+       "desc": "이를 위해 CJ메조미디어는 다양한 업종과 매체에서 축적한 광고 캠페인 데이터를 바탕으로 22개 업종별 머신러닝 모델을 구축했다. 광고주의 업종과 캠페인 목표에 따라 매체별 예산 배분안과 예상 성과…",
+       "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214312",
        "naverUrl": "",
-       "outlet": "sentv.co.kr",
-       "publishedAt": "2026-11-20T05:34:00+09:00"
+       "outlet": "thefirstmedia.net",
+       "publishedAt": "2026-11-20T16:03:00+09:00"
       }
      ]
     },
     {
      "keyword": "브랜드 마케팅",
-     "total": 229959,
+     "total": 230014,
      "items": [
       {
-       "title": "한한령 '빗장' 드디어 풀리나···K관광·유통 '대전환기' 온다",
-       "desc": "특히 한국 아티스트와 배우를 광고모델로 기용하는 사례가 많은 패션업계 특성상 한류 콘텐츠에 대한 규제 완화는 브랜드 마케팅의 선택지를 넓히는 계기가 될 수 있다는 데 무게추가 기울어진다. 업계에서…",
-       "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494604",
-       "naverUrl": "",
-       "outlet": "enewstoday.co.kr",
-       "publishedAt": "2026-11-20T08:00:00+09:00"
-      },
-      {
-       "title": "[AI 시대, 필란트로피를 묻다] 좋은 방송은 왜 시청률 앞에서 멈추는가",
-       "desc": "◇ 방송사와 시청자, 서로 다른 성적표 필자는 기업 홍보실과 사회공헌, 브랜드 마케팅을 거쳐 방송국 보도본부의 뉴미디어 뉴스, 그리고 프로그램이 시청자에게 전달되는 마지막 관문인 편성실 홍보팀에…",
-       "url": "https://futurechosun.com/?p=167133",
-       "naverUrl": "",
-       "outlet": "futurechosun.com",
-       "publishedAt": "2026-11-20T07:30:00+09:00"
-      },
-      {
-       "title": "롯데온, 소상공인 브랜드와 동탄서 팝업 운영",
-       "desc": "이 가운데 40개사를 선정해 기획전, 광고 및 홍보, 할인쿠폰, 라이브커머스 등 브랜드별 맞춤형 마케팅을 지원했다. 이러한 육성 과정을 거쳐 최종 우수 브랜드로 선정된 곳이 침구 전문 브랜드 조은…",
-       "url": "https://www.slist.kr/news/articleView.html?idxno=783235",
-       "naverUrl": "",
-       "outlet": "slist.kr",
-       "publishedAt": "2026-11-20T07:04:00+09:00"
-      },
-      {
-       "title": "[경력채용] KoBIA, 한국비엔씨, 코오롱제약, 국가신약개발재단",
-       "desc": "제품 브랜드 전략 수립 및 마케팅 기획·운영 등자격요건학사 | 경력 10년 이상우대KOL 및 학회 관리 경험 보유자, 영어 활용 가능자 등지원하기국가신약개발재단R&D 전략지원~ 12/2업무R&D…",
-       "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=80932",
-       "naverUrl": "",
-       "outlet": "hitnews.co.kr",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
-      },
-      {
-       "title": "롯데온, 롯데百 동탄점서 소상공인 우수 브랜드 팝업",
-       "desc": "이 가운데 40개사를 선정해 기획전, 광고·홍보, 할인쿠폰, 라이브커머스 등 브랜드별 맞춤형 마케팅을 지원했다. 롯데온 관계자는 \"유망 소상공인 브랜드를 발굴하고 온라인과 오프라인을 연계한 실질적…",
-       "url": "https://www.yna.co.kr/view/AKR20261119146200030?input=1195m",
-       "naverUrl": "https://n.news.naver.com/mnews/article/001/0016453402?sid=101",
-       "outlet": "yna.co.kr",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
-      },
-      {
-       "title": "롯데온, 소상공인 브랜드 백화점 무대로…오프라인 생상 기회 제공",
-       "desc": "이 가운데 40개사를 선정해 기획전과 광고·홍보, 할인쿠폰, 라이브커머스 등 브랜드별 맞춤형 마케팅을 지원했다. 조은자리와 랄라카트는 이러한 육성 과정을 거쳐 최종 우수 브랜드로 선정됐다. 두 브…",
-       "url": "https://www.newsis.com/view/NISX20261119_0003875630",
-       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014334582?sid=101",
-       "outlet": "newsis.com",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
-      },
-      {
-       "title": "온라인서 키운 브랜드가 백화점으로…롯데온, 소상공인 판로 지원 확대",
-       "desc": "이 가운데 40개사를 선발해 온라인 기획전과 광고·홍보, 할인쿠폰, 라이브커머스 등 브랜드별 맞춤형 마케팅을 지원했다. 최종 우수 브랜드로 선정된 조은자리와 랄라카트는 전년 동기 대비 매출이 증가…",
-       "url": "https://www.etoday.co.kr/news/view/2650617",
+       "title": "뷰앤디, 미국 틱톡샵 스킨케어 디바이스 부문 상위권 올라",
+       "desc": "11월은 블랙프라이데이와 사이버먼데이 등 주요 쇼핑 행사를 앞두고 다양한 브랜드의 판매 및 마케팅 활동이 집중되는 시기다. 브랜드는 이러한 시장 환경 속에서 미국 틱톡샵을 통한 제품 판매를 이어가…",
+       "url": "https://www.etoday.co.kr/news/view/2651059",
        "naverUrl": "",
        "outlet": "etoday.co.kr",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
+       "publishedAt": "2026-11-20T16:34:00+09:00"
       },
       {
-       "title": "한한령 완화 기대감에…K뷰티·패션, 中시장서 다시 기지개 켤까",
-       "desc": "회사는 원가 부담과 해외 브랜드 육성을 위한 마케팅 투자 확대를 원인으로 설명했다. 업계 관계자는 \"한중 FTA 후속협상이 이제 막 실질타결된 만큼 아직 정책적인 변화를 이야기하는 것은 시기상조\"…",
-       "url": "https://www.newsis.com/view/NISX20261119_0003875529",
-       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014334567?sid=101",
-       "outlet": "newsis.com",
-       "publishedAt": "2026-11-20T05:15:00+09:00"
+       "title": "롯데온, 소상공인 육성 브랜드 백화점서 선보인다···온·오프라인 상...",
+       "desc": "이 가운데 40개사를 선정해 온라인 기획전과 광고·홍보, 할인쿠폰, 라이브커머스 등 브랜드별 특성에 맞춘 마케팅을 지원했다. 이러한 육성 과정을 거쳐 침구 전문 브랜드 조은자리와 생활용품 브랜드…",
+       "url": "https://www.ziksir.com/news/articleView.html?idxno=154204",
+       "naverUrl": "",
+       "outlet": "ziksir.com",
+       "publishedAt": "2026-11-20T16:34:00+09:00"
+      },
+      {
+       "title": "올해 마지막 날에도 글로벌 인플루언서 3,500팀 서울로 집결한다",
+       "desc": "글로벌 인플루언서를 활용한 K-뷰티 및 서울 브랜드의 해외 마케팅 기회가 확대된다. 서울경제진흥원(SBA)이 오는 12월 29일부터 2027년 1월 1일까지 나흘간 서울 동대문디자인플라자(DDP)…",
+       "url": "https://www.meconomynews.com/news/articleView.html?idxno=203959",
+       "naverUrl": "",
+       "outlet": "meconomynews.com",
+       "publishedAt": "2026-11-20T16:30:00+09:00"
+      },
+      {
+       "title": "조지아컴퍼니, VIP·라이프스타일 마케팅 기반 하이엔드 브랜드 컨설팅...",
+       "desc": "조지아컴퍼니가 추진하는 VIP 마케팅 역시 일회성 행사보다는 브랜드의 철학을 고객이 직접 경험할 수 있는 방식으로 구체화하는 데 중점을 둔다. 조지아컴퍼니 조지아 대표는 \"럭셔리 마케팅은 화려한…",
+       "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399490",
+       "naverUrl": "",
+       "outlet": "fntoday.co.kr",
+       "publishedAt": "2026-11-20T16:10:00+09:00"
+      },
+      {
+       "title": "장안대학교 방송스타일리스트과 졸업생 이재영, 디마코 코리아 최연소 ...",
+       "desc": "이재영 씨가 소속된 인플루언서 마케팅팀은 유튜브, 인스타그램, 블로그 등 다양한 플랫폼의 인플루언서와 협업해 브랜드별 마케팅 캠페인을 운영하는 조직이다. 주요 업무는 브랜드 및 소비자 분석, 인플…",
+       "url": "https://www.gosiweek.com/article/1065596205870722",
+       "naverUrl": "",
+       "outlet": "gosiweek.com",
+       "publishedAt": "2026-11-20T16:02:00+09:00"
+      },
+      {
+       "title": "조서환 아시아태평양마케팅포럼 회장, 인도네시아 자카르타국제대학교...",
+       "desc": "이번 강연은 국내 기업에서 축적한 브랜드 마케팅 경험을 바탕으로 소비자 중심의 사고와 변화하는 시장에서의 경쟁력, 경영자로서의 도전과 리더십을 소개하는 자리였다. 강연의 주요 내용은 △소비자의 마…",
+       "url": "https://dhnews.co.kr/news/view/1065596155840445",
+       "naverUrl": "",
+       "outlet": "dhnews.co.kr",
+       "publishedAt": "2026-11-20T16:00:00+09:00"
+      },
+      {
+       "title": "수출 1조달러 '홈런'···해태제과, 대한민국 응원 나섰다",
+       "desc": "스포츠와 수험생 응원 등 일상에 집중했던 브랜드 마케팅을 국가 경제로 확장하는 행보다. 해태제과는 산업통상부와 함께 홈런볼 '대한민국 응원 에디션'을 출시한다고 20일 밝혔다. 산업통상부에 따르면…",
+       "url": "http://www.finomy.com/news/articleView.html?idxno=267437",
+       "naverUrl": "",
+       "outlet": "finomy.com",
+       "publishedAt": "2026-11-20T15:50:00+09:00"
+      },
+      {
+       "title": "‘뿌링클·콰삭킹’ 메뉴 경쟁력 통했다…bhc, 연말 해외 60개 매장 눈앞",
+       "desc": "◇ 매장 넘어 브랜드 경험 확대…현지 고객 접점 강화 현지 고객과의 접점을 넓히기 위한 브랜드 경험 마케팅도 병행하고 있다. 2018년 첫 해외 매장을 연 홍콩에서는 올해 8월 몽콕점을 리뉴얼해…",
+       "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/18/2026111880201.html",
+       "naverUrl": "",
+       "outlet": "digitalchosun.dizzo.com",
+       "publishedAt": "2026-11-20T15:34:00+09:00"
       }
      ]
     },
     {
      "keyword": "디지털 광고 시장",
-     "total": 32196,
+     "total": 32197,
      "items": [
       {
-       "title": "내년 AI 마케팅 투자 1위는 '검색 최적화'…콘텐츠 제작 제쳐",
-       "desc": "19일 디지털마케팅연구회가 발표한 '2027년 AI 마케팅 트렌드 및 7대 핵심 키워드'에 따르면, 내년 AI... AI 광고 시장에 대한 관심도 확인됐다. 내년 집행을 고려하는 AI 광고 서비스…",
-       "url": "https://www.ddaily.co.kr/page/view/2026111917434848210",
-       "naverUrl": "https://n.news.naver.com/mnews/article/138/0002249287?sid=105",
-       "outlet": "ddaily.co.kr",
-       "publishedAt": "2026-11-19T18:11:00+09:00"
+       "title": "연말 광고비 집행 늘어날까…제일기획·HS애드 견조한 흐름",
+       "desc": "광고업계 관계자는 \"연말 소비 성수기와 디지털·OTT 광고 시장 확대가 맞물리면서 광고 기업들의 사업 영역과 실적에 차별화가 나타나고 있다\"며 \"단기 주가 상승률보다는 디지털 광고 취급고와 해외…",
+       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506225",
+       "naverUrl": "",
+       "outlet": "pinpointnews.co.kr",
+       "publishedAt": "2026-11-20T09:52:00+09:00"
       },
       {
        "title": "한한령 해제, K드라마 구원투수 될까?…\"철저한 준비 필요\"",
@@ -665,6 +681,14 @@
        "url": "https://www.edaily.co.kr/News/Read?newsId=04211526645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
        "naverUrl": "https://n.news.naver.com/mnews/article/018/0006412722?sid=103",
        "outlet": "edaily.co.kr",
+       "publishedAt": "2026-11-19T18:11:00+09:00"
+      },
+      {
+       "title": "내년 AI 마케팅 투자 1위는 '검색 최적화'…콘텐츠 제작 제쳐",
+       "desc": "19일 디지털마케팅연구회가 발표한 '2027년 AI 마케팅 트렌드 및 7대 핵심 키워드'에 따르면, 내년 AI... AI 광고 시장에 대한 관심도 확인됐다. 내년 집행을 고려하는 AI 광고 서비스…",
+       "url": "https://www.ddaily.co.kr/page/view/2026111917434848210",
+       "naverUrl": "https://n.news.naver.com/mnews/article/138/0002249287?sid=105",
+       "outlet": "ddaily.co.kr",
        "publishedAt": "2026-11-19T18:11:00+09:00"
       },
       {
@@ -706,154 +730,146 @@
        "naverUrl": "",
        "outlet": "meconomynews.com",
        "publishedAt": "2026-11-19T10:28:00+09:00"
-      },
-      {
-       "title": "한중 콘텐츠 교류 재개 기대… CJ ENM 급등에 미디어주 들썩이네",
-       "desc": "경제 전문 매체 운영과 디지털 콘텐츠 사업을 기반으로 광고 시장 및 미디어 플랫폼 변화에 영향을 받는 기업이다. 일부 미디어 관련주는 약세를 보인다. 스카이라이프는 위성방송과 인터넷TV(IPTV)…",
-       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505785",
-       "naverUrl": "",
-       "outlet": "pinpointnews.co.kr",
-       "publishedAt": "2026-11-19T10:26:00+09:00"
       }
      ]
     },
     {
      "keyword": "유통업계 마케팅",
-     "total": 90117,
+     "total": 90136,
      "items": [
       {
-       "title": "한한령 '빗장' 드디어 풀리나···K관광·유통 '대전환기' 온다",
-       "desc": "◇K뷰티·패션 공략 '탄력' 중국 문화시장 개방에 따른 훈은 패션·뷰티업계로도 번지고 있다. 한류 콘텐츠의 현지 유통이 확대되면 한국 브랜드에 대한 관심을 환기하는 동시에 그동안 제약을 받아온 마…",
-       "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494604",
+       "title": "화장품 유통·브랜드, 체험·전문화·AI로 경쟁무기 재편",
+       "desc": "유통업계는 매장 자체를 콘텐츠화하고, 브랜드들은 기존 판매 채널을 넘어 새로운 소비 환경에 진입하며... 기존 마케팅과 차별화된다. 소비자에게 브랜드를 기억할 수 있는 경험을 제공하고, 이를 SN…",
+       "url": "https://www.meconomynews.com/news/articleView.html?idxno=203960",
        "naverUrl": "",
-       "outlet": "enewstoday.co.kr",
-       "publishedAt": "2026-11-20T08:00:00+09:00"
+       "outlet": "meconomynews.com",
+       "publishedAt": "2026-11-20T16:40:00+09:00"
       },
       {
-       "title": "이마트, 참다랑어 뱃살·감귤 최대 반값 할인 … 겨울 먹거리·생활용품...",
-       "desc": "정우진 이마트 마케팅담당은 \"신선식품부터 겨울 생활용품까지 다양한 할인행사를 통해 소비자들의... 유통업계에서는 고물가 상황에서 대형마트의 가격 경쟁력이 소비자 유인에 중요한 요소로 작용하고 있다…",
-       "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=92354",
+       "title": "\"GS25 매출 넘어라\"...민승배 CU 사장의 '마지막 미션'",
+       "desc": "취임 3년 성적표…외형 성장 이어 수익성 개선 20일 유통업계에 따르면 BGF그룹은 지난 13일 2027년 정기... 이런 가운데 이번 인사에서 임형근 상품·마케팅부문장이 상무에서 전무로 승진한…",
+       "url": "https://zdnet.co.kr/view/?no=20261120160155",
+       "naverUrl": "https://n.news.naver.com/mnews/article/092/0002446260?sid=103",
+       "outlet": "zdnet.co.kr",
+       "publishedAt": "2026-11-20T16:31:00+09:00"
+      },
+      {
+       "title": "수험표가 할인권…대구 수능 특수 노린다[2027 수능]",
+       "desc": "지역 유통업계도 수험생과 학부모의 소비 수요를 선점하기 위한 마케팅에 나섰다. 유통업계 등에 따르면 롯데백화점 대구점과 상인점은 수험생을 대상으로 우대 행사를 진행 중이다. 대구점에서는 캐주얼 의…",
+       "url": "https://www.newsis.com/view/NISX20261120_0003877054",
+       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014336346?sid=102",
+       "outlet": "newsis.com",
+       "publishedAt": "2026-11-20T15:58:00+09:00"
+      },
+      {
+       "title": "호주 멜버른을 뜨겁게 달군 K-열기, 2026 멜버른 한류박람회(KBEE) 현장",
+       "desc": "현지 유통업계 관계자와 일반 소비자들도 행사장을 찾아 한국 제품과 문화를 경험했다. 이번... 수요와 유통 환경에 부합하는 제품 경쟁력과 마케팅 전략을 갖출 필요가 있다. 한류를 통해 형성된 한국…",
+       "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=110&CONTENTS_NO=1&bbsGbn=245&bbsSn=245&pNttSn=245300",
        "naverUrl": "",
-       "outlet": "worktoday.co.kr",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
+       "outlet": "dream.kotra.or.kr",
+       "publishedAt": "2026-11-20T15:12:00+09:00"
       },
       {
-       "title": "중국 진출 기회 넓어진 K유통…기대 속 '사드 악몽' 신중론도",
-       "desc": "한국과 중국이 8년 8개월 만에 실질 타결한 자유무역협정(FTA) 서비스·투자 후속협상과 관련해 국내 유통업계... 대상으로 마케팅 판매관리비 경쟁에 나선다면 국내 이커머스의 승리를 장담하기 어렵…",
-       "url": "https://www.edaily.co.kr/News/Read?newsId=01312006645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006412843?sid=101",
-       "outlet": "edaily.co.kr",
-       "publishedAt": "2026-11-20T05:52:00+09:00"
-      },
-      {
-       "title": "[편의점 브리핑] CU 캐릭터 화장품·GS25 TXT 협업·세븐일레븐 병역 복...",
-       "desc": "유통업계의 최신 흐름을 엿볼 수 있는 편의점 소식을 한데 모아 전한다. <편집자주> CU가 비건 뷰티 브랜드... GS리테일 이정표 마케팅부문장은 \"아티스트 컴백 시기에 맞춰 콘셉트를 상품에 녹여…",
-       "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81787",
+       "title": "\"영업익 30% 성장·210억 소각\"…현대백화점, 실적 회복 넘어 미래 유통...",
+       "desc": "20일 유통업계에 따르면 현대백화점은 올해 3분기 연결 기준 매출 1조1723억원, 영업이익 946억원을 기록했다.... 외국인 고객 확보를 위한 마케팅도 고도화한다. 현대백화점은 식당 예약과 모…",
+       "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242054",
        "naverUrl": "",
-       "outlet": "issuenbiz.com",
-       "publishedAt": "2026-11-20T02:30:00+09:00"
+       "outlet": "ezyeconomy.com",
+       "publishedAt": "2026-11-20T14:58:00+09:00"
       },
       {
-       "title": "식자재 거래 플랫폼 키우는 CJ프레시웨이, 최저가 전쟁 승자될까",
-       "desc": "반대로 할인에 따라 구매처를 옮기는 고객이 많다면 거래액을 유지하기 위해 지속적인 마케팅 비용을... 한 식자재 유통업계 관계자는 “CJ프레시웨이는 최근 온라인 사업의 수익성 개선 방안으로 판매수…",
-       "url": "https://www.mk.co.kr/article/12207924",
-       "naverUrl": "https://n.news.naver.com/mnews/article/024/0000109760?sid=101",
-       "outlet": "mk.co.kr",
-       "publishedAt": "2026-11-19T21:01:00+09:00"
-      },
-      {
-       "title": "롯데百, 잠실서 '19세기 영국' 선보인다…'롯데타운 크리스마스 마켓' 공...",
-       "desc": "사진=롯데백화점 롯데백화점이 유통업계 최대 겨울 축제로 자리매김한 '롯데타운 크리스마스 마켓'을 19일... 박상우 롯데백화점 마케팅부문장은 \"선물을 주고 받고 겨울 분위기를 즐기는 현대 크리스마…",
-       "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326732",
+       "title": "\"중국 문 열린다\" 한한령 해빙에 '기대 반, 우려 반'…증권가 전망 엇갈...",
+       "desc": "한류 콘텐츠 유통 확대와 중국인 관광객 증가가 한국 화장품에 대한 관심을 높이고 현지 마케팅 기회를 넓힐... 반면 유통업계는 중국인 관광객의 소비 방식 변화가 변수로 꼽힌다. 과거 단체관광객과…",
+       "url": "http://www.newsprime.co.kr/news/article.html?no=755827",
        "naverUrl": "",
-       "outlet": "pointdaily.co.kr",
-       "publishedAt": "2026-11-19T19:16:00+09:00"
+       "outlet": "newsprime.co.kr",
+       "publishedAt": "2026-11-20T12:56:00+09:00"
       },
       {
-       "title": "롯데백화점, 19세기 영국 콘셉트 '롯데타운 크리스마스 마켓' 잠실서 개...",
-       "desc": "이 행사는 유통업계 최대 규모의 겨울 축제 중 하나로 꼽힌다. 9일 오후 2시부터 롯데백화점몰 등에서... 박상우 롯데백화점 마케팅부문장은 \"선물을 주고받고 겨울 분위기를 즐기는 현대 크리스마스의…",
-       "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=54945",
+       "title": "유통가에 부는 ‘AI 바람’, 누구를 위한 걸까 [언박싱]",
+       "desc": "유통업계가 인공지능(AI) 기반 서비스를 잇달아 선보이고 있다. 네이버와 쿠팡 등 주요 이커머스 업체들도... 이종우 남서울대 유통마케팅학과 교수는 “AI가 사내 업무에는 도움이 되고 있지만, A…",
+       "url": "https://biz.heraldcorp.com/article/10943729?ref=naver",
+       "naverUrl": "https://n.news.naver.com/mnews/article/016/0002726306?sid=101",
+       "outlet": "biz.heraldcorp.com",
+       "publishedAt": "2026-11-20T12:11:00+09:00"
+      },
+      {
+       "title": "판 커진 백화점 'VIP 쟁탈전'…취향 훔치고 국경도 넘는다",
+       "desc": "20일 유통업계에 따르면 지난해 롯데·신세계·현대 등 백화점 3사의 VIP 매출 비중은 46~47%로 모두 절반에... 이에 현대백화점은 최근 영업전략실 내 '글로벌 마케팅팀'을 신설했고, 내년…",
+       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732444",
        "naverUrl": "",
-       "outlet": "koreareport.co.kr",
-       "publishedAt": "2026-11-19T19:10:00+09:00"
-      },
-      {
-       "title": "쿠팡, 친환경 포장 상품 한곳에… 25일까지 '포장을 보다' 기획전",
-       "desc": "CPLB는 PB 상품의 포장재 개선을 맡고, 쿠팡은 판매와 마케팅을 지원해 친환경 포장재 활용 범위를 넓힌다는... 참여를 넓히고 제조 및 유통업계가 함께 만들어가는 친환경 소비문화 확산에 적극적…",
-       "url": "https://www.fnnews.com/news/202611191822510021",
-       "naverUrl": "https://n.news.naver.com/mnews/article/014/0005607060?sid=101",
-       "outlet": "fnnews.com",
-       "publishedAt": "2026-11-19T18:24:00+09:00"
+       "outlet": "ebn.co.kr",
+       "publishedAt": "2026-11-20T11:42:00+09:00"
       }
      ]
     },
     {
      "keyword": "광고비 집행",
-     "total": 24835,
+     "total": 24852,
      "items": [
       {
-       "title": "문관현 도의원 “강원도정 홍보·광고비 집행 효율성 점검하라”",
-       "desc": "강원특별자치도의회 문관현 의원(국민의힘, 태백2)은 19일 열린 제350회 정례회 2027년도 대변인실 당초예산안 심사에서 도정 홍보·광고비의 집행 효율성을 점검하고, 기존 언론매체의 특성을 살리…",
-       "url": "https://biz.heraldcorp.com/article/10943256?ref=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/016/0002725942?sid=103",
-       "outlet": "biz.heraldcorp.com",
-       "publishedAt": "2026-11-19T21:26:00+09:00"
+       "title": "경찰, 정영두 김해시장 공직선거법 위반 혐의로 공소청에 송치",
+       "desc": "6·3 지방선거 당시 정 후보 측에서 김해지역 여러 언론사에 부경양돈농협 광고를 게재하고, 광고비를 부경양돈농협으로부터 받도록 제안했다는 의혹이다. 경찰은 지난달 정 시장을 한 차례 소환해 광고…",
+       "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090186.html",
+       "naverUrl": "https://n.news.naver.com/mnews/article/448/0000652359?sid=102",
+       "outlet": "tvchosun.com",
+       "publishedAt": "2026-11-20T15:25:00+09:00"
       },
       {
-       "title": "신동이 전주시의원 \"328억 쏟아붓고 90억 날릴 판\"",
-       "desc": "관광거점사업의 목적과 동떨어진 예산 집행도 도마에 올랐다. 'KBS 전국노래자랑 전주시편' 개최 비용과 지역 언론사 광고비, 전주동물원 관광안내소를 매점으로 변경하는 공사 등이 관광거점도시 육성사…",
-       "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885375",
+       "title": "CJ메조미디어, 버짓옵트 2.0 출시…AI 광고 예측·분석 체계 완성",
+       "desc": "자체 집행 데이터를 갖고 있지 않아도 최적화 분석을 이용할 수 있도록 했다. 업종과 목표에 따른 예상... 매체별 광고비 규모에 따른 예상 성과 분석을 통해 한정된 예산의 효율적 배분을 돕는다.…",
+       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732489",
        "naverUrl": "",
-       "outlet": "hansbiz.co.kr",
-       "publishedAt": "2026-11-19T17:46:00+09:00"
+       "outlet": "ebn.co.kr",
+       "publishedAt": "2026-11-20T14:24:00+09:00"
       },
       {
-       "title": "CPA 제휴마케팅, 웨딩·건강 등 상담형 업종서 활용…리플알바 상품 281...",
-       "desc": "CPA(Cost Per Action)는 광고 노출이나 클릭이 아닌 상담 신청 등 광고주가 정한 성과가 확인됐을 때 광고비가 집행되는 방식이다. 리플알바는 광고주와 블로그·SNS 등을 통해 광고를…",
-       "url": "https://www.etnews.com/20261119000420",
-       "naverUrl": "https://n.news.naver.com/mnews/article/030/0003487754?sid=105",
-       "outlet": "etnews.com",
-       "publishedAt": "2026-11-19T17:03:00+09:00"
+       "title": "‘호별 방문 지지 호소’ 정영두 김해시장, 공직선거법 위반 송치",
+       "desc": "지방선거 당시 정 시장 캠프 측이 김해 지역 언론사 여러 곳에 후보자 배너 광고 대신 부경양돈농협 광고를 싣고 광고비는 농협에서 받도록 제안해 광고가 집행됐다는 의혹이다. 경찰은 지난달 정 시장을…",
+       "url": "https://www.chosun.com/national/regional/2026/11/20/4LJCIZH2FRCJZCJCAZOMEUS3AI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+       "naverUrl": "https://n.news.naver.com/mnews/article/023/0004010793?sid=102",
+       "outlet": "chosun.com",
+       "publishedAt": "2026-11-20T14:22:00+09:00"
       },
       {
-       "title": "전주시 관광거점도시사업 국비 90억 환수 위기…정부 감사서 25건 지적",
-       "desc": "KBS 전국노래자랑 전주시편 개최와 지역 언론사 광고비, 동물원 관광안내소의 매점 전환 공사 등도 관광거점도시 사업 목적에 부합하지 않는 예산 집행으로 지적됐다. 향교문화관과 완판본문화관 편의시설…",
-       "url": "https://www.newsis.com/view/NISX20261119_0003875513",
-       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014333901?sid=102",
-       "outlet": "newsis.com",
-       "publishedAt": "2026-11-19T16:56:00+09:00"
-      },
-      {
-       "title": "‘재정난’ 전주시, 관광사업 부실까지…국비 90억5000만원 토해낼 판 [...",
-       "desc": "전주시 제공 사업 목적과 동떨어진 예산 집행도 확인됐다. KBS 전국노래자랑 전주시편 개최 비용과 지역 언론사 광고비, 전주동물원 관광안내소를 매점으로 바꾸는 공사 등이 관광거점도시 사업 목적에…",
-       "url": "https://www.segye.com/newsView/20261119514850?OutUrl=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/022/0004176547?sid=102",
-       "outlet": "segye.com",
-       "publishedAt": "2026-11-19T16:54:00+09:00"
-      },
-      {
-       "title": "이나인페이, 2500억 몸값 도전…적자 한패스 피어 제외",
-       "desc": "이익률 낮춘 '업계 공통' 환율 부담… 광고비 부담은 상대적으로 낮아 이나인페이는 올해 매출 성장세를... 투자를 집행할 계획이다. 다만 구체적인 인수 대상과 거래 조건은 아직 확정되지 않았다.…",
-       "url": "https://www.bloter.net/news/articleView.html?idxno=679155",
-       "naverUrl": "https://n.news.naver.com/mnews/article/293/0000093542?sid=101",
-       "outlet": "bloter.net",
-       "publishedAt": "2026-11-19T16:53:00+09:00"
-      },
-      {
-       "title": "[패트롤] 용인시-여주시-성남시-용인시의회",
-       "desc": "서정일 의원은 용인도시공사의 재정 관리·감독과 행정소송 패소 원인 분석을 주문하고, 언론사별 광고비 평가 기준의 객관성과 집행 투명성을 확보해야 한다고 지적했다. 이민희 의원은 행사·축제성 보조금…",
-       "url": "https://www.ekn.kr/web/view.php?key=20261119028592051",
+       "title": "CJ메조미디어, AI로 광고비 낭비 줄인다…예산 최적화 기술 도입",
+       "desc": "이번 리포트는 서울·경기 및 5대 광역시 거주자 약 1,000명 대상 온라인 설문조사 결과와 자체 개발한 AI 기반 통합 광고 운영 플랫폼 '애들리(ADLY)'가 축적한 매체 데이터와 월별 광고비…",
+       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302213",
        "naverUrl": "",
-       "outlet": "ekn.kr",
-       "publishedAt": "2026-11-19T16:16:00+09:00"
+       "outlet": "financialpost.co.kr",
+       "publishedAt": "2026-11-20T14:12:00+09:00"
       },
       {
-       "title": "전주시 관광거점도시 사업 '국비 90억 환수 위기'…정부 감사서 무더기...",
-       "desc": "또 KBS 전국노래자랑 전주시편 개최비와 지역 언론사 광고비, 동물원 관광안내소의 매점 전환 공사 등도 사업 목적에 맞지 않는 집행으로 지적됐다. 통합관광정보시스템의 모바일 앱은 폐기됐고, 한벽문…",
-       "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450799",
+       "title": "문관현 도의원 “디지털 환경 대응, 홍보체계 개선해야”",
+       "desc": "문 의원은 11월 19일 열린 제350회 정례회 2027년도 대변인실 당초예산안 심사에서 도정 홍보·광고비의 집행 효율성을 점검했다. 2025년 대변인실의 광고 집행액은 약 49억 3,000만 원…",
+       "url": "https://www.sportsseoul.com/news/read/1651163?ref=naver",
+       "naverUrl": "https://n.news.naver.com/mnews/article/468/0001282345?sid=102",
+       "outlet": "sportsseoul.com",
+       "publishedAt": "2026-11-20T13:57:00+09:00"
+      },
+      {
+       "title": "공정거래위원회·한국유통법학회 추계 공동학술대회 개최",
+       "desc": "법 집행과 판례를 통해 드러난 주요 문제점을 확인하고 이를 바탕으로 유통분야 공정한 거래 질서 확립을... 요구·광고비 부과 등을 통해 유통업자의 거래상 지위를 남용하는 행위를 엄정히 제재했다\"고…",
+       "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000396",
        "naverUrl": "",
-       "outlet": "jeonmin.co.kr",
-       "publishedAt": "2026-11-19T15:38:00+09:00"
+       "outlet": "intn.co.kr",
+       "publishedAt": "2026-11-20T13:22:00+09:00"
+      },
+      {
+       "title": "주병기 \"유통환경 급변에 신유형 불공정거래…제도 보완 힘쓸 것\"",
+       "desc": "신동열 공정위 사무처장은 기조강연에서 유통분야 대금지급기한 단축과 과징금 부과체계 이원화 등 올해 제도 개편 내용과 납품단가 인하 요구·광고비 부과 등 거래상 지위 남용행위에 대한 법 집행 사례를…",
+       "url": "https://www.news1.kr/economy/trend/6360683",
+       "naverUrl": "https://n.news.naver.com/mnews/article/421/0009301272?sid=101",
+       "outlet": "news1.kr",
+       "publishedAt": "2026-11-20T13:20:00+09:00"
+      },
+      {
+       "title": "경찰, 정영두 김해시장 '호별 방문 지지 호소' 혐의 송치",
+       "desc": "이 사건은 6·3 지방선거 당시 정 시장 캠프 측에서 김해지역 다수 언론사에 후보자 배너 광고 대신 부경양돈농협 광고를 게재하고, 그 광고비를 부경양돈농협에서 받도록 제안해 광고가 집행된 의혹입니…",
+       "url": "http://www.yonhapnewstv.co.kr/news/AKR20261120124714oSN",
+       "naverUrl": "https://n.news.naver.com/mnews/article/422/0000928173?sid=102",
+       "outlet": "yonhapnewstv.co.kr",
+       "publishedAt": "2026-11-20T12:48:00+09:00"
       }
      ]
     }
@@ -864,421 +880,421 @@
    "keywords": [
     {
      "keyword": "실적 발표",
-     "total": 968175,
+     "total": 968383,
      "items": [
       {
-       "title": "1150억 달러 AI 칩 매출, 브로드컴 2027 회계연도 전망",
-       "desc": "브로드컴($AVGO)은 9월 2일(현지시간) 실적 발표에서 2027 회계연도 AI 칩 매출을 1150억 달러(약 153조1800억원)로 전망했다. AI 인프라 수요 확대를 배경으로 제시한 장기 전…",
-       "url": "https://www.tokenpost.kr/news/breaking/441156",
+       "title": "미 상무부, 대중 첨단반도체 판매 승인 파문... 제재·감시 강화되나",
+       "desc": "로이터에 따르면 중국은 자국산 칩 육성을 추진하며 H200 수입을 제한해 왔다.엔비디아는 11월 실적 발표에서 중국행 허가 대상 호퍼 계열 데이터센터 제품의 출하를 중단했고, 다음 분기 실적 전망…",
+       "url": "https://weeklytrade.co.kr/news/view.html?section=1&category=136&item=&no=102355",
        "naverUrl": "",
-       "outlet": "tokenpost.kr",
-       "publishedAt": "2026-11-20T08:06:00+09:00"
+       "outlet": "weeklytrade.co.kr",
+       "publishedAt": "2026-11-20T16:40:00+09:00"
       },
       {
-       "title": "엔비디아 이어 AMD도 '中 스캔들'…수출 규제 위반 의혹에 주가 7.7%↓",
-       "desc": "리사 수 AMD 최고경영자(CEO)도 최근 실적 발표에서 중국이 중요한 시장이라면서도 미국의 수출통제 규정을 철저히 준수하겠다는 입장을 밝힌 바 있다. 이번 의혹은 엔비디아가 중국과 연계된 아시아…",
-       "url": "https://www.newsis.com/view/NISX20261120_0003876001",
-       "naverUrl": "https://n.news.naver.com/mnews/article/003/0014334703?sid=104",
-       "outlet": "newsis.com",
-       "publishedAt": "2026-11-20T08:05:00+09:00"
-      },
-      {
-       "title": "앤트로픽 상장에 수천명이 '돈벼락'…1인평균 580억원 '잭팟'",
-       "desc": "창업자를 제외한 앤트로픽 임직원들은 상장 첫날 보유 주식의 최대 10%를 매도할 수 있으며, 2026 회계연도 실적 발표 이후에 추가로 최대 35%를 처분할 수 있다. 다만 그 이후에는 매각 계획…",
-       "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887842",
+       "title": "[금융권 이모저모]한국투자증권, 청년 창업가 5개 팀 자립 지원 外",
+       "desc": "지난 2016년 5월부터 2023년 4월까지 약 7년간 엔비디아코리아 대표를 지낸 경험을 바탕으로 엔비디아의 경쟁력과 조직문화, 최근 실적발표 및 컨퍼런스콜의 주요 내용을 분석할 예정이다. 2부에…",
+       "url": "https://www.businessplus.kr/news/articleView.html?idxno=120233",
        "naverUrl": "",
-       "outlet": "getnews.co.kr",
-       "publishedAt": "2026-11-20T08:04:00+09:00"
+       "outlet": "businessplus.kr",
+       "publishedAt": "2026-11-20T16:40:00+09:00"
       },
       {
-       "title": "'하반기 성장' 외친 코난테크놀로지…매출 반토막·수주 '뒷걸음'",
-       "desc": "회사는 지난 8월 상반기 실적을 발표하면서 수익성 개선과 수주잔고 증가를 바탕으로 하반기 성장 가속화에 대한 기대를 드러냈다. 그러나 3분기 들어 매출이 급감하면서 회사가 제시했던 성장 구상과 실…",
-       "url": "https://dealsite.co.kr/articles/173061",
+       "title": "[차호중의 재테크 칼럼] 증권사 목표주가에 대한 이해",
+       "desc": "경우에 따라서는 앞서 설명한 것과 같이 실적발표 이전에 실적 전망치를 담은 ‘실적프리뷰(Preview)리포트’를 내기도 한다. 실적과 관련된 리포트에서 애널리스트는 기업실적에 변화가 생긴 부분을…",
+       "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20261120.99099006477",
+       "naverUrl": "https://n.news.naver.com/mnews/article/658/0000161818?sid=101",
+       "outlet": "kookje.co.kr",
+       "publishedAt": "2026-11-20T16:35:00+09:00"
+      },
+      {
+       "title": "美 양극재 양산 앞둔 LG화학···테네시 공장 안착 과제 떨어진 심규석",
+       "desc": "LG화학은 이달 5일 열린 3분기 실적발표 콘퍼런스콜에서 테네시 공장의 시험 양산을 진행하고 있고 연말까지 가동 준비를 마칠 계획이라고 밝혔다. 다만 실제 양산 시점은 고객사의 재고와 생산계획에…",
+       "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=425208",
        "naverUrl": "",
-       "outlet": "dealsite.co.kr",
-       "publishedAt": "2026-11-20T08:02:00+09:00"
+       "outlet": "sisajournal-e.com",
+       "publishedAt": "2026-11-20T16:34:00+09:00"
       },
       {
-       "title": "엔비디아마저 인정한 RAM 가격 폭등, PC 수요 짓누른다",
-       "desc": "엔비디아는 최근 발표한 분기 실적에서 매출 1,158억 달러를 기록했다고 밝혔다. 1년 전의 두 배를 넘는 규모다. 이 가운데 데이터센터 사업이 1,076억 달러를 차지했다. 갈수록 터무니없어지는…",
-       "url": "https://www.itworld.co.kr/article/4250906/엔비디아마저-인정한-ram-가격-폭등-pc-수요-짓누른다.html",
+       "title": "서울디지털대 문창과, 한 해 30여 명 작가 배출하는 비결은?",
+       "desc": "대학이 해마다 작가 배출 실적을 별도로 발표하는 것은 이례적인 일이다. 그렇다면 서울디지털대는 왜 매년 작가 배출 현황을 공개하는 것일까. 오봉옥 문예창작학과장의 답변은 거침없었다. \"문예창작학과…",
+       "url": "https://www.abcn.kr/news/articleView.html?idxno=94775",
        "naverUrl": "",
-       "outlet": "itworld.co.kr",
-       "publishedAt": "2026-11-20T08:02:00+09:00"
+       "outlet": "abcn.kr",
+       "publishedAt": "2026-11-20T16:34:00+09:00"
       },
       {
-       "title": "[GAM]'방산 전자' 톱픽 머큐리 시스템스 ② '팔란티어 효과' 67% 상승 예...",
-       "desc": "사상 최대 규모의 백로그와 실적 호조에도 주가 밸류에이션 부담과 실적 발표 이후 차익 실현 매물이 주가 상단을 누르고 있다는 진단이다. 올들어 주가가 강보합에 그쳤지만 최근 3년간 업체의 주가는…",
-       "url": "https://www.newspim.com/news/view/20261119000776",
+       "title": "앤트로픽 상장 돌풍…시장 기대만큼 가치 있을까",
+       "desc": "대부분의 기술 기업이 상장 직후, 특히 첫 분기 실적을 발표한 이후 주가가 하락하는 경향을 보인다. 그러나 메타, 아마존, 구글과 같은 기업들은 이 시기를 이겨내고 세계적인 대기업으로 자리잡았다.…",
+       "url": "https://www.bbc.com/korean/articles/cr1ewnj2wjxgo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
        "naverUrl": "",
-       "outlet": "newspim.com",
-       "publishedAt": "2026-11-20T08:01:00+09:00"
+       "outlet": "bbc.com",
+       "publishedAt": "2026-11-20T16:28:00+09:00"
       },
       {
-       "title": "\"독일 현지 가격보다 3000만원 싸다\"…벤츠의 '파격 승부수'",
-       "desc": "벤츠가 지난달 28일 공개한 공식 3분기 실적 발표에 따르면 벤츠의 지난 3분기 글로벌 승용 순수 전기차 판매량은 6만8400대로 전년 동기보다 61% 증가했다. 이는 분기 기준 역대 최대 실적이…",
-       "url": "https://www.hankyung.com/article/202611197666g",
-       "naverUrl": "https://n.news.naver.com/mnews/article/015/0005356188?sid=103",
-       "outlet": "hankyung.com",
-       "publishedAt": "2026-11-20T08:01:00+09:00"
-      },
-      {
-       "title": "[美증시 특징주] 中 이커머스 핀둬둬 11% 급등…매출 부진에도 수익성 ...",
-       "desc": "핀둬둬는 이날 2026 회계연도 3분기 실적을 발표했다. 총매출은 1083억4000만 위안, 조정 주당순이익(EPS)은 21.04위안이었다. 매출은 시장 예상치(1152억~1161억 위안)에 미달…",
-       "url": "https://www.mediapen.com/news/view/1138738",
+       "title": "[특징주] 이수페타시스 16% 폭락…실적 호조에도 목표가 줄하향에 '찬바...",
+       "desc": "이수페타시스가 지난 16일 발표한 3분기 실적에 따르면 매출액은 3892억원으로 전년 동기 대비 31.4% 증가했고, 영업이익은 949억원으로 62.4% 늘었다. 메리츠증권 양승수 연구원은 환율…",
+       "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8684",
        "naverUrl": "",
-       "outlet": "mediapen.com",
-       "publishedAt": "2026-11-20T07:58:00+09:00"
+       "outlet": "moneystorm.kr",
+       "publishedAt": "2026-11-20T16:22:00+09:00"
+      },
+      {
+       "title": "코스피, 美 반도체 수출규제 우려에 4860선 마감···양대 시장 매도 사...",
+       "desc": "엔비디아가 시장 예상치를 웃도는 실적을 발표했지만, 대규모 AI 인프라 투자에 필요한 자본지출과 부채조달 부담이 부각되면서 주가는 2.89% 하락했다. 호실적만으로 AI 산업의 투자 불확실성을 해…",
+       "url": "https://www.smartbizn.com/news/articleView.html?idxno=160149",
+       "naverUrl": "",
+       "outlet": "smartbizn.com",
+       "publishedAt": "2026-11-20T16:22:00+09:00"
       }
      ]
     },
     {
      "keyword": "반도체 업황",
-     "total": 212956,
+     "total": 213039,
      "items": [
       {
-       "title": "“반도체 가격 떨어져도 계약가 올랐다…비관론 정점”",
-       "desc": "최근 메모리 현물가격 하락이 반도체 업황 악화로 이어질 것이라는 우려에 대해서도 선을 그었다. 최근 한 달간 D램과 낸드 현물가격은 각각 5%, 20% 하락했지만 실제 반도체 업체의 실적에 영향을…",
-       "url": "https://www.edaily.co.kr/News/Read?newsId=01863046645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006412883?sid=101",
-       "outlet": "edaily.co.kr",
-       "publishedAt": "2026-11-20T07:48:00+09:00"
-      },
-      {
-       "title": "[마켓 프리뷰] 코스피 등락 끝 상승…앤트로픽 상장 이후 수급 촉각",
-       "desc": "55%↑ - 수출액 1조달러 미·독·중 달성 이후 세계 네 번째 - 올해 1∼10월 수출 중 반도체 비중 42.7% 차지... 5%↓ - 투자의견 '비중확대' 유지…\"메모리 업황 비관 지나쳐\" -…",
-       "url": "https://biz.sbs.co.kr/article_hub/20000347723?division=NAVER",
-       "naverUrl": "https://n.news.naver.com/mnews/article/374/0000544859?sid=104",
-       "outlet": "biz.sbs.co.kr",
-       "publishedAt": "2026-11-20T07:42:00+09:00"
-      },
-      {
-       "title": "[KFT 모닝 브리프] 2026.11.20 — 오늘 꼭 알아야 할 국내외 경제뉴스",
-       "desc": "반도체 업황이 꺾일 경우 이 그룹들에 대한 쏠림이 금융권의 부담으로 작용할 수 있다. ⑦ [정책·규제] 10대 그룹 내부거래 185조…쿠팡 첫 5위권 공정거래위원회가 19일 발표한 ‘2026년 공…",
-       "url": "https://www.fntimes.com/html/view.php?ud=20261120071256267141825007d_18",
+       "title": "삼성전자, 분기 이익 100조 시대…전영현·노태문 ‘투톱’ 체제 유지",
+       "desc": "반도체의 호황이 완제품에는 악재가 된 셈이다. 이 때문에 메모리 업황이 꺾이면 전사 실적도 함께 흔들릴 수 있다. 이번 인사에서 시스템LSI사업부장과 DS CTO를 사장급으로 올린 것도 메모리 의…",
+       "url": "https://www.asiatime.co.kr/article/20261120500343",
        "naverUrl": "",
-       "outlet": "fntimes.com",
-       "publishedAt": "2026-11-20T07:30:00+09:00"
+       "outlet": "asiatime.co.kr",
+       "publishedAt": "2026-11-20T16:34:00+09:00"
       },
       {
-       "title": "[마켓 뷰] 외국인 두 달 새 45조 '셀코리아'…반도체 실적도 못 막은 자...",
-       "desc": "한국 증시는 AI 반도체 투자 확대와 메모리 업황 개선에 힘입어 올해 상반기 가파른 상승세를 보였다. 특히 삼성전자와 SK하이닉스는 고대역폭메모리(HBM) 수요 확대와 메모리 가격 상승을 바탕으로…",
-       "url": "https://www.moneystorm.kr/news/articleView.html?idxno=8627",
+       "title": "'검은 금요일' 5000선 내준 코스피…개인 1.9조 '나홀로 방어'",
+       "desc": "증권가에서는 반도체 업황을 두고 신중론과 저가 매수론이 엇갈리고 있다. 메모리 가격 하락 전환 시 추가 조정이 불가피하다는 경계론이 나오는 반면, KB증권은 내년 D램 평균판매가격이 40%, 낸드…",
+       "url": "https://magazine.hankyung.com/business/article/202611200487b",
+       "naverUrl": "https://n.news.naver.com/mnews/article/050/0000113556?sid=101",
+       "outlet": "magazine.hankyung.com",
+       "publishedAt": "2026-11-20T16:28:00+09:00"
+      },
+      {
+       "title": "1.4조 SK하이닉스의 소부장 기술혁신 지원…'양산·수익성'에 따라 따로...",
+       "desc": "증권가는 메모리 업황 개선이 소부장 업계에도 긍정적으로 작용할 것으로 보고 있다. 하나증권은 이달 10일까지 메모리 반도체 영업일 평균 수출액이 전년 동월대비 215% 증가한 점에 주목하며, D램…",
+       "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305532",
        "naverUrl": "",
-       "outlet": "moneystorm.kr",
-       "publishedAt": "2026-11-20T07:28:00+09:00"
+       "outlet": "newsquest.co.kr",
+       "publishedAt": "2026-11-20T16:26:00+09:00"
       },
       {
-       "title": "엔비디아 피했더니…공매도 보고서에 '술렁' 美반도체 강자 [굿모닝 글...",
-       "desc": "현재 미국 빅테크 기업 실적에 따라 메모리 반도체 기업들의 업황이 전망되며 변동성이 커지고 있지만, 그래도 TSMC 같은 첨단 파운드리 기업은 상대적으로 안정적인 수익 구조를 가지고 있다는 평가를…",
-       "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200004&t=NN",
-       "naverUrl": "https://n.news.naver.com/mnews/article/215/0001273344?sid=101",
-       "outlet": "wowtv.co.kr",
-       "publishedAt": "2026-11-20T07:07:00+09:00"
+       "title": "오늘의 프리미엄9 콘텐츠 다이제스트(11월 20일)",
+       "desc": "미국 데이터센터의 서버용 메모리 수요는 여전히 견조하지만 중국발 수요 위축이 반도체 업황의 새로운 위험 요인으로 떠오르고 있다. 원문 링크 6. “어제 샀으면 14% 벌었네”…중국발 호재에 대박…",
+       "url": "https://www.hankyung.com/article/202611200441i",
+       "naverUrl": "https://n.news.naver.com/mnews/article/015/0005356394?sid=101",
+       "outlet": "hankyung.com",
+       "publishedAt": "2026-11-20T16:20:00+09:00"
       },
       {
-       "title": "[위클리 디지털포스트] 낸드 가격 낮춰도 거래 잠잠... 메모리 시장에 ...",
-       "desc": "약세가 업황 반전 의미하진 않아 <편집자주> 주 1회 발송되는 '디지털포스트 뉴스레터'를 간추려 전해드립니다. ☞뉴스레터 구독하기 [디지털포스트(PC사랑)=이백현 기자] 메모리 반도체 가격이 가파…",
-       "url": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61380",
+       "title": "코스피·코스닥 동반 매도 사이드카…‘검은 금요일’에 증시 패닉(종합...",
+       "desc": "시장에서는 단기적인 수급 불안을 넘어 반도체 업황과 금리, AI 투자 기업들의 수익성에 대한 불확실성이 해소돼야 증시가 추세적인 반등에 나설 수 있다는 전망이 나온다. 최현재 유안타증권 리서치센터…",
+       "url": "https://www.news2day.co.kr/article/20261120500248",
        "naverUrl": "",
-       "outlet": "ilovepc.co.kr",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "outlet": "news2day.co.kr",
+       "publishedAt": "2026-11-20T16:18:00+09:00"
       },
       {
-       "title": "[수출 1조달러 시대] 반도체 호황 꺾여도 1조달러 가능할까…수출 강국...",
-       "desc": "아세안 비중 늘었지만 공급망 위험은 여전 반도체 업황 변화에 따른 충격을 줄이려면 수출 품목과 시장을 함께 넓혀야 한다. 실제 한국의 수출시장은 미국과 중국 등 기존 주력 시장에서 아세안과 인도…",
-       "url": "http://www.inews24.com/view/2028377",
-       "naverUrl": "https://n.news.naver.com/mnews/article/031/0001076842?sid=101",
-       "outlet": "inews24.com",
-       "publishedAt": "2026-11-20T07:01:00+09:00"
+       "title": "무디스 \"삼성·SK하이닉스, 내년에도 AI 반도체 호황 지속\"",
+       "desc": "|중앙이코노미뉴스 송태원 기자|무디스 \"삼성·SK하이닉스, 내년에도 AI 반도체 호황 지속\". [사진=연합] 국제... 국내 철강업계에 대해서는 점진적인 업황 회복에 힘입어 실적이 개선될 것으로…",
+       "url": "https://www.joongangenews.com/news/articleView.html?idxno=565514",
+       "naverUrl": "",
+       "outlet": "joongangenews.com",
+       "publishedAt": "2026-11-20T16:18:00+09:00"
       },
       {
-       "title": "3달 새 51조 또 쌓였다…329조 현금 쥔 삼전·닉스, 지갑 어디에 열까",
-       "desc": "삼성전자 관계자는 \"내년도 기록적인 AI 투자의 장기화와 반도체 공급제약으로 반도체 업황 강세가 지속될 것으로 예상된다\"며 \"내년 1월 말 이사회에서 차기 주주환원 정책과 올해 잔여 재원의 최종…",
-       "url": "https://news.bizwatch.co.kr/article/industry/2026/11/19/0026",
-       "naverUrl": "https://n.news.naver.com/mnews/article/648/0000052812?sid=101",
-       "outlet": "bizwatch.co.kr",
-       "publishedAt": "2026-11-20T07:00:00+09:00"
+       "title": "삼성전자 사장 승진 모두 '반도체'에서 나왔다",
+       "desc": "이익 구조상 반도체 업황이 둔화하면 전사 실적도 영향을 받을 수 있다. 완제품 사업의 수익성을 높여 반도체에 집중된 이익 구조를 완화하는 일도 과제로 남았다. 전영현·노태문 대표는 각각 DS·DX…",
+       "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247746",
+       "naverUrl": "",
+       "outlet": "safetimes.co.kr",
+       "publishedAt": "2026-11-20T16:16:00+09:00"
+      },
+      {
+       "title": "LG화학, 김동춘 체제서 사업 전환 속도...석화 수익성·첨단소재 강화",
+       "desc": "같은 업황 사이클을 기대하기는 어렵다\"고 말했다. 업계 전반적으로 업황 회복을 기다리거나 물량 조정을... 반도체 세정용 아이소프로필알코올(IPA)과 전기차 타이어용 고기능성 합성고무(SSBR)가…",
+       "url": "https://www.thebigdata.co.kr/view.php?ud=2026112015453578030a47484cf8_23",
+       "naverUrl": "",
+       "outlet": "thebigdata.co.kr",
+       "publishedAt": "2026-11-20T16:12:00+09:00"
       }
      ]
     },
     {
      "keyword": "배터리 업계",
-     "total": 410420,
+     "total": 410501,
      "items": [
       {
-       "title": "[CEO 리더십] 정제마진 업은 SK이노베이션…'정승일 號' 신사업 승부수...",
-       "desc": "업계에서는 정승일 총괄사장이 공직·에너지 공기업에서 쌓은 정책적 식견과 네트워크를 토대로 SK그룹... 그동안 회사는 비핵심 자산 매각과 배터리 생산거점 효율화 등 재무 건전성을 다지는 '사업 재…",
-       "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301900",
+       "title": "‘AI 안경’만 문제가 아니었다…초소형 카메라·이어폰 판매처 찾아보...",
+       "desc": "업계에서는 실현 가능성이 불분명한 제품을 홍보하거나 부정행위를 시도하려는 수험생을 노린 사기성 판매... 카메라 판매업자 B 씨는 “초소형 위장 카메라나 쌀알 이어폰은 배터리가 작아 실제 오랜 기…",
+       "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513741",
        "naverUrl": "",
-       "outlet": "financialpost.co.kr",
-       "publishedAt": "2026-11-20T07:08:00+09:00"
+       "outlet": "ilyo.co.kr",
+       "publishedAt": "2026-11-20T16:38:00+09:00"
       },
       {
-       "title": "2000만 원대 ‘트윙고’로 중국 전기차 공습에 맞서는 르노",
-       "desc": "치솟는 중국차 시장점유율에 한동안 유럽 자동차업계는 위기감에 휩싸였다. 그리고 이제, 유럽 브랜드들도... 실속형 배터리, 차별화된 디자인 낮은 가격 전략의 기본은 생산비 절감이다. 트윙고 차체를…",
-       "url": "https://weekly.donga.com/3/all/11/6465358/1",
-       "naverUrl": "https://n.news.naver.com/mnews/article/037/0000039184?sid=101",
-       "outlet": "weekly.donga.com",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
-      },
-      {
-       "title": "K-배터리 3사, ESS가 실적 갈랐다…LG·삼성 ‘순항’- SK온은 ‘숨 고르...",
-       "desc": "배터리 업계는 최근 글로벌 에너지 전환 기조와 AI 산업 확산 속에서, 기존 전기차 배터리에서 벗어나 ESS 등 신규 시장으로 사업 범위를 넓혀 가고 있다. 특히 가파른 성장을 보이고 있는 ESS…",
-       "url": "https://www.ceoscoredaily.com/page/view/2026111915105368341",
+       "title": "포스코, '포스맥 실드' 등 전자파 차폐 소재로 AI 인프라 공략",
+       "desc": "철강업계가 반도체·AI 인프라 확대에 맞춰 특수 소재 개발에 나서는 것은 전통 제조업이 신산업 수요에... ESS 분야에서는 배터리 셀 케이스용 소재 'POCEL'을 통해 안정성을 강화하고 있다.…",
+       "url": "https://www.wikitree.co.kr/articles/1176375",
        "naverUrl": "",
-       "outlet": "ceoscoredaily.com",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "outlet": "wikitree.co.kr",
+       "publishedAt": "2026-11-20T16:32:00+09:00"
       },
       {
-       "title": "[더벨]효성중공업, 반도체 변압기 TF 신설…'패키지 수주' 노린다",
-       "desc": "특히 AI 데이터센터에 설치될 배터리 저장설비 규모도 2030년 20~25GW에 이를 수 있다고 봤다. 업계 관계자는 \"효성중공업은 22.9KV SST를 고도화하고 ESS를 연계해 AI 서버의 급…",
-       "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611181250263080109182",
+       "title": "포스코, 'AI 데센' 설계 단계부터 참여..맞춤형 철강 공급 전략",
+       "desc": "차폐강판 '포스맥 실드'·배터리 소재 ‘POCEL’ 앞세워 AIDC 공략의 대표 제품은... 성능도 업계에서 인정받았다. 포스코는 국내 통신사의 파주 AI 데이터센터에...",
+       "url": "http://www.breaknews.com/1252697",
        "naverUrl": "",
-       "outlet": "thebell.co.kr",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "outlet": "breaknews.com",
+       "publishedAt": "2026-11-20T16:26:00+09:00"
       },
       {
-       "title": "[LG의 신사업/③]LG엔솔, 전기차 배터리서 전력망용 ESS로",
-       "desc": "20일 관련업계에 따르면 미국 미시간주 살린 타운십에 들어설 오라클의 인공지능(AI) 데이터센터에는 LG에너지솔루션 배터리가 들어간다. 배터리를 발주한 곳은 현지 전력회사 DTE에너지다. LG에너…",
-       "url": "https://www.businessplus.kr/news/articleView.html?idxno=120163",
+       "title": "\"동박값 뛰는데 적자만 쌓여\"…K동박 3사, 흑자 전환 성패가를 무기는?",
+       "desc": "중국발 공급과잉으로 장기간 침체됐던 배터리용 동박 시장이 가격 반등과 수요 회복에 힘입어 전환점을... 20일 업계에 따르면 국내 주요 동박 업체인 솔루스첨단소재와 SK넥실리스, 롯데에너지머티리얼…",
+       "url": "https://www.econovill.com/news/articleView.html?idxno=758016",
        "naverUrl": "",
-       "outlet": "businessplus.kr",
-       "publishedAt": "2026-11-20T07:00:00+09:00"
+       "outlet": "econovill.com",
+       "publishedAt": "2026-11-20T16:18:00+09:00"
       },
       {
-       "title": "[N2 포커스] 지구 수십 바퀴 돈 4대 그룹 총수…해외 행보 키워드는 'AI ...",
-       "desc": "[그림=ChatGPT] ■ 이재용, AI 반도체 중심 고객 접점 확대 20일 업계에 따르면 이재용 삼성전자 회장의 올해... 전기차 배터리 사업 관련 협력 확대와 추가 수주 가능성을 논의한 것으로…",
-       "url": "https://www.news2day.co.kr/article/20261119500379",
+       "title": "기아 카렌스가 현대차로 탈바꿈…전기 SUV '네이라' 공개",
+       "desc": "20일 업계에 따르면 현대차는 이날 인도네시아에서 열린 2026 가이킨도 오토쇼(GAW 2026)에서 신차 네이라를... 배터리 용량은 42㎾h와 51.4㎾h 등 2종이다. 1회 충전 시 각각 최…",
+       "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427467",
        "naverUrl": "",
-       "outlet": "news2day.co.kr",
-       "publishedAt": "2026-11-20T06:32:00+09:00"
+       "outlet": "daily.hankooki.com",
+       "publishedAt": "2026-11-20T16:12:00+09:00"
       },
       {
-       "title": "국토부 \"전기차 배터리만 따로 리스\"…자동차관리법 개정 속도",
-       "desc": "정부가 전기차 차체와 배터리의 소유권을 나누는 '배터리 리스제' 도입을 위해 자동차관리법 개정에 속도를... 택시업계와의 갈등을 줄이기 위한 상생·지분참여 방안도 마련한다. 데이터 보안과 관련해서…",
-       "url": "https://www.fnnews.com/news/202611191909293736",
-       "naverUrl": "https://n.news.naver.com/mnews/article/014/0005607187?sid=101",
-       "outlet": "fnnews.com",
-       "publishedAt": "2026-11-20T06:30:00+09:00"
-      },
-      {
-       "title": "[단독] 11월 판매한다더니...한국GM 야심작 중국산 뷰익 E7, 계약 일정 지...",
-       "desc": "19일 업계에 따르면 엘렉트라 E7은 당초 이달 초 정식 계약을 시작할 예정이었지만 일정이 연기됐다. 한국GM... 국내 판매 차량은 중국 우한공장에서 생산되며, 배터리도 중국산이다. 국내에는 1…",
-       "url": "https://www.livebiz.today/news/articleView.html?idxno=206675",
+       "title": "LG화학, 김동춘 체제서 사업 전환 속도...석화 수익성·첨단소재 강화",
+       "desc": "20일 석화업계에 따르면 LG화학은 전날 2027년 정기 임원인사를 단행했다. 김동춘 사장은... 자회사 LG에너지솔루션의 에너지저장장치(ESS) 출하 확대와 전기차 배터리 판매 증가로 외형은 성…",
+       "url": "https://www.thebigdata.co.kr/view.php?ud=2026112015453578030a47484cf8_23",
        "naverUrl": "",
-       "outlet": "livebiz.today",
-       "publishedAt": "2026-11-20T06:00:00+09:00"
+       "outlet": "thebigdata.co.kr",
+       "publishedAt": "2026-11-20T16:12:00+09:00"
+      },
+      {
+       "title": "포스코, AI 데이터센터 전력 인프라 공략…미래소재 사업 확대",
+       "desc": "인공지능(AI) 데이터센터와 에너지저장장치(ESS) 시장이 성장하면서 철강업계의 소재 경쟁도 달라지고 있다. 건축 구조물과 설비의 내구성뿐 아니라 전력 효율과 전자파 차폐, 배터리 안전성까지 요구…",
+       "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=242059",
+       "naverUrl": "",
+       "outlet": "ezyeconomy.com",
+       "publishedAt": "2026-11-20T16:10:00+09:00"
+      },
+      {
+       "title": "장기불황 동박, AI 타고 날아오르나…회로박·전지박 반등 시동",
+       "desc": "미국은 배터리 원가의 40% 이상을 중국 등 금지외국기관(PFE)에서 조달할 경우 첨단제조생산세액공제(AMPC)를 주지 않고 이 상한을 2030년 15%까지 단계적으로 낮출 계획이다. 업계에서는…",
+       "url": "https://www.edaily.co.kr/News/Read?newsId=03624406645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006413232?sid=101",
+       "outlet": "edaily.co.kr",
+       "publishedAt": "2026-11-20T16:08:00+09:00"
       }
      ]
     },
     {
      "keyword": "유통업계",
-     "total": 448782,
+     "total": 448882,
      "items": [
       {
-       "title": "한한령 '빗장' 드디어 풀리나···K관광·유통 '대전환기' 온다",
-       "desc": "10년 가까이 이어진 한한령(限韓令·한류 제한령)의 빗장이 풀릴 수 있다는 기대감에 국내 관광·유통업계가 술렁이고 있다. 한중 양국이 자유무역협정(FTA) 서비스·투자 협상 타결을 선언하면서 중국…",
-       "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494604",
-       "naverUrl": "",
-       "outlet": "enewstoday.co.kr",
-       "publishedAt": "2026-11-20T08:00:00+09:00"
-      },
-      {
-       "title": "올리브영, AI로 '스크롤 없는 쇼핑'…온오프라인·국내외 연걸",
-       "desc": "이날 콘퍼런스의 키노트 세션에는 라잔 마니카바사감 구글 수석아키텍트, 김지홍 팔란티어코리아 대표 등이 연사로 참여해 온오프라인을 아우르는 유통업계 기술 혁신 사례를 공유했다. 이진희 올리브영...",
-       "url": "https://www.slist.kr/news/articleView.html?idxno=783252",
-       "naverUrl": "",
-       "outlet": "slist.kr",
-       "publishedAt": "2026-11-20T07:26:00+09:00"
-      },
-      {
-       "title": "코리아 그랜드 페스티벌, 할인 체감 22.8%뿐... \"할인 못 느꼈다\" 44.5% [...",
-       "desc": "정부와 유통업계가 소비 진작을 위해 진행한 '코리아 그랜드 페스티벌'에 대해 국민 10명 중 4명 이상이 할인 혜택을 체감하지 못한 것으로 나타났다. 긍정적인 평가는 20%대에 그쳤으며 행사를 이…",
-       "url": "https://www.meconomynews.com/news/articleView.html?idxno=203874",
+       "title": "화장품 유통·브랜드, 체험·전문화·AI로 경쟁무기 재편",
+       "desc": "유통업계는 매장 자체를 콘텐츠화하고, 브랜드들은 기존 판매 채널을 넘어 새로운 소비 환경에 진입하며 시장 경쟁력을 확보하려는 움직임을 보이고 있다. 카테고리 전문화·발견형 쇼핑 전환 전문화되고 있…",
+       "url": "https://www.meconomynews.com/news/articleView.html?idxno=203960",
        "naverUrl": "",
        "outlet": "meconomynews.com",
-       "publishedAt": "2026-11-20T07:10:00+09:00"
+       "publishedAt": "2026-11-20T16:40:00+09:00"
       },
       {
-       "title": "올리브영, 매장 재고 활용한 온라인 주문 운영",
-       "desc": "유통업계에서도 온라인 주문과 오프라인 점포를 연결하는 서비스가 운영되고 있다. GS리테일은 편의점과 슈퍼마켓 점포를 활용한 배달·상품 수령 서비스를 제공하고 있으며, 신세계와 이마트도 온라인 주문…",
-       "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211708",
+       "title": "패션·명품·가전 총출동…유통업계, 연말 ‘블프’ 쇼핑 대전 돌입",
+       "desc": "김경희 기자 | 연말 쇼핑 성수기인 블랙프라이데이 시즌을 맞아 유통업계의 할인 경쟁이 본격화하고 있다. 패션 플랫폼부터 가전·디지털 전문관, 명품 직구 서비스, 면세점까지 주요 업체들이 잇따라 대…",
+       "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html",
        "naverUrl": "",
-       "outlet": "lcnews.co.kr",
-       "publishedAt": "2026-11-20T07:00:00+09:00"
+       "outlet": "digitalchosun.dizzo.com",
+       "publishedAt": "2026-11-20T16:32:00+09:00"
       },
       {
-       "title": "AI 시대의 역설⋯연필 사고, 단추 없는 옷 찾고",
-       "desc": "유통업계 관계자는 “수능은 매년 반복되는 소비 행사지만 올해는 부정행위 방지 대책이 강화되면서 필기구뿐 아니라 의류까지 관련 수요가 나타나는 모습”이라고 말했다.",
-       "url": "https://www.etoday.co.kr/news/view/2650484",
+       "title": "\"GS25 매출 넘어라\"...민승배 CU 사장의 '마지막 미션'",
+       "desc": "취임 3년 성적표…외형 성장 이어 수익성 개선 20일 유통업계에 따르면 BGF그룹은 지난 13일 2027년 정기 임원인사를 통해 민승배 BGF리테일 대표를 사장으로 승진시켰다. 지난 2023년 1…",
+       "url": "https://zdnet.co.kr/view/?no=20261120160155",
+       "naverUrl": "https://n.news.naver.com/mnews/article/092/0002446260?sid=103",
+       "outlet": "zdnet.co.kr",
+       "publishedAt": "2026-11-20T16:31:00+09:00"
+      },
+      {
+       "title": "CJ올리브영, 옴니채널 경쟁력 글로벌 무대로 확장..‘디파인 옴니’ 성...",
+       "desc": "이들은 유통업계의 기술 활용 사례를 소개했다. CJ올리브영은 글로벌 시장 확대와 AI 활용을 향후 플랫폼 사업의 핵심 성장 방향으로 제시했다. 지역별 소비자 수요를 반영해 K뷰티와 K웰니스 상품의…",
+       "url": "https://kpenews.com/View.aspx?No=4322622",
        "naverUrl": "",
-       "outlet": "etoday.co.kr",
-       "publishedAt": "2026-11-20T06:54:00+09:00"
+       "outlet": "kpenews.com",
+       "publishedAt": "2026-11-20T16:28:00+09:00"
       },
       {
-       "title": "올리브영, 국내 옴니채널 노하우 글로벌로…쇼핑 AI 활용 확대",
-       "desc": "/사진=CJ올리브영 제공 IT업계 관계자와 연사 등 500여명이 참석했고, 라잔 마니카바사감(Rajan Manickavasagam) 구글 수석아키텍트와 김지홍 팔란티어코리아 대표도 키노트 연사로…",
-       "url": "https://www.socialvalue.kr/news/view/1065563443417110",
+       "title": "인태연 소진공 이사장, 포항 구룡포 상권 활성화 모색… 로컬브랜드·전...",
+       "desc": "이번 수상은 중소유통업계의 제품 안전관리 기반을 강화하고 소비자가 안심할 수 있는 구매 환경 조성에 기여한 성과를 인정받은 것이다. 소진공은 중소유통물류센터와 동네슈퍼를 연계한 위해상품 판매차단…",
+       "url": "https://www.viva100.com/article/20261120500826",
        "naverUrl": "",
-       "outlet": "socialvalue.kr",
-       "publishedAt": "2026-11-20T06:52:00+09:00"
+       "outlet": "viva100.com",
+       "publishedAt": "2026-11-20T16:28:00+09:00"
       },
       {
-       "title": "[K-양극화 초짠물소비] ① 마감 할인 노리고 더 싼 PB 찾는다",
-       "desc": "유통업계 관계자는 “국내 소비 시장은 하이엔드와 초저가로 극명하게 나뉘며 중간 가격대가 빠르게 사라지고 있다”이라며 “특히 믿을만한 전문 제조사가 많은 한국 특성상 가공식품, 생활용품, 화장품,…",
-       "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611181414063770645",
+       "title": "[거래소 기관] 한미약품 한화에어로스페이스 신세계 KB금융 하이브 '러...",
+       "desc": "소비심리 회복과 외국인 관광객 증가, 유통업계의 실적 개선 가능성 등이 투자 판단에 영향을 미친 것으로 풀이된다. 파라다이스도 순매수 상위권에 이름을 올리면서 외국인 관광객 유입과 카지노 및 호텔…",
+       "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506443",
        "naverUrl": "",
-       "outlet": "dnews.co.kr",
-       "publishedAt": "2026-11-20T06:22:00+09:00"
+       "outlet": "pinpointnews.co.kr",
+       "publishedAt": "2026-11-20T16:12:00+09:00"
       },
       {
-       "title": "\"수능 끝, 수험표 챙기세요\"…외식부터 놀이공원·영화관까지 '풍성'",
-       "desc": "2027학년도 대학수학능력시험(수능)이 끝나면서 외식·유통업계가 수험생을 겨냥한 할인 행사에 나섰다. 외식 메뉴 증정부터 영화관·놀이공원 입장료 할인까지 혜택도 다양하다. 일부 업체는 가족과 친구…",
-       "url": "https://www.news1.kr/industry/distribution/6359802",
-       "naverUrl": "https://n.news.naver.com/mnews/article/421/0009300426?sid=101",
-       "outlet": "news1.kr",
-       "publishedAt": "2026-11-20T06:10:00+09:00"
+       "title": "4500원→5200원...스타벅스, '부생카' 출시 11년만에 첫 가격 인상",
+       "desc": "20일 유통업계에 따르면, 스타벅스는 오는 24일부터 부드러운 생크림 카스텔라 가격을 기존 4500원에서 5200원으로 700원 올린다. 인상률은 15.6%다. 부드러운 생크림 카스텔라는 2015…",
+       "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732521",
+       "naverUrl": "",
+       "outlet": "ebn.co.kr",
+       "publishedAt": "2026-11-20T16:08:00+09:00"
+      },
+      {
+       "title": "기저귀 2만장 기부에 육아 봉사까지…한국P&G가 한부모 가정 찾은 이유",
+       "desc": "20일 유통업계에 따르면 한국P&G는 지난 19일 영유아용품 브랜드 팸퍼스의 기저귀 2만장을 구세군자선냄비에 기부했다. 기부 물품은 서울 서대문구에 있는 한부모가족복지시설 구세군두리홈을 비롯해 구…",
+       "url": "https://www.segye.com/newsView/20261120512120?OutUrl=naver",
+       "naverUrl": "https://n.news.naver.com/mnews/article/022/0004176848?sid=101",
+       "outlet": "segye.com",
+       "publishedAt": "2026-11-20T16:07:00+09:00"
       }
      ]
     },
     {
      "keyword": "플랫폼 규제",
-     "total": 561692,
+     "total": 561861,
      "items": [
       {
-       "title": "트럼프 행정부, 기업들에 중국산 AI 사용 공개 의무화 검토",
-       "desc": "새 규제로 산업계와 중국의 반발을 사지 않으면서 중국산 AI 의존을 줄이려는 이른바 '망신 주기(name-and-shame)... AI 마켓플레이스 플랫폼 오픈라우터에 따르면 10월 토큰 사용량…",
-       "url": "https://www.newspim.com/news/view/20261120000084",
+       "title": "美 로크웰, 오스트리아 AMR업체 애질록스 인수",
+       "desc": "AMR 플랫폼을 결합해 포괄적 자율 자재 운반 시스템을 구축할 것이라고 밝혔다. 이를 통해 애질록스는 동급... 로크웰 오토메이션은 이번 거래가 일반적인 거래 종결 조건 및 규제 당국의 승인을 거…",
+       "url": "https://www.irobotnews.com/news/articleView.html?idxno=49711",
        "naverUrl": "",
-       "outlet": "newspim.com",
-       "publishedAt": "2026-11-20T08:03:00+09:00"
+       "outlet": "irobotnews.com",
+       "publishedAt": "2026-11-20T16:42:00+09:00"
       },
       {
-       "title": "[美증시 특징주] 中 이커머스 핀둬둬 11% 급등…매출 부진에도 수익성 ...",
-       "desc": "무역 규제가 본격화되면서 테무가 포함된 거래 서비스 매출이 12% 역성장한 것이 발목을 잡았다. 매출이... 핀둬둬는 중국 내수 이커머스 플랫폼 '핀둬둬'와 글로벌 초저가 쇼핑 앱 '테무(Temu…",
-       "url": "https://www.mediapen.com/news/view/1138738",
-       "naverUrl": "",
-       "outlet": "mediapen.com",
-       "publishedAt": "2026-11-20T07:58:00+09:00"
+       "title": "로크웰 오토메이션, 로봇기업 애질록스 인수… “AMR 사업 2배 이상 확대...",
+       "desc": "거래는 관련 규제 당국의 승인을 거쳐 로크웰 오토메이션의 2027 회계연도 2분기에 완료될 예정이다. 인수를... 이번 인수를 통해 로크웰 오토메이션은 자사 산업용 AMR 플랫폼 OTTO에 애질록…",
+       "url": "https://biz.chosun.com/it-science/ict/2026/11/20/CA37WYIVKBD4JJICBMNUTBHLSQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+       "naverUrl": "https://n.news.naver.com/mnews/article/366/0001206307?sid=105",
+       "outlet": "biz.chosun.com",
+       "publishedAt": "2026-11-20T16:34:00+09:00"
       },
       {
-       "title": "AI가 정답을 쓰는 시대, 시험은 무엇을 물어야 하고 수험산업의 미래는...",
-       "desc": "고등교육의 품질과 기준을 관리·감독하는 호주 고등교육의 규제기관 TEQSA(Tertiary... 학교·학원·학습의 플랫폼에 공급할 수 있다. [수험 연관산업]…학습 진단·구술...",
-       "url": "http://www.breaknews.com/1252487",
+       "title": "14일간 심장박동 추적하는 웨어러블 패치, 호주서 임상시험 돌입",
+       "desc": "소프트웨어 플랫폼에 통합할 계획이다. 이를 통해 환자가 여러 의료기관을 방문하며 검사를 받아야 하는... 연구팀은 임상시험 결과를 바탕으로 기기를 개선하고 향후 규제기관의 의료기기 승인을 추진할…",
+       "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626625",
        "naverUrl": "",
-       "outlet": "breaknews.com",
-       "publishedAt": "2026-11-20T07:50:00+09:00"
+       "outlet": "mdtoday.co.kr",
+       "publishedAt": "2026-11-20T16:30:00+09:00"
       },
       {
-       "title": "문페이, 美연방 신탁은행 인가 신청…스테이블코인 사업 확장",
-       "desc": "트럼프 행정부에서 디지털자산 산업에 우호적인 규제 환경이 조성되면서 가상자산 기업들의 은행 인가... 문페이의 플랫폼은 다양한 디지털 금융 서비스 제공업체와 탈중앙화금융(DeFi) 플랫폼, 암호화…",
-       "url": "https://www.edaily.co.kr/News/Read?newsId=01758086645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-       "naverUrl": "https://n.news.naver.com/mnews/article/018/0006412876?sid=101",
-       "outlet": "edaily.co.kr",
-       "publishedAt": "2026-11-20T07:23:00+09:00"
+       "title": "로크웰 오토메이션, 자율이동로봇 기업 '애질록스' 인수 계약 체결",
+       "desc": "이번 인수를 통해 로크웰 오토메이션은 OTTO 평판형 AMR 플랫폼과 애질록스의 지게차형 AMR 제품군을 결합... 이번 인수는 관련 규제 당국의 승인과 거래 종결 조건 충족을 거쳐 로크웰 오토메…",
+       "url": "https://www.mfgkr.com/news/articleView.html?idxno=28510",
+       "naverUrl": "",
+       "outlet": "mfgkr.com",
+       "publishedAt": "2026-11-20T16:28:00+09:00"
       },
       {
-       "title": "[LG CNS 인사] 배민 부사장 승진… 금융·제조·컨설팅 수장 교체",
-       "desc": "임 상무는 로봇프로세스자동화(RPA) 플랫폼팀장을 지냈다. 이후 생성형 AI 분야로 이동해 관련 사업을... 이 이사는 과학기술정보통신부 규제심사위원회와 산업통상자원부 전략기획투자협의회 등에서도.…",
-       "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083412",
+       "title": "앤트로픽 상장 돌풍…시장 기대만큼 가치 있을까",
+       "desc": "투자 및 거래 플랫폼 '삭소 UK'의 투자 전략가인 닐 윌슨은 \"명확한 비교 대상이 없다\"고 설명했다. 따라서... 우선 AI 도구 사용을 규제하는 새로운 법률의 도입 가능성이다. 앤트로픽이 자리…",
+       "url": "https://www.bbc.com/korean/articles/cr1ewnj2wjxgo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
        "naverUrl": "",
-       "outlet": "newsclaim.co.kr",
-       "publishedAt": "2026-11-20T07:08:00+09:00"
+       "outlet": "bbc.com",
+       "publishedAt": "2026-11-20T16:28:00+09:00"
       },
       {
-       "title": "축제 경품 기프티콘, 이틀 만에 골목 매출로 돌아왔다",
-       "desc": "기프티콘 플랫폼 '동네선물:동선'을 운영한다. 그동안 큰 프랜차이즈만 갖고 있던 기프티콘을 동네 카페나... 검토나 규제특례 활용 가능성까지 관계기관과 살펴보겠다고 했다. \"지역에서 발생한 커피박…",
-       "url": "https://platum.kr/archives/298894",
+       "title": "장현국호 2년, 액션스퀘어·선릉→넥써쓰·과천→원(ONE)·부산",
+       "desc": "개편하며 플랫폼 기업으로의 전환에 속도를 내고 있다. 액션스퀘어와 크로쓰, 서울 선릉에서 출발한... 회사는 앞으로 부산의 게임 산업 기반과 블록체인 규제자유특구, AI 데이터센터 인프라를 활용해…",
+       "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027762",
        "naverUrl": "",
-       "outlet": "platum.kr",
-       "publishedAt": "2026-11-20T07:06:00+09:00"
+       "outlet": "nbntv.co.kr",
+       "publishedAt": "2026-11-20T16:26:00+09:00"
       },
       {
-       "title": "[더벨][지스타 2026] 원, 부산에 새 둥지 \"대형 M&A 지속할 것\"",
-       "desc": "부산의 게임 인프라와 블록체인 규제자유특구, AI 데이터센터를 발판 삼아 ‘AI·블록체인 게임 플랫폼'을 완성하겠다는 구상이다. 공격적인 인수합병(M&A) 기조도 이어간다. 걷기 보상 서비스 슈퍼…",
-       "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611191502249880106515",
-       "naverUrl": "",
-       "outlet": "thebell.co.kr",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "title": "레이어제로, 싱가포르서 블록체인 간 송금 실증 참여",
+       "desc": "권한, 규제 요건 충족 여부를 확인하는 방식이다. 레이어제로는 19일(현지시간) 싱가포르 핀테크... 시연은 프랑스 금융기관이 싱가포르 금융기관에 돈을 보내는 상황을 가정해 시험용 블록체인 플랫폼…",
+       "url": "https://www.news1.kr/finance/blockchain-fintech/6361125",
+       "naverUrl": "https://n.news.naver.com/mnews/article/421/0009301903?sid=101",
+       "outlet": "news1.kr",
+       "publishedAt": "2026-11-20T16:25:00+09:00"
       },
       {
-       "title": "메일침프, 36억8000만달러에 매각 합의…인수가 3분의 1 밑돌아",
-       "desc": "인튜이트(Intuit, $INTU)가 이메일 마케팅 플랫폼 메일침프를 이탈리아 기술기업 벤딩스푼스(Bending Spoons... 거래는 규제 승인 등 통상적인 종결 조건을 거쳐 2027년 초 마…",
-       "url": "https://www.tokenpost.kr/news/breaking/441125",
-       "naverUrl": "",
-       "outlet": "tokenpost.kr",
-       "publishedAt": "2026-11-20T06:40:00+09:00"
+       "title": "센스톤, 텍사스 수도 사이버 방어 사업 참여",
+       "desc": "보안 규제 대응 역량을 인정받고 있다. 자체 인공지능(AI) 기반 OT 보안 분석 플랫폼 'ccSentinel'을 통한 정밀 진단 역량도 인정받고 있다. 프로젝트에서 파트너사들은 보안 진단부터 현…",
+       "url": "https://zdnet.co.kr/view/?no=20261120162328",
+       "naverUrl": "https://n.news.naver.com/mnews/article/092/0002446258?sid=105",
+       "outlet": "zdnet.co.kr",
+       "publishedAt": "2026-11-20T16:24:00+09:00"
       }
      ]
     },
     {
      "keyword": "공정거래위원회 제재",
-     "total": 155631,
+     "total": 155645,
      "items": [
       {
-       "title": "[배달앱 제재 이후] 배민·쿠팡, 점유율 싸움에 깎인 이익…과징금까지...",
-       "desc": "배달앱 제재 사상 최대 규모의 과징금까지 부과받으며 이중고에 직면했다. 공정거래위원회(공정위)는 두 사업자가 시장지배적 지위를 이용해 점주들의 가격 결정권을 박탈했다고 판단했지만 업계에선 상위 사…",
-       "url": "https://dealsite.co.kr/articles/173090",
+       "title": "112억원 과징금 불복에 400만원 배상도 거부…벤츠 향한 싸늘한 반응",
+       "desc": "벤츠코리아의 이번 결정은 앞서 진행된 공정거래위원회 제재에 대한 대응과도 맞물려 있다. 공정위는 지난 3월 배터리 제조사 정보 제공 문제를 소비자 기만행위로 판단해 벤츠코리아에 112억3900만원…",
+       "url": "https://thedrive.co.kr/news/newsview.php?ncode=1065598495951759",
        "naverUrl": "",
-       "outlet": "dealsite.co.kr",
-       "publishedAt": "2026-11-20T07:04:00+09:00"
+       "outlet": "thedrive.co.kr",
+       "publishedAt": "2026-11-20T16:42:00+09:00"
       },
       {
-       "title": "[Invest]\"상장사 2200곳 정보가 겨우 6800만원\"…헐값 DB에 의존하는 국민...",
-       "desc": "이와 별개로 선정된 업체는 금융감독원의 분식회계로 제재를 받은 내역 ▲공정거래위원회의 제재내역을 기재해야 한다. 최초 공고일자로부터 수 개월이 지난 시점에 수의계약이 이뤄졌기 때문에 선정된 업체는…",
-       "url": "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980192.html",
+       "title": "바디프랜드 구원투수 최철진도 역부족…현금 고갈 속 임기 만료 임박",
+       "desc": "매년 제재를 받은 것으로 나타났다. 2023년 11월에는 한국인터넷진흥원으로부터 광고성 문자 스팸 신고와 관련해 과태료 600만원을 부과받았다. 이듬해 11월에는 부당 표시행위로 공정거래위원회로부…",
+       "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51433",
        "naverUrl": "",
-       "outlet": "investchosun.com",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "outlet": "1conomynews.co.kr",
+       "publishedAt": "2026-11-20T16:24:00+09:00"
       },
       {
-       "title": "2차 피해 확인 안 됐는데…쿠팡 유출 과징금 4236억 유지",
-       "desc": "쿠팡은 6월 제재 발표 직후 고객에게 사과했다. 그러면서도 2차 피해를 막으려고 먼저 취한 조치와 회사... 공정거래위원회는 지난 9일 쿠팡이츠가 입점업체에 다른 배달앱과 같거나 더 유리한 거래…",
-       "url": "https://www.segye.com/newsView/20261120501325?OutUrl=naver",
-       "naverUrl": "https://n.news.naver.com/mnews/article/022/0004176717?sid=101",
-       "outlet": "segye.com",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
-      },
-      {
-       "title": "[Invest]담합 근절 외친 정부, 국채시장 작동 원리는 들여다봤나",
-       "desc": "이재명 대통령이 엑스(X)에 국고채 입찰 담합 사건에 대한 공정거래위원회의 제재 결과를 공유하며 \"앞으로 입찰담합 꿈도 꾸지 말라\"고 강조했다. 공정위도 국고채 입찰 담합으로 정부 재정에 손실을…",
-       "url": "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980191.html",
+       "title": "벤츠, 배터리 제조사 잘못 안내하고도 배상안 거부…차주 142명 소송으로",
+       "desc": "메르세데스-벤츠코리아가 전기차 배터리 제조사 정보를 제대로 알리지 않아 공정거래위원회로부터 112억원대 과징금 제재를 받은 데 이어 소비자들에게 내려진 5억6800만원 규모의 배상 조정도 거부했다…",
+       "url": "https://www.thepowernews.co.kr/view.php?ud=202611201356539355de3f0aa1be_7",
        "naverUrl": "",
-       "outlet": "investchosun.com",
-       "publishedAt": "2026-11-20T07:02:00+09:00"
+       "outlet": "thepowernews.co.kr",
+       "publishedAt": "2026-11-20T16:14:00+09:00"
       },
       {
-       "title": "[Invest]1.6조 과징금 부과한 공정위도 부담…국고채 줄소송, 패소 땐 이...",
-       "desc": "국고채 입찰 담합에 역대 최대 규모의 과징금을 부과한 공정거래위원회도 향후 이어질 법적 공방에서 적지... 메리츠증권이 행정소송 방침을 공식화한 가운데 금융투자협회도 제재의 문제점과 과징금 산정의…",
-       "url": "https://www.investchosun.com/site/data/html_dir/2026/11/19/2026111980187.html",
+       "title": "공정위 점검 비웃듯 또 '강매 의혹'…투썸 조사, 칼라일 김종윤 대표 향...",
+       "desc": "다시 공정거래위원회의 도마위에 올랐다. 지난 2023년 말 가맹점협의회의 공정위 신고와 상생협약 체결... 현재 법적·행정적 제재의 1차 대상은 투썸플레이스 법인과 상근 경영진인 문영주 대표이사…",
+       "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68138",
        "naverUrl": "",
-       "outlet": "investchosun.com",
-       "publishedAt": "2026-11-20T07:00:00+09:00"
+       "outlet": "newsroad.co.kr",
+       "publishedAt": "2026-11-20T15:44:00+09:00"
       },
       {
-       "title": "[데스크시각] 쿠팡과 배민의 한계",
-       "desc": "개인정보보호위원회 과징금 6247억원, 공정거래위원회 과징금 약 3008억원 등 올해 쿠팡이 떠안은 과징금... 쿠팡과 배민 모두 최혜대우 요구로 공정위 제재를 받았고 국회에는 배달앱 수수료 상한…",
-       "url": "https://www.bloter.net/news/articleView.html?idxno=678999",
-       "naverUrl": "https://n.news.naver.com/mnews/article/293/0000093568?sid=110",
-       "outlet": "bloter.net",
-       "publishedAt": "2026-11-20T06:30:00+09:00"
-      },
-      {
-       "title": "서스틴베스트 “담합기업, 준법장치 더 잘 갖춰”",
-       "desc": "공정거래위원회로부터 담합 제재를 받은 기업의 자체 준법시스템 도입률이 제재를 받지 않은 기업보다 오히려 높다는 조사 결과가 나왔다. 제도를 갖췄음에도 실제 준법경영이 이뤄지지 않고 있어 실효성을.…",
-       "url": "https://www.joongang.co.kr/article/25480307",
-       "naverUrl": "https://n.news.naver.com/mnews/article/025/0003566590?sid=101",
-       "outlet": "joongang.co.kr",
-       "publishedAt": "2026-11-20T00:02:00+09:00"
-      },
-      {
-       "title": "김홍국 이끄는 하림지주, 담합 과징금 대법원행",
-       "desc": "공정거래위원회·하림지주 공개 자료에 따르면 공정위가 마니커의 육계 신선육 담합 과징금 납부명령 취소 판결에 불복해 상고했디. 이에따라 대법원 판단을 기다리는 사업자는 8곳으로 늘었다. 제재 이후…",
-       "url": "https://www.the-today.com/news/articleView.html?idxno=93843",
+       "title": "삼성증권, 3분기 실적 호조 속 공정위 과징금 1189억 미반영 '눈길'",
+       "desc": "제재 결과 발표 때 감면 여부는 대외에 공개되지 않는다. 삼성증권 관계자는 \"아직까지 공정거래위원회 의결서를 받지 못해 과징금을 반영하지 않은 것\"이라며 리니언시 적용 여부에 대해서는 “드릴 말씀…",
+       "url": "https://www.topdaily.kr/articles/113033",
        "naverUrl": "",
-       "outlet": "the-today.com",
-       "publishedAt": "2026-11-19T23:48:00+09:00"
+       "outlet": "topdaily.kr",
+       "publishedAt": "2026-11-20T15:22:00+09:00"
+      },
+      {
+       "title": "[경제, 알고 보면] 편의점 1+1, '덤' 하나의 값은 누가 치르나",
+       "desc": "공정거래위원회가 2023년 10월 30일 내놓은 '유통·납품업체 간 공동 판촉행사 비용 분담규정 개선방안'에 따라... 사후 제재를 강화하기로 했다. 제조사에게 1+1은 '시음 비용' 그럼에도 제…",
+       "url": "https://www.polinews.co.kr/news/articleView.html?idxno=748857",
+       "naverUrl": "",
+       "outlet": "polinews.co.kr",
+       "publishedAt": "2026-11-20T14:46:00+09:00"
+      },
+      {
+       "title": "삼성증권, 국고채 과징금 1189억 면제 전망…호실적 속 고배당 매력 '부...",
+       "desc": "삼성증권이 국고채 입찰 담합 제재에 따른 1189억원 규모의 과징금을 전액 면제받을 것으로 관측되면서... 20일 금융투자업계에 따르면 공정거래위원회는 지난 11일 국고채 입찰 과정에서 담합한 증…",
+       "url": "http://www.beyondpost.co.kr/view.php?ud=202611201406408500be44c0aacd_30",
+       "naverUrl": "",
+       "outlet": "beyondpost.co.kr",
+       "publishedAt": "2026-11-20T14:44:00+09:00"
+      },
+      {
+       "title": "한화솔루션 등 태양광 기업 조사받아..공정위, 담합 의혹 추적",
+       "desc": "20일 업계에 따르면 공정거래위원회는 이날 한화솔루션과 HD현대에너지솔루션, 한솔테크닉스 등을 대상으로... 한편 이재명 대통령은 앞서 담합과 가격조작을 국민에게 피해를 주는 중대범죄로 규정하고…",
+       "url": "https://kpenews.com/View.aspx?No=4322263",
+       "naverUrl": "",
+       "outlet": "kpenews.com",
+       "publishedAt": "2026-11-20T13:48:00+09:00"
       }
      ]
     }
