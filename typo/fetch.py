@@ -248,13 +248,56 @@ def list_candidates(start, end):
     return found
 
 
+def auto_window(now):
+    """예약 실행: 실행 시각으로 회차와 범위를 정한다. 주말이면 None."""
+    if now.weekday() >= 5:
+        return None
+    day = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    if now.hour < 12:
+        back = 3 if now.weekday() == 0 else 1
+        slot, start, end = 1, day - timedelta(days=back) + timedelta(hours=17), day + timedelta(hours=10)
+    elif now.hour < 15:
+        slot, start, end = 2, day + timedelta(hours=10), day + timedelta(hours=13)
+    else:
+        slot, start, end = 3, day + timedelta(hours=13), day + timedelta(hours=17)
+    return f"r_{day:%Y%m%d}_{slot}", start, end
+
+
+def previous_articles(rid, limit=5):
+    """앞선 두 회차 결과 파일에서 다시 확인할 기사(번호와 bodyHash)를 고른다."""
+    if not os.path.isdir("data/typo"):
+        return {}
+    names = sorted(n for n in os.listdir("data/typo") if re.fullmatch(r"r_\d{8}_\d\.json", n) and n < f"{rid}.json")[-2:]
+    picked = {}
+    for name in reversed(names):
+        try:
+            with open(os.path.join("data/typo", name), encoding="utf-8") as f:
+                prev = json.load(f)
+        except (OSError, ValueError):
+            continue
+        for a in sorted(prev.get("articles", []), key=lambda x: x.get("publishedAt") or "", reverse=True):
+            if a.get("ok") and a["idxno"] not in picked and len(picked) < limit:
+                picked[a["idxno"]] = a.get("bodyHash")
+    return picked
+
+
 def main():
     rid = os.environ.get("TYPO_ID", "").strip()
-    if not re.fullmatch(r"[A-Za-z0-9_-]{1,60}", rid):
-        sys.exit("TYPO_ID 형식이 올바르지 않습니다")
-    start = parse_iso(os.environ["TYPO_START"])
-    end = parse_iso(os.environ["TYPO_END"])
-    extra = [int(x) for x in re.findall(r"\d+", os.environ.get("TYPO_EXTRA", ""))][:5]
+    prev_hash = {}
+    if not rid:
+        w = auto_window(datetime.now(KST))
+        if w is None:
+            print("주말이라 실행하지 않습니다")
+            return
+        rid, start, end = w
+        prev_hash = previous_articles(rid)
+        extra = list(prev_hash)
+    else:
+        if not re.fullmatch(r"[A-Za-z0-9_-]{1,60}", rid):
+            sys.exit("TYPO_ID 형식이 올바르지 않습니다")
+        start = parse_iso(os.environ["TYPO_START"])
+        end = parse_iso(os.environ["TYPO_END"])
+        extra = [int(x) for x in re.findall(r"\d+", os.environ.get("TYPO_EXTRA", ""))][:5]
     out = {"id": rid, "windowStart": start.isoformat(), "windowEnd": end.isoformat(),
            "collectedAt": datetime.now(KST).isoformat(timespec="seconds"),
            "articles": [], "skipped": [], "errors": [], "blocked": False}
@@ -287,6 +330,11 @@ def main():
                 out["skipped"].append({"idxno": idx, "reason": "범위 밖", "publishedAt": a["publishedAt"]})
                 continue
             a["inWindow"] = in_window
+            if not in_window and idx in prev_hash:
+                if prev_hash[idx] == a["bodyHash"]:
+                    out["skipped"].append({"idxno": idx, "reason": "앞 회차와 같음(수정 없음)"})
+                    continue
+                a["recheck"] = True
             out["articles"].append(a)
     except Blocked as e:
         out["blocked"] = True

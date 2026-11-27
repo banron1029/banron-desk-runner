@@ -1,7 +1,10 @@
 name: 오타 체크 원문 수집
-run-name: 오타 체크 원문 ${{ inputs.id }}
+run-name: 오타 체크 원문 ${{ inputs.id || '예약 실행' }}
 
 on:
+  schedule:
+    # 한국시간 평일 10:01, 13:01, 17:01 (UTC로 적는다). 회차와 범위는 스크립트가 실행 시각으로 정한다
+    - cron: "1 1,4,8 * * 1-5"
   workflow_dispatch:
     inputs:
       id:
@@ -40,13 +43,15 @@ jobs:
         run: python3 typo/fetch.py
       - name: 결과 저장
         if: always()
+        env:
+          RUN_LABEL: ${{ inputs.id || '예약 실행' }}
         run: |
           if [ ! -d data/typo ]; then echo "결과 없음"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A data/typo
           if git diff --cached --quiet; then echo "바뀐 내용 없음"; exit 0; fi
-          git commit -m "오타 체크 원문 ${{ inputs.id }}"
+          git commit -m "오타 체크 원문 $RUN_LABEL"
           for i in 1 2 3 4; do
             if git push; then exit 0; fi
             git pull --rebase
