@@ -1,0 +1,54 @@
+name: 오타 체크 원문 수집
+run-name: 오타 체크 원문 ${{ inputs.id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      id:
+        description: 요청 id (예 r_20261127_1)
+        required: true
+      start:
+        description: 범위 시작 ISO (+09:00)
+        required: true
+      end:
+        description: 범위 끝 ISO (+09:00, 미포함)
+        required: true
+      extra:
+        description: 다시 받을 기사 번호(쉼표 구분, 선택)
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: typo-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: 원문 수집 (2초 간격)
+        env:
+          TYPO_ID: ${{ inputs.id }}
+          TYPO_START: ${{ inputs.start }}
+          TYPO_END: ${{ inputs.end }}
+          TYPO_EXTRA: ${{ inputs.extra }}
+        run: python3 typo/fetch.py
+      - name: 결과 저장
+        if: always()
+        run: |
+          if [ ! -d data/typo ]; then echo "결과 없음"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data/typo
+          if git diff --cached --quiet; then echo "바뀐 내용 없음"; exit 0; fi
+          git commit -m "오타 체크 원문 ${{ inputs.id }}"
+          for i in 1 2 3 4; do
+            if git push; then exit 0; fi
+            git pull --rebase
+          done
+          exit 1
