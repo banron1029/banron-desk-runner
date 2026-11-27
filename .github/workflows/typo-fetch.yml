@@ -9,14 +9,17 @@ on:
   workflow_dispatch:
     inputs:
       id:
-        description: 요청 id (예 r_20261127_1)
-        required: true
+        description: 요청 id (예 r_20261127_1). 비우면 예약 실행처럼 오늘 끝난 회차 중 빠진 것을 모두 받는다
+        required: false
+        default: ""
       start:
-        description: 범위 시작 ISO (+09:00)
-        required: true
+        description: 범위 시작 ISO (+09:00, id를 줄 때만)
+        required: false
+        default: ""
       end:
-        description: 범위 끝 ISO (+09:00, 미포함)
-        required: true
+        description: 범위 끝 ISO (+09:00, 미포함, id를 줄 때만)
+        required: false
+        default: ""
       extra:
         description: 다시 받을 기사 번호(쉼표 구분, 선택)
         required: false
