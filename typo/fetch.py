@@ -256,18 +256,22 @@ def list_candidates(start, end):
     return found
 
 
+# 회차: 실행 시각(한국시간) 기준. 10시 실행은 직전 평일 18시~10시, 이후 2시간마다 직전 2시간
+SLOTS = [(12, 1), (14, 2), (16, 3), (18, 4), (24, 5)]
+
+
 def auto_window(now):
     """예약 실행: 실행 시각으로 회차와 범위를 정한다. 주말이면 None."""
     if now.weekday() >= 5:
         return None
     day = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    if now.hour < 12:
+    slot = next(n for h, n in SLOTS if now.hour < h)
+    if slot == 1:
         back = 3 if now.weekday() == 0 else 1
-        slot, start, end = 1, day - timedelta(days=back) + timedelta(hours=17), day + timedelta(hours=10)
-    elif now.hour < 15:
-        slot, start, end = 2, day + timedelta(hours=10), day + timedelta(hours=13)
+        start, end = day - timedelta(days=back) + timedelta(hours=18), day + timedelta(hours=10)
     else:
-        slot, start, end = 3, day + timedelta(hours=13), day + timedelta(hours=17)
+        end_h = 8 + 2 * slot          # 2→12, 3→14, 4→16, 5→18
+        start, end = day + timedelta(hours=end_h - 2), day + timedelta(hours=end_h)
     return f"r_{day:%Y%m%d}_{slot}", start, end
 
 
