@@ -34,12 +34,14 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - name: 원문 수집 (2초 간격)
+      - name: 원문 수집 (2초 간격) · 다른 매체 검색
         env:
           TYPO_ID: ${{ inputs.id }}
           TYPO_START: ${{ inputs.start }}
           TYPO_END: ${{ inputs.end }}
           TYPO_EXTRA: ${{ inputs.extra }}
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python3 typo/fetch.py
       - name: 결과 저장
         if: always()

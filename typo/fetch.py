@@ -342,6 +342,13 @@ def main():
     except Exception as e:  # noqa: BLE001
         out["errors"].append({"error": str(e)[:300]})
     out["requests"] = requests_made[0]
+    # 팩트 체크용: 같은 소식을 다룬 다른 매체 기사(네이버 뉴스 검색, 반론보도닷컴 사이트 접속 아님)
+    try:
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import related
+        out["naverCalls"] = related.attach_related(out["articles"], out["errors"])
+    except Exception as e:  # noqa: BLE001
+        out["errors"].append({"error": "다른 매체 검색 실패: " + str(e)[:200]})
 
     os.makedirs("data/typo", exist_ok=True)
     with open(f"data/typo/{rid}.json", "w", encoding="utf-8") as f:
