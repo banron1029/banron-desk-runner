@@ -261,18 +261,21 @@ SLOTS = [(12, 1), (14, 2), (16, 3), (18, 4), (24, 5)]
 
 
 def auto_window(now):
-    """예약 실행: 실행 시각으로 회차와 범위를 정한다. 주말이면 None."""
-    if now.weekday() >= 5:
+    """예약 실행: 지금까지 끝난 가장 최근 회차와 범위를 정한다. 주말이거나 10시 전이면 None.
+
+    GitHub 예약 실행은 늦거나 빠질 수 있어 30분마다 돌고, 이미 받은 회차는 건너뛴다.
+    """
+    if now.weekday() >= 5 or now.hour < 10:
         return None
     day = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    slot = next(n for h, n in SLOTS if now.hour < h)
+    end_h = min(18, 10 + 2 * ((now.hour - 10) // 2))   # 10,12,14,16,18
+    slot = (end_h - 8) // 2                              # 1..5
     if slot == 1:
         back = 3 if now.weekday() == 0 else 1
-        start, end = day - timedelta(days=back) + timedelta(hours=18), day + timedelta(hours=10)
+        start = day - timedelta(days=back) + timedelta(hours=18)
     else:
-        end_h = 8 + 2 * slot          # 2→12, 3→14, 4→16, 5→18
-        start, end = day + timedelta(hours=end_h - 2), day + timedelta(hours=end_h)
-    return f"r_{day:%Y%m%d}_{slot}", start, end
+        start = day + timedelta(hours=end_h - 2)
+    return f"r_{day:%Y%m%d}_{slot}", start, day + timedelta(hours=end_h)
 
 
 def previous_articles(rid, limit=5):
@@ -293,23 +296,8 @@ def previous_articles(rid, limit=5):
     return picked
 
 
-def main():
-    rid = os.environ.get("TYPO_ID", "").strip()
-    prev_hash = {}
-    if not rid:
-        w = auto_window(datetime.now(KST))
-        if w is None:
-            print("주말이라 실행하지 않습니다")
-            return
-        rid, start, end = w
-        prev_hash = previous_articles(rid)
-        extra = list(prev_hash)
-    else:
-        if not re.fullmatch(r"[A-Za-z0-9_-]{1,60}", rid):
-            sys.exit("TYPO_ID 형식이 올바르지 않습니다")
-        start = parse_iso(os.environ["TYPO_START"])
-        end = parse_iso(os.environ["TYPO_END"])
-        extra = [int(x) for x in re.findall(r"\d+", os.environ.get("TYPO_EXTRA", ""))][:5]
+def collect_one(rid, start, end, extra, prev_hash):
+    req0 = requests_made[0]
     out = {"id": rid, "windowStart": start.isoformat(), "windowEnd": end.isoformat(),
            "collectedAt": datetime.now(KST).isoformat(timespec="seconds"),
            "articles": [], "skipped": [], "errors": [], "blocked": False}
@@ -353,7 +341,7 @@ def main():
         out["errors"].append({"error": f"사이트 접속 제한으로 중단: {e}"})
     except Exception as e:  # noqa: BLE001
         out["errors"].append({"error": str(e)[:300]})
-    out["requests"] = requests_made[0]
+    out["requests"] = requests_made[0] - req0
     # 팩트 체크용: 같은 소식을 다룬 다른 매체 기사(네이버 뉴스 검색, 반론보도닷컴 사이트 접속 아님)
     try:
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -365,13 +353,49 @@ def main():
     os.makedirs("data/typo", exist_ok=True)
     with open(f"data/typo/{rid}.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
+    print(f"{rid}: 기사 {len(out['articles'])}건 · 목록 {out.get('listed', 0)}건 · 접속 {out['requests']}회 · 오류 {len(out['errors'])}건")
+    return out
+
+
+def due_windows(now):
+    """오늘(평일) 이미 끝난 회차 전부. 늦거나 빠진 예약 실행을 다음 실행이 메운다."""
+    if now.weekday() >= 5 or now.hour < 10:
+        return []
+    out = []
+    for h in range(10, now.hour + 1, 2):
+        if h > 18:
+            break
+        out.append(auto_window(now.replace(hour=h, minute=0, second=0, microsecond=0)))
+    return out
+
+
+def main():
+    rid = os.environ.get("TYPO_ID", "").strip()
+    if not rid:
+        todo = [w for w in due_windows(datetime.now(KST)) if not os.path.exists(f"data/typo/{w[0]}.json")]
+        if not todo:
+            print("받을 회차가 없습니다(주말·10시 전이거나 이미 받음)")
+            return
+        for wid, start, end in todo:
+            prev_hash = previous_articles(wid)
+            out = collect_one(wid, start, end, list(prev_hash), prev_hash)
+            if out["blocked"]:
+                break
+    else:
+        if not re.fullmatch(r"[A-Za-z0-9_-]{1,60}", rid):
+            sys.exit("TYPO_ID 형식이 올바르지 않습니다")
+        start = parse_iso(os.environ["TYPO_START"])
+        end = parse_iso(os.environ["TYPO_END"])
+        extra = [int(x) for x in re.findall(r"\d+", os.environ.get("TYPO_EXTRA", ""))][:5]
+        collect_one(rid, start, end, extra, {})
     # 오래된 결과 정리
     cutoff = (datetime.now(KST) - timedelta(days=KEEP_DAYS)).strftime("%Y%m%d")
     for name in os.listdir("data/typo"):
         m = re.search(r"_(\d{8})_", name)
         if name.endswith(".json") and m and m.group(1) < cutoff:
             os.remove(os.path.join("data/typo", name))
-    print(f"기사 {len(out['articles'])}건 · 목록 {out.get('listed', 0)}건 · 접속 {out['requests']}회 · 오류 {len(out['errors'])}건")
+
+
 
 
 if __name__ == "__main__":
