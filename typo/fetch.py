@@ -154,6 +154,7 @@ class ArticleParser(HTMLParser):
             self.paras.append(re.sub(r"\s+", " ", data).strip())
 
 
+JUNK = re.compile(r"\$\(function|addEventListener|copyToClipboard|ImageViewer|^다른기사 보기$")
 NOISE = re.compile(r"(무단전재|재배포 금지|저작권자|Copyright|@[A-Za-z0-9.-]+\.(?:com|kr|net))")
 
 
@@ -175,7 +176,14 @@ def extract(idxno, page):
         mm = re.search(r"수정\s*(\d{4})\.(\d{2})\.(\d{2})\s+(\d{2}):(\d{2})", page)
         if mm:
             mod = "%s-%s-%sT%s:%s:00+09:00" % mm.groups()
-    paras = [t for t in p.paras if not NOISE.search(t) or len(t) > 80]
+    paras = [t for t in p.paras if (not NOISE.search(t) or len(t) > 80) and not JUNK.search(t)]
+    # 본문 끝의 '관련기사' 이후(관련기사 목록·기자 이름·다른기사 보기)는 버린다
+    for i, t in enumerate(paras):
+        if t in ("관련기사", "다른기사 보기"):
+            paras = paras[:i]
+            break
+    if paras and re.fullmatch(r"[가-힣]{2,4}\s?(기자|특파원|객원기자)", paras[-1]):
+        paras = paras[:-1]
     caps = [t for t in p.captions]
     # 본문 안 △ 문단은 사진 설명으로 옮긴다
     for t in list(paras):
